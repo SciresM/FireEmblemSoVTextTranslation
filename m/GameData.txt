@@ -4,39 +4,39 @@ MESS_ARCHIVE_GameData
 Message Name: Message
 
 
-MCID_RULE_敵全滅: 敵全滅
-MCID_RULE_敵将撃破: 敵将撃破
-MBID_その他: その他
-MBID_謎の軍: 謎の軍
-MBID_アルム軍: アルム軍
-MBID_セリカ軍: セリカ軍
-MBID_ミラ教団: ミラ教団
-MBID_リゲル帝国軍: リゲル帝国軍
-MBID_ソフィア王国軍: 王国軍
-MBID_ドーマ教団: ドーマ教団
-MBID_ギース軍: ギース軍
-MBID_ソフィア解放軍: 解放軍
-MBID_魔物: 魔物
-MBID_海賊: 海賊
-MBID_盗賊: 盗賊
-MBID_幽霊: スペクター
+MCID_RULE_敵全滅: Rout the Enemy
+MCID_RULE_敵将撃破: Defeat Commander
+MBID_その他: Other
+MBID_謎の軍: Mystery Army
+MBID_アルム軍: Alm's Army
+MBID_セリカ軍: Celica's Army
+MBID_ミラ教団: Order of Mila
+MBID_リゲル帝国軍: Rigel Army
+MBID_ソフィア王国軍: Zofian Army
+MBID_ドーマ教団: Order of Duma
+MBID_ギース軍: Grieth's Army
+MBID_ソフィア解放軍: Deliverance
+MBID_魔物: Terrors
+MBID_海賊: Pirates
+MBID_盗賊: Bandits
+MBID_幽霊: Specters
 MBID_屍兵: 死者の仮面
-MBID_幻影兵: 幻影兵
-MBID_竜族: 竜の眷属
-MBID_H_その他: その他\nその他の勢力
-MBID_H_謎の軍: 謎の軍\n所属不明の勢力
-MBID_H_アルム軍: アルム軍\nアルムが率いる勢力
-MBID_H_セリカ軍: セリカ軍\nセリカが率いる勢力
-MBID_H_ミラ教団: ミラ教団\nミラを信仰する教団
-MBID_H_リゲル帝国軍: リゲル帝国軍\nリゲル帝国の正規部隊
-MBID_H_ソフィア王国軍: 王国軍\nソフィア王国の正規部隊
-MBID_H_ドーマ教団: ドーマ教団\nドーマを信仰する教団
-MBID_H_ギース軍: ギース軍\n盗賊王ギースの勢力
-MBID_H_ソフィア解放軍: 解放軍\nソフィア解放軍の勢力
-MBID_H_魔物: 魔物\n恐ろしい魔物たちの勢力
-MBID_H_海賊: 海賊\n海賊たちの勢力
-MBID_H_盗賊: 盗賊\n盗賊たちの勢力
-MBID_H_幽霊: スペクター\n何者かに縛られた魂
-MBID_H_屍兵: 死者の仮面\n闇を彷徨う呪われし存在
-MBID_H_幻影兵: 幻影兵\n魔力で生み出される幻影
-MBID_H_竜族: 竜の眷属\n太古より存在する種族
+MBID_幻影兵: Illusory Soldiers
+MBID_竜族: Dragon Clan
+MBID_H_その他: Other\nUnaffiliated forces.
+MBID_H_謎の軍: Mysterious Army\nForces with unknown allegiance.
+MBID_H_アルム軍: Alm's army\nForces led by Alm.
+MBID_H_セリカ軍: Celica's Army\nForces led by Celica.
+MBID_H_ミラ教団: Order of Mila\nA group that follows Mila.
+MBID_H_リゲル帝国軍: Rigel Empire's Army\nAn organized unit from Rigel.
+MBID_H_ソフィア王国軍: Zofian Army\nAn organized unit from Zofia.
+MBID_H_ドーマ教団: Order of Duma\nA group that follows Duma.
+MBID_H_ギース軍: Grieth's Army\nThe bandit king Grieth's forces.
+MBID_H_ソフィア解放軍: Deliverance Army\nThe forces of the Deliverance.
+MBID_H_魔物: Terrors\nA force of horrifying creatures.
+MBID_H_海賊: Pirates\nA force of pirates.
+MBID_H_盗賊: Bandits\nA force of Thieves.
+MBID_H_幽霊: Specters\nSouls controlled by someone.
+MBID_H_屍兵: 死者の仮面\nSouls cursed to wander the darkness.
+MBID_H_幻影兵: Illusory Soldiers\nIllusions born by magic.
+MBID_H_竜族: Dragon Clan\nA tribe that has lived since antiquity.

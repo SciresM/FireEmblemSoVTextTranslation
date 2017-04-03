@@ -4,15 +4,15 @@ MESS_ARCHIVE_GMap
 Message Name: Message
 
 
-MID_GMAP_N人: $a$a0人
-MID_GMAP_軍団戦力: 軍団戦力
-MID_GMAP_部隊数: 部隊数
-MID_GMAP_入る: 入る
-MID_GMAP_メニュー: メニュー
-MID_GMAP_移動: 移動
-MID_GMAP_戦闘警告: 敵の部隊がいます。戦いますか？
-MID_GMAP_侵入警告: $a$a0に入りますか？
-MID_GMAP_増援通知: $a$a0に\n$a1があらわれた！
+MID_GMAP_N人: $a$a0
+MID_GMAP_軍団戦力: Rating
+MID_GMAP_部隊数: Units
+MID_GMAP_入る: Enter
+MID_GMAP_メニュー: Menu
+MID_GMAP_移動: Move
+MID_GMAP_戦闘警告: There is an enemy army here. Will you fight?
+MID_GMAP_侵入警告: $aEnter $a0?
+MID_GMAP_増援通知: $a$a1 appeared at\n$a0!
 MID_GMAP_COMMENT_ラムの村: バレンシア大陸の\n南端部に位置する、\n辺境の小さな村。
 MID_GMAP_COMMENT_ラムの林: 緑豊かな林。\nラムの村に至る\nひっそりとした\n細い道が通っている。
 MID_GMAP_COMMENT_盗賊の森: 鬱蒼とした少し暗い森。\n近年は盗賊が\n多く出没するため\n森の中を抜ける街道の\n通行には危険が伴う。

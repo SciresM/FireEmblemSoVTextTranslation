@@ -4,94 +4,94 @@ MESS_ARCHIVE_Config
 Message Name: Message
 
 
-MID_CONFIG_オフ: オフ
-MID_CONFIG_オン: オン
-MID_CONFIG_戦闘アニメ: 戦闘アニメ
-MID_CONFIG_戦闘アニメ_オフ: オフ
-MID_CONFIG_戦闘アニメ_オン: オン
-MID_CONFIG_戦闘アニメ_人間ユニット: 自ユニット
-MID_CONFIG_戦闘アニメ_人間ターン: 自ターン
-MID_H_CONFIG_戦闘アニメ_オフ: 戦闘アニメを表示しません
-MID_H_CONFIG_戦闘アニメ_オン: 戦闘アニメを表示します
-MID_H_CONFIG_戦闘アニメ_人間ユニット: 自軍が戦闘に参加する時のみ戦闘アニメを表示します
-MID_H_CONFIG_戦闘アニメ_人間ターン: 自軍のターンの時のみ戦闘アニメを表示します
-MID_CONFIG_補助アニメ: 補助アニメ
-MID_CONFIG_補助アニメ_オフ: オフ
-MID_CONFIG_補助アニメ_オン: オン
-MID_CONFIG_補助アニメ_人間ユニット: 自ユニット
-MID_CONFIG_補助アニメ_人間ターン: 自ターン
-MID_H_CONFIG_補助アニメ_オフ: 補助アニメを表示しません
-MID_H_CONFIG_補助アニメ_オン: 補助アニメを表示します
-MID_H_CONFIG_補助アニメ_人間ユニット: 自軍が戦闘に参加する時のみ補助アニメを表示します
-MID_H_CONFIG_補助アニメ_人間ターン: 自軍のターンの時のみ補助アニメを表示します
-MID_CONFIG_戦闘予測タイプ: 戦闘予測タイプ
-MID_CONFIG_戦闘予測タイプ_標準: 標準
-MID_CONFIG_戦闘予測タイプ_簡易: 簡易
-MID_H_CONFIG_戦闘予測タイプ_標準: 標準的な戦闘予測を表示します
-MID_H_CONFIG_戦闘予測タイプ_簡易: 簡易的な戦闘予測を表示します
-MID_CONFIG_ゲームスピード: ゲームスピード
-MID_CONFIG_ゲームスピード_普通: 普通
-MID_CONFIG_ゲームスピード_速い: 速い
-MID_H_CONFIG_ゲームスピード_普通: 移動等のゲーム進行スピードを普通程度にします
-MID_H_CONFIG_ゲームスピード_速い: 移動等のゲーム進行スピードを速くします
-MID_CONFIG_会話自動送り: 会話自動送り
-MID_H_CONFIG_会話自動送り_オフ: 会話のページ送りをボタンで行います
-MID_H_CONFIG_会話自動送り_オン: 会話のページ送りを自動で行います
-MID_CONFIG_ＡＩ: ＡＩのスキップ
-MID_CONFIG_ＡＩ_オフ: オフ
-MID_CONFIG_ＡＩ_オン: オン
-MID_H_CONFIG_ＡＩ_オフ: 敵軍、友軍、号令中の行動を全て表示します
-MID_H_CONFIG_ＡＩ_オン: 敵軍、友軍、号令中の行動を全て表示しません
-MID_CONFIG_命令継続: 号令の継続
-MID_CONFIG_命令継続_オフ: オフ
-MID_CONFIG_命令継続_オン: オン
-MID_CONFIG_命令継続_手動: 手動
-MID_H_CONFIG_命令継続_オフ: 自軍ターン開始時に号令を継続しません
-MID_H_CONFIG_命令継続_オン: 自軍ターン開始時に号令を継続します
-MID_H_CONFIG_命令継続_手動: 自軍ターン開始時に号令を再確認します
-MID_CONFIG_スライドパッド: スライドパッド
-MID_CONFIG_スライドパッド_アナログ: アナログ
-MID_CONFIG_スライドパッド_デジタル: デジタル
-MID_H_CONFIG_スライドパッド_アナログ: スライドパッド操作特有の滑らかな動きをします
-MID_H_CONFIG_スライドパッド_デジタル: 十字ボタン操作のようなやや角ばった動きをします
-MID_CONFIG_オートカーソル: 自動カーソル
-MID_CONFIG_オートカーソル_オフ: オフ
-MID_CONFIG_オートカーソル_オン: オン
-MID_H_CONFIG_オートカーソル_オフ: ターン開始時、カーソルは前ターン終了時のままです
-MID_H_CONFIG_オートカーソル_オン: ターン開始時、自動的に主人公にカーソルを合わせます
-MID_CONFIG_オートターンエンド: 自動ターン終了
-MID_CONFIG_オートターンエンド_オフ: オフ
-MID_CONFIG_オートターンエンド_オン: オン
-MID_H_CONFIG_オートターンエンド_オフ: 「終了」コマンドを選ぶまで自軍ターンを終了しません
-MID_H_CONFIG_オートターンエンド_オン: 全員が行動すると自動でターンを終了します
-MID_CONFIG_ＨＰゲージ: ＨＰゲージ
-MID_CONFIG_ＨＰゲージ_オフ: オフ
-MID_CONFIG_ＨＰゲージ_オン: オン
-MID_H_CONFIG_ＨＰゲージ_オフ: ＨＰゲージを表示しません
-MID_H_CONFIG_ＨＰゲージ_オン: ＨＰゲージを表示します
-MID_CONFIG_グリッド: グリッド
-MID_H_CONFIG_グリッド_オン: マップ上にグリッドを表示します
-MID_H_CONFIG_グリッド_オフ: マップ上にグリッドを表示しません
-MID_CONFIG_カメラ左右回転: カメラの左右回転
-MID_CONFIG_カメラ上下回転: カメラの上下回転
-MID_CONFIG_反転_オフ: ノーマル
-MID_CONFIG_反転_オン: リバース
-MID_H_CONFIG_反転_オフ: 入力と同じ方向にカメラを回転します
-MID_H_CONFIG_反転_オン: 入力と逆方向にカメラを回転します
-MID_CONFIG_音量BGM: ＢＧＭ音量
-MID_H_CONFIG_音量BGM: ＢＧＭの音量を調整します
-MID_CONFIG_音量SE: ＳＥ音量
-MID_H_CONFIG_音量SE: システムＳＥ以外のＳＥの音量を調整します
-MID_CONFIG_音量SysSE: システムＳＥ音量
-MID_H_CONFIG_音量SysSE: システムＳＥの音量を調整します
-MID_CONFIG_音量ボイス: ボイス音量
-MID_H_CONFIG_音量ボイス: ボイスの音量を調整します
-MID_CONFIG_ボイス再生: 会話イベントボイス
-MID_H_CONFIG_ボイス再生_オン: 会話イベント中のボイスを再生します
-MID_H_CONFIG_ボイス再生_オフ: 会話イベント中のボイスを再生しません
-MID_CONFIG_スピーカーモード: スピーカーモード
-MID_H_CONFIG_スピーカーモード_オン: 本体スピーカーにあわせた音声出力設定にします
-MID_H_CONFIG_スピーカーモード_オフ: 本体スピーカーにあわせた音声出力設定にしません
-MID_CONFIG_BGM: BGM変更
-MID_H_CONFIG_BGM: $aマップ、バトルBGMを「$a0」に変更します
-MID_CONFIG_BGM_NAME_OVER: …
+MID_CONFIG_オフ: Off
+MID_CONFIG_オン: On
+MID_CONFIG_戦闘アニメ: Combat Animations
+MID_CONFIG_戦闘アニメ_オフ: Off
+MID_CONFIG_戦闘アニメ_オン: On
+MID_CONFIG_戦闘アニメ_人間ユニット: Your Units
+MID_CONFIG_戦闘アニメ_人間ターン: Your Turn
+MID_H_CONFIG_戦闘アニメ_オフ: Do not show any combat animations.
+MID_H_CONFIG_戦闘アニメ_オン: Show all combat animations.
+MID_H_CONFIG_戦闘アニメ_人間ユニット: Only show animations involving your units.
+MID_H_CONFIG_戦闘アニメ_人間ターン: Only show animations during your turn.
+MID_CONFIG_補助アニメ: Other Animations
+MID_CONFIG_補助アニメ_オフ: Off
+MID_CONFIG_補助アニメ_オン: On
+MID_CONFIG_補助アニメ_人間ユニット: Your Units
+MID_CONFIG_補助アニメ_人間ターン: Your Turn
+MID_H_CONFIG_補助アニメ_オフ: Do not show staff and other animations.
+MID_H_CONFIG_補助アニメ_オン: Show staff and other animations.
+MID_H_CONFIG_補助アニメ_人間ユニット: Only show animations involving your units.
+MID_H_CONFIG_補助アニメ_人間ターン: Only show animations during your turn.
+MID_CONFIG_戦闘予測タイプ: Battle Forecast
+MID_CONFIG_戦闘予測タイプ_標準: Standard
+MID_CONFIG_戦闘予測タイプ_簡易: Simple
+MID_H_CONFIG_戦闘予測タイプ_標準: Show standard battle forecasts.
+MID_H_CONFIG_戦闘予測タイプ_簡易: Show simple battle forecasts.
+MID_CONFIG_ゲームスピード: Game Speed
+MID_CONFIG_ゲームスピード_普通: Normal
+MID_CONFIG_ゲームスピード_速い: Fast
+MID_H_CONFIG_ゲームスピード_普通: Set game flow (movement, etc.) to normal.
+MID_H_CONFIG_ゲームスピード_速い: Set game flow (movement, etc.) to fast.
+MID_CONFIG_会話自動送り: Auto-Play
+MID_H_CONFIG_会話自動送り_オフ: Conversations proceed when a button is pressed.
+MID_H_CONFIG_会話自動送り_オン: Conversations proceed automatically.
+MID_CONFIG_ＡＩ: Skip Actions
+MID_CONFIG_ＡＩ_オフ: Off
+MID_CONFIG_ＡＩ_オン: On
+MID_H_CONFIG_ＡＩ_オフ: Show all actions for units you don't control.
+MID_H_CONFIG_ＡＩ_オン: Skip all actions for units you don't control.
+MID_CONFIG_命令継続: Continue Orders
+MID_CONFIG_命令継続_オフ: Off
+MID_CONFIG_命令継続_オン: On
+MID_CONFIG_命令継続_手動: Manual
+MID_H_CONFIG_命令継続_オフ: Cancel orders at the start of player phase.
+MID_H_CONFIG_命令継続_オン: Continue orders until canceled.
+MID_H_CONFIG_命令継続_手動: Confirm orders at the start of player phase.
+MID_CONFIG_スライドパッド: Circle Pad
+MID_CONFIG_スライドパッド_アナログ: Analog
+MID_CONFIG_スライドパッド_デジタル: Digital
+MID_H_CONFIG_スライドパッド_アナログ: Move the cursor freely and smoothly.
+MID_H_CONFIG_スライドパッド_デジタル: Limit the cursor to rigid, precise movement.
+MID_CONFIG_オートカーソル: Cursor Memory
+MID_CONFIG_オートカーソル_オフ: Off
+MID_CONFIG_オートカーソル_オン: On
+MID_H_CONFIG_オートカーソル_オフ: Start each turn with the cursor where you left it.
+MID_H_CONFIG_オートカーソル_オン: Start each turn with the cursor on your leader.
+MID_CONFIG_オートターンエンド: Smart End
+MID_CONFIG_オートターンエンド_オフ: Off
+MID_CONFIG_オートターンエンド_オン: On
+MID_H_CONFIG_オートターンエンド_オフ: Turn does not end until End is selected.
+MID_H_CONFIG_オートターンエンド_オン: Turn ends after all your units have taken action.
+MID_CONFIG_ＨＰゲージ: HP Gauges
+MID_CONFIG_ＨＰゲージ_オフ: Off
+MID_CONFIG_ＨＰゲージ_オン: On
+MID_H_CONFIG_ＨＰゲージ_オフ: Do not display HP gauges.
+MID_H_CONFIG_ＨＰゲージ_オン: Display HP gauges.
+MID_CONFIG_グリッド: Grid
+MID_H_CONFIG_グリッド_オン: Show a grid on the map.
+MID_H_CONFIG_グリッド_オフ: Do not show a grid on the map.
+MID_CONFIG_カメラ左右回転: Horizontal Pan
+MID_CONFIG_カメラ上下回転: Vertical Pan
+MID_CONFIG_反転_オフ: Normal
+MID_CONFIG_反転_オン: Reverse
+MID_H_CONFIG_反転_オフ: Camera pans in the direction you input.
+MID_H_CONFIG_反転_オン: Camera pans in the direction opposite from input.
+MID_CONFIG_音量BGM: Music Volume
+MID_H_CONFIG_音量BGM: Adjust the volume of music.
+MID_CONFIG_音量SE: SFX Volume
+MID_H_CONFIG_音量SE: Adjust the volume of nonsystem sound effects.
+MID_CONFIG_音量SysSE: System Volume
+MID_H_CONFIG_音量SysSE: Adjust the volume of system sound effects.
+MID_CONFIG_音量ボイス: Voice Volume
+MID_H_CONFIG_音量ボイス: Adjust the volume of voices.
+MID_CONFIG_ボイス再生: Story Voices
+MID_H_CONFIG_ボイス再生_オン: Play voice during story scenes.
+MID_H_CONFIG_ボイス再生_オフ: Do not play voice during story scenes.
+MID_CONFIG_スピーカーモード: Speaker Mode
+MID_H_CONFIG_スピーカーモード_オン: Optimize sound output for system speakers.
+MID_H_CONFIG_スピーカーモード_オフ: Do not optimize sound output for system speakers.
+MID_CONFIG_BGM: Change BGM
+MID_H_CONFIG_BGM: $aSet background music to $a0.
+MID_CONFIG_BGM_NAME_OVER: ...

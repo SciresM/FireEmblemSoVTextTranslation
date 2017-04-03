@@ -4,15 +4,15 @@ MESS_ARCHIVE_TextEdit
 Message Name: Message
 
 
-MID_TEXTEDIT_ひらがな: かな
-MID_TEXTEDIT_カタカナ: カナ
-MID_TEXTEDIT_漢字: 漢字
+MID_TEXTEDIT_ひらがな: Hiragana
+MID_TEXTEDIT_カタカナ: Katakana
+MID_TEXTEDIT_漢字: Kanji
 MID_TEXTEDIT_英数字: ABC
-MID_TEXTEDIT_ハングル: 韓
-MID_TEXTEDIT_一字削除: 削除
-MID_TEXTEDIT_文字未入力: 文字が入力されていません。
-MID_TEXTEDIT_文字警告: 表示制限を受ける文字列、または数字が\n入力した名前に含まれているため、通信相手に\nそのまま表示されない場合があります。\n決定してもよろしいですか？
-MID_TEXTEDIT_文字警告_錬成: 表示制限を受ける文字列、または数字が\n入力した名前に含まれているため、通信相手に\nそのまま表示されない場合があります。\n決定してもよろしいですか？
-MID_TEXTEDIT_文字禁止: 表示制限を受ける文字列が含まれています。\nまたは、数字が５文字より多く含まれています。\n入力をやりなおしてください。
-MID_TEXTEDIT_名前確認: この名前は通信によって\n他のプレイヤーに公開されます。\n決定してもよろしいですか？
-MID_TEXTEDIT_メッセージ確認: このメッセージは通信によって\n他のプレイヤーに公開されます。\n決定してもよろしいですか？
+MID_TEXTEDIT_ハングル: Chinese
+MID_TEXTEDIT_一字削除: Del
+MID_TEXTEDIT_文字未入力: Please enter at least 1 character.
+MID_TEXTEDIT_文字警告: This name contains words that others\nmay find offensive, or it contains numerals.\nIt may not be viewable by other users.\nProceed with this name?
+MID_TEXTEDIT_文字警告_錬成: This name contains numerals, or it\ncontains words that others may find\noffensive. It may not be viewable by\nother users. Proceed with this name?
+MID_TEXTEDIT_文字禁止: This contains inappropriate\nlanguage and cannot be used.\nYou can enter up to five digits.
+MID_TEXTEDIT_名前確認: This name may be seen by others\nthrough wireless communications.\nProceed?
+MID_TEXTEDIT_メッセージ確認: This message may be seen by others\nthrough wireless communications.\nProceed?

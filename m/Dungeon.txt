@@ -5,26 +5,26 @@ Message Name: Message
 
 
 MID_DNGTT1: $t0$Wmアルム|0$w0|$Wsアルム|$Wa$SvpV_SC_1_11_TT1_00|$E怒,|敵がどこに潜んでいるかわからないな……\n慎重に進もう。$k
-MID_DNG_メニュー: メニュー
-MID_DNG_ダッシュ: ダッシュ
-MID_DNG_攻撃: 攻撃
-MID_DNG_移動: 移動
-MID_DNG_一方通行: こちらからは開けられない
-MID_DNG_封鎖扉: 扉は固く閉ざされている
-MID_DNG_盾入手確認: 盾を取りますか？
-MID_DNG_ヘルプ_飛び降り: 降りる
-MID_DNG_飛び降り確認: 下の階層へ進みますか？
-MID_DNG_入手: $a$a0を手に入れた
-MID_DNG_所持限界: これ以上持てません
-MID_DNG_見る: 石碑を見る
-MID_DNG_調べる: 調べる
-MID_DNG_覗く: 聖なる井戸を覗く
-MID_DNG_開ける: 扉を開ける
-MID_DNG_拾う: $a$a0を拾う
-MID_DNG_敵がいる: （敵の気配を感じる…）
-MID_DNG_敵がいる_確認: 先に進みますか？
+MID_DNG_メニュー: Menu
+MID_DNG_ダッシュ: Dash
+MID_DNG_攻撃: Attack
+MID_DNG_移動: Move
+MID_DNG_一方通行: Can't open from this side.
+MID_DNG_封鎖扉: The door is tightly locked.
+MID_DNG_盾入手確認: Take shield?
+MID_DNG_ヘルプ_飛び降り: Descend
+MID_DNG_飛び降り確認: Move to lower floor?
+MID_DNG_入手: $aObtained $a0!
+MID_DNG_所持限界: Can't hold anymore.
+MID_DNG_見る: View monument
+MID_DNG_調べる: Examine
+MID_DNG_覗く: Peer into well
+MID_DNG_開ける: Open door
+MID_DNG_拾う: $aPick up $a0
+MID_DNG_敵がいる: (There are enemies nearby...)
+MID_DNG_敵がいる_確認: Press onward?
 MID_DNG_移動_確認: 転移の魔法陣があります。\n利用しますか？
-MID_DNG_脱出_確認: ダンジョンから脱出します。\nよろしいですか？
+MID_DNG_脱出_確認: Do you wish to\nleave the dungeon?
 MID_DNG_テーベの地下迷宮: テーベの地下迷宮
 MID_DNG_テーベの地下迷宮_２階: テーベの地下迷宮\n地下２階
 MID_DNG_テーベの地下迷宮_３階: テーベの地下迷宮\n地下３階
@@ -39,7 +39,7 @@ MID_DNG_森のほこら_看板: 「宝を求める者よ\n　力無くば去る�
 MID_DNG_森のほこら_宝箱トラップ: 後ろで何か音がした…
 MID_DNG_恐山のほこら_ドーマ像_初回: $Z「汝、力を持つ者か？\n　ならば我に示してみよ」$k
 MID_DNG_恐山のほこら_ドーマ像_二回目以降: $Z「我に力を示すのだ」$k
-MID_DNG_恐山のほこら_ドーマ像_確認: 戦いを挑みますか？
+MID_DNG_恐山のほこら_ドーマ像_確認: Begin battle?
 MID_DNG_恐山のほこら_ドーマ像_勝利: $Z「見事なり」$k$p「先の門を開き\n　さらなる力を求めるがよい」$k
 MID_DNG_恐山のほこら_ドーマ像_撃破済み: $Z「先の門を開き\n　さらなる力を求めるがよい」$k
 MID_DNG_恐山のほこら_看板１: 「神の像に力を示すとき\n　地獄の門は開かれる」

@@ -9,13 +9,13 @@ MID_ADV_C_エスト1_2: $SbpBGM_EVT_BRAVE|0|$t3$Wmエスト|5$w0|$Wmセリカ|h$
 MID_ADV_C_エスト2: $t3$Wmエスト|5$w0|$Wmセリカ|h$w0|$Wsエスト|$Wa$SvpV_SC_3_18_ADV1_EST2_00|$E驚,|えっ、いいの？\nついていかなくて。$k$p$SvpV_SC_3_18_ADV1_EST2_01|$E悲,|うーん……\nじゃあ、ここで待ってるね。$k$p$SvpV_SC_3_18_ADV1_EST2_02|$E通常,|気が変わったら、また声をかけて。$k
 MID_ADV2_C_エスト: $t3$Wmエスト|5$w0|$Wmセリカ|h$w0|$Wsエスト|$Wa$SvpV_SC_3_18_ADV2_EST_00|$E通常,|なあに？$k$p$SvpV_SC_3_18_ADV2_EST_01|$E笑,|やっぱり私も\nつれていってくれるの？$k
 MID_ADV_C_NAMEエスト: 女の子
-MID_ADV_C_エスト1_SELECT: エストを仲間にしますか？
+MID_ADV_C_エスト1_SELECT: Ask Est to join you?
 MID_ADV_C_ディーン1: $t3$Wmディーン|5$w0|$Wmセリカ|h$w0|$Wsディーン|$Wa$SvpV_SC_3_18_ADV1_DEEN1_00|$E通常,|お前がセリカか。$k\n$Wsセリカ|$Wa$E驚,|$SvpV_SC_3_18_ADV1_DEEN1_01|はい。\nあなたは……？$k\n$Wsディーン|$Wa$E通常,|$SvpV_SC_3_18_ADV1_DEEN1_02|俺はギースの部下だった者で\nディーンという。$k$p$SvpV_SC_3_18_ADV1_DEEN1_03|さきの戦いでは\n砂漠の北を守っていた。$k\n$Wsセリカ|$Wa$E通常,|$SvpV_SC_3_18_ADV1_DEEN1_04|そう、\nあなたがディーンですか。$k$p$SvpV_SC_3_18_ADV1_DEEN1_05|あなたが追撃してこなかったおかげで\nギースに勝つことができました。$k$p$SvpV_SC_3_18_ADV1_DEEN1_06|ありがとうございます。$k\n$Wsディーン|$Wa$E笑,|$SvpV_SC_3_18_ADV1_DEEN1_07|ふん、\n予想通りといったところか。$k$p$SvpV_SC_3_18_ADV1_DEEN1_08|肝のすわった小娘だな。\n……よかろう。$k$p$SvpV_SC_3_18_ADV1_DEEN1_09|$Eキメ,|俺の力を貸してやる。\nどうだ？$k
-MID_ADV_C_ディーン_SELECT: ディーンを仲間にしますか？
+MID_ADV_C_ディーン_SELECT: Ask Deen to join you?
 MID_ADV_C_ディーン2: $t3$Wmディーン|5$w0|$Wmセリカ|h$w0|$Wsディーン|$Wa$SvpV_SC_3_18_ADV1_DEEN2_00|$E通常,|そうか……\nまあ、無理にとは言わん。$k
 MID_ADV2_C_ディーン: $t3$Wmディーン|5$w0|$Wmセリカ|h$w0|$Wsディーン|$Wa$SvpV_SC_3_18_ADV2_DEEN_00|$E通常,|どうした。\n俺の力を借りにきたのか？$k
 MID_ADV_C_ソニア1: $t3$Wmソニア|5$w0|$Wmセリカ|h$w0|$Wsソニア|$Wa$SvpV_SC_3_18_ADV1_SONYA1_00|$E驚,|あら、驚いた。\n本当にまだ子供じゃない。$k\n$Wsセリカ|$Wa$E驚,|$SvpV_SC_3_18_ADV1_SONYA1_01|あなたは……？$k\n$Wsソニア|$Wa$E通常,|$SvpV_SC_3_18_ADV1_SONYA1_02|私はソニア。\n名前くらい知ってるんでしょ？$k\n$Wsセリカ|$Wa$E通常,|$SvpV_SC_3_18_ADV1_SONYA1_03|そう、\nあなたがソニアですか。$k$p$SvpV_SC_3_18_ADV1_SONYA1_04|あなたが追撃してこなかったおかげで\nギースに勝つことができました。$k$p$SvpV_SC_3_18_ADV1_SONYA1_05|ありがとうございます。$k\n$Wsソニア|$Wa$E通常,|$SvpV_SC_3_18_ADV1_SONYA1_06|ふうん……\n予想通りってとこ？$k$p$SvpV_SC_3_18_ADV1_SONYA1_07|賢そうで\nかわいげのないお嬢ちゃんね。$k$p$SvpV_SC_3_18_ADV1_SONYA1_08|……でも\nおもしろそうじゃない。$k$p$SvpV_SC_3_18_ADV1_SONYA1_09|$E笑,|いいわ、\n私の力を貸してあげる。$k$p$SvpV_SC_3_18_ADV1_SONYA1_10|損はさせないわよ？$k
-MID_ADV_C_ソニア_SELECT: ソニアを仲間にしますか？
+MID_ADV_C_ソニア_SELECT: Ask Sonya to join you?
 MID_ADV_C_ソニア2: $t3$Wmソニア|5$w0|$Wmセリカ|h$w0|$Wsソニア|$Wa$SvpV_SC_3_18_ADV1_SONYA2_00|$E怒,|あら、いらないの？$k$p$SvpV_SC_3_18_ADV1_SONYA2_01|ふうん……\n後悔してもしらないわよ。$k
 MID_ADV2_C_ソニア: $t3$Wmソニア|5$w0|$Wmセリカ|h$w0|$Wsソニア|$Wa$SvpV_SC_3_18_ADV2_SONYA_00|$E通常,|あら、いまさらなによ。$k$p$SvpV_SC_3_18_ADV2_SONYA_01|私の力を貸してほしいの？\nそうね、どうしようかしら。$k
 MID_ADV_C_Door: 扉を開けますか？

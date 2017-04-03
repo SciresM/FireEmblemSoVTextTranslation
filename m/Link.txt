@@ -4,113 +4,112 @@ MESS_ARCHIVE_Link
 Message Name: Message
 
 
-MID_LINK_NSD_CONFIRM: 配信データが壊れています。\n配信データを消去します。
-MID_LINK_EXT_CONFIRM: 追加データが壊れています。\n追加データを作り直します。
-MID_LINK_DLC_CONFIRM: 追加コンテンツが壊れています。\n追加コンテンツの再構築を行います。
-MID_LINK_NSD_RESULT: 配信データを消去しました。\nいつの間に通信を\n登録し直してください。
-MID_LINK_EXT_RESULT: 追加データを作り直しました。\nいつの間に通信や追加コンテンツを\n登録し直してください。
-MID_LINK_DLC_RESULT: 追加コンテンツを再構築しました。
-MID_LINK_PC_P2P: 『他のユーザーとのインターネット通信』が\n保護者により制限されているため\nこの機能を利用できません。
-MID_LINK_PC_RICH_UGC: 『写真や画像・音声・\n動画・長文テキストの送受信』が\n保護者により制限されているため\nこの機能を利用できません。
-MID_EXT_NOT_FOUND: ＳＤカードが認識できませんでした。\n電源を切ってから\nＳＤカードを差し直して下さい。
-MID_EXT_FAILD: ＳＤカードが認識できませんでした。\n電源を切ってから\nＳＤカードを差し直して下さい。
-MID_EXT_CREATE: ＳＤカードに\n追加データを作成します。
-MID_EXT_CREATING: 追加データを作成中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_EXT_CREATED: ＳＤカードに\n追加データを作成しました。
-MID_EXT_READ: 追加データの読み込み中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_EXT_FORMAT: 追加データを作り直しています。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_EXT_NOT_MEDIA: ＳＤカードが認識できませんでした。\n電源を切ってから\nＳＤカードを差し直して下さい。
-MID_EXT_NOT_SPACE: ＳＤカードの空きブロックが不足しています。\n本体設定の「データ管理」から\nＳＤカードの不要なデータを消去してください。
-MID_EXT_NOT_WRITE: ＳＤカードが書き込み禁止になっています。\n電源を切ってＳＤカードの\n書き込み禁止スイッチを解除し\n差し直してください。
-MID_EXT_NOT_ACCESS: ＳＤカードを認識できませんでした。
-MID_EXT_BAD_FORMAT: ＳＤカードを認識できませんでした。
-MID_EXT_ERROR: ＳＤカードを認識できませんでした。
-MID_DLC_READ: 追加コンテンツの読込中
-MID_DLC_MOUNT: 追加コンテンツの確認中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_DLC_EXTSAVE: ＳＤカードに\n追加データを作成しました。
-MID_DLC_RESTORE: 追加コンテンツの再構築中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_DLC_RESTORE_FAILED: 追加コンテンツが消去されているため\n再構築に失敗した可能性があります。\n追加コンテンツをダウンロードし直してください。
-MID_DLC_NOT_MEDIA: ＳＤカードを認識できませんでした。
-MID_DLC_NOT_ACCESS: ＳＤカードを認識できませんでした。
-MID_DLC_NOT_ARCHIVE: ＳＤカードを認識できませんでした。
-MID_DLC_BAD_FORMAT: ＳＤカードを認識できませんでした。
-MID_DLC_NOT_VERIFY: 追加コンテンツが壊れています。\n追加コンテンツをダウンロードし直してください。
-MID_DLC_ERROR: ＳＤカードを認識できませんでした。\n追加コンテンツをダウンロードし直してください。
-MID_DLC_NOT_CONTENT: 追加コンテンツが見つかりませんでした。
-MID_DLC_NOT_TITLE: 追加コンテンツが見つかりませんでした。\n追加コンテンツ購入を行なうとご利用できます。
-MID_DLC_CHECK: 追加コンテンツのチェックを行いますか？
-MID_CEC_BOX_NAME: ファイアーエムブレム Echoes
-MID_CEC_BOX_INFO: すれちがいレコードが更新されました。
-MID_CEC_オーバー: これ以上、本体にすれちがい通信を登録できません。\n本体設定のすれちがい通信管理で\n他のソフトのすれちがい通信をやめてください。
-MID_CEC_ビジー: すれちがい通信を\n登録できませんでした。\n時間をおいてから実行すると\n成功する可能性があります。
-MID_CEC_規約確認: すれちがい通信を利用するには\n最新の利用規約に同意する必要があります。\nすれちがい通信を利用する場合は\n本体設定で『インターネット設定』→\n『その他の情報』→『利用規約の確認』を選び\n最新の利用規約に同意してください。
-MID_CEC_保護者制限: 他のユーザーとのすれちがい通信が\n保護者により制限されているため、\nすれちがい通信を利用できません。
-MID_CEC_登録失敗: すれちがい通信の\n登録に失敗しました。
-MID_CEC_登録確認: すれちがい通信を利用して\nすれちがった他のプレイヤーと\n情報を交換することができます。\nすれちがい通信を登録しますか？
-MID_CEC_停止確認: このセーブデータの\nすれちがい通信の受信を停止しますか？
-MID_CEC_停止完了: このセーブデータの\nすれちがい通信の受信を停止しました。
-MID_CEC_上書確認: 他のセーブデータで\nすれちがい通信を登録しています。\n上書きしてもよろしいですか？
-MID_CEC_登録中: すれちがい通信登録中。\n本体の電源を切らないでください。
-MID_CEC_登録完了: すれちがい通信の登録を行いました。\n登録したプロフィールカードの情報は\n「すれちがいレコード」に入るたびに\n更新されます。
-MID_CEC_更新中: レコード更新中
-MID_CEC_キャンセル: 後ですれちがい通信を\n登録したい場合は、\n「すれちがいレコード」を\n選択してください。
-MID_CEC_受信停止確認: このセーブデータの\nすれちがい通信の受信を停止しますか？
-MID_CEC_受信開始確認: このセーブデータの\nすれちがい通信の受信を有効にしますか？
-MID_CEC_自動保存停止確認: このセーブデータの\nすれちがい通信の自動保存を停止しますか？
-MID_CEC_自動保存停止完了: このセーブデータの\nすれちがい通信の自動保存を停止しました。
-MID_CEC_自動保存開始確認: このセーブデータの\nすれちがい通信の自動保存を有効にしますか？
-MID_CEC_自動保存開始完了: このセーブデータの\nすれちがい通信の自動保存を有効にしました。
-MID_BOSS_ENTRY_TASK: いつの間に通信を利用して\nおしらせ（広告/宣伝を含む）とデータ\nを受信しますか？
-MID_BOSS_ENTRY_REPORT: このソフトのプレイ情報を任天堂に送信します。\n送信された情報は、「ニンテンドー3DSネットワーク\nサービスに関する利用規約」または「ニンテンドー\nネットワーク利用規約」に基づき取り扱います。\n送信に同意しますか？
-MID_BOSS_CONFIRM_STOP: いつの間に通信が登録されています。\nいつの間に通信を停止しますか？
-MID_BOSS_CONFIRM_TASK: インターネットに繋いで\n現在配信されている\nデータを受信しますか？
-MID_BOSS_EXEC_TASK: ダウンロード中です。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_BOSS_CREATE_TASK: いつの間に通信登録中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_BOSS_CREATE_EXT: 追加データを作成中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_BOSS_STOP_TASK: いつの間に通信停止中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_BOSS_MOUNT_TASK: 配信データ確認中
-MID_BOSS_RESULT_ENTRY: いつの間に通信を登録しました。
-MID_BOSS_RESULT_STOP: いつの間に通信を停止しました。
-MID_BOSS_NOT_EULA: いつの間に通信を利用するには\n最新の利用規約に同意する必要があります。\nいつの間に通信を利用する場合は\n本体設定で『インターネット設定』→\n『その他の情報』→『利用規約の確認』を選び\n最新の利用規約に同意してください。
-MID_BOSS_NSD_DELETE: 配信データを消去しています。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_BOSS_INIT_NOT_MEDIA: ＳＤカードを認識できませんでした。\nこのため、いつの間に通信を利用できません。\nいつの間に通信を停止しますか？
-MID_BOSS_INIT_NOT_WRITE: ＳＤカードが書き込み禁止になっています。\nこのため、いつの間に通信を利用できません。\nいつの間に通信を停止しますか？
-MID_BOSS_INIT_NOT_EXT: 追加データがみつかりませんでした。\nこのため、いつの間に通信を利用できません。\nいつの間に通信を停止しますか？
-MID_BOSS_NOT_TASK: データを受信する前に\nいつの間に通信を\n登録する必要があります。
-MID_BOSS_NOT_RECV: 新しいデータは\n受信できませんでした。
-MID_BOSS_ERROR_ENTRY: いつの間に通信の登録に失敗しました。
-MID_BOSS_ERROR_STOP: いつの間に通信の停止に失敗しました。
-MID_BOSS_NOT_MEDIA: ＳＤカードを認識できませんでした。
-MID_BOSS_NOT_WRITE: ＳＤカードが書き込み禁止になっています。\n電源を切ってＳＤカードの\n書き込み禁止スイッチを解除し\n差し直してください。
-MID_BOSS_NOT_EXT: 追加データが見つかりませんでした。
-MID_BOSS_NOT_STORAGE: いつの間に通信が登録されていません。
-MID_BOSS_NOT_DELETE: 配信データの消去に失敗しました。\nいつの間に通信を登録し直してください。
-MID_REPORT_CREATE_TASK: プレイ内容の送信を登録中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_REPORT_RESULT_ENTRY: プレイ内容の送信を登録しました。
-MID_REPORT_ERROR_ENTRY: プレイ内容の送信の登録に失敗しました。
-MID_REPORT_CONFIRM_STOP: プレイ内容の送信が登録されています。\nプレイ内容の送信を停止しますか？
-MID_REPORT_STOP_TASK: プレイ内容の送信を停止中。\nＳＤカードや電源ボタンに\nさわらないでください。
-MID_REPORT_RESULT_STOP: プレイ内容の送信を停止しました。
-MID_DATASTORE_SEARCH_NO_DATA: 該当するデータが見つかりません。
-MID_DATASTORE_GET_DATA_COMPLETE: 取得しました。
-MID_DATASTORE_WAIT_CONNECTING: インターネットに接続中
-MID_DATASTORE_WAIT_UPDATING: 更新中
-MID_DATASTORE_WAIT_SEARCHING: 検索中
-MID_DATASTORE_WAIT_GETTING: 取得中
-MID_DATASTORE_WAIT_NG_WORD_CHECK: 受信したデータを確認中
-MID_DATASTORE_ERROR_NOT_FOUND: データが見つかりません。
-MID_DATASTORE_ERROR_INVALID_DATA: エラーが発生しました。
-MID_LOCAL_EXCHANGE_NG_USERNAME: ？？？
-MID_LOCAL_EXCHANGE_SEND_COMPLETE: 送信しました。
-MID_LOCAL_EXCHANGE_RECEIVE_COMPLETE: 受信しました。
-MID_LOCAL_ERROR_GENERAL: エラーが発生しました。
-MID_LOCAL_ERROR_WIRELESS_OFF: 無線通信がOFFになっているため\n通信できません。\n無線通信をONにしてください。
-MID_LOCAL_ERROR_INVALID_CONNECTION: エラーが発生しました。\n（※無線通信がOFFになっている場合は\n　　無線通信をONにしてください）
-MID_LOCAL_ERROR_INVALID_DATA: エラーが発生しました。
-MID_MATCH_NG_USERNAME: ？？？
-MID_MATCH_WIFI_WAIT_CONNECT: インターネットに接続中
-MID_MATCH_WIFI_ERROR_INVALID_DATA: エラーが発生しました。
-MID_WIFI_ERROR_GENERAL: エラーが発生しました。\n■しばらく待ってやり直してください。\n■症状が直らない場合は\n　本体の取扱説明書に記載されている\n　任天堂テクニカルサポートセンターへ\n　お問い合わせください。
-MID_WIFI_ERROR_GENERAL_00: エラーが発生しました。\n■しばらく待ってやり直してください。\n■症状が直らない場合は\n　本体の取扱説明書に記載されている\n　任天堂テクニカルサポートセンターへ\n　お問い合わせください。
-MID_BOSS_セブンスポット_無効: 何もおきなかった
-MID_BOSS_セブンスポット_失敗: 受信できませんでした
+MID_LINK_NSD_CONFIRM: Bonus data is corrupted\nand must be deleted.
+MID_LINK_EXT_CONFIRM: This software's extra data is\ncorrupted and must be re-created.
+MID_LINK_DLC_CONFIRM: Downloadable content is corrupted\nand must be repaired.
+MID_LINK_NSD_RESULT: Bonus data deleted.\nPlease reactivate SpotPass\nfor this software.
+MID_LINK_EXT_RESULT: The extra data has been re-created.\nPlease reactivate SpotPass for\nthis software and download your\ndownloadable content again.
+MID_LINK_DLC_RESULT: Downloadable content repaired.
+MID_LINK_PC_P2P: Online interaction with other users\nis restricted by Parental Controls.
+MID_LINK_PC_RICH_UGC: The transfer of image, audio, video,\nand long text data is restricted by\nParental Controls.
+MID_EXT_NOT_FOUND: Could not detect an SD Card.\nPlease turn the power off,\nand then reinsert the SD Card.
+MID_EXT_FAILD: Could not detect an SD Card.\nPlease turn the power off,\nand then reinsert the SD Card.
+MID_EXT_CREATE: Extra data will be created\non the SD Card.
+MID_EXT_CREATING: Creating extra data...\nPlease do not turn the power off\nor remove the SD Card.
+MID_EXT_CREATED: Extra data has been created\non the SD Card.
+MID_EXT_READ: Loading extra data...\nPlease do not turn the power off\nor remove the SD Card.
+MID_EXT_FORMAT: Re-creating extra data...\nPlease do not turn the power off\nor remove the SD Card.
+MID_EXT_NOT_MEDIA: Could not detect an SD Card.\nPlease turn the power off,\nand then reinsert the SD Card.
+MID_EXT_NOT_SPACE: The SD Card does not have enough\nfree space. Go to Data Management\nin System Settings, and delete any\nunneeded data from the SD Card.
+MID_EXT_NOT_WRITE: Write-protection is enabled on the\nSD Card. Please turn off the power,\nmove the SD Card's write-protection\nswitch to the unlocked position,\nand then try again.
+MID_EXT_NOT_ACCESS: Could not detect an SD Card.
+MID_EXT_BAD_FORMAT: Could not detect an SD Card.
+MID_EXT_ERROR: Could not detect an SD Card.
+MID_DLC_READ: Loading downloadable content...
+MID_DLC_MOUNT: Checking for downloadable content...\nPlease do not turn the power off\nor remove the SD Card.
+MID_DLC_EXTSAVE: Extra data has been created\non the SD Card.
+MID_DLC_RESTORE: Repairing downloadable content...\nPlease do not turn the power off\nor remove the SD Card.
+MID_DLC_RESTORE_FAILED: Deleted downloadable content may not\nhave been successfully repaired.\nPlease download the content again.
+MID_DLC_NOT_MEDIA: Could not detect an SD Card.
+MID_DLC_NOT_ACCESS: Could not detect an SD Card.
+MID_DLC_NOT_ARCHIVE: Could not detect an SD Card.
+MID_DLC_BAD_FORMAT: Could not detect an SD Card.
+MID_DLC_NOT_VERIFY: The downloadable content is corrupted.\nIn System Settings, select Data\nManagement → Nintendo 3DS →\nAdd-On Content, delete the add-on\ncontent, and then redownload it.\nFor help, visit support.nintendo.com.
+MID_DLC_ERROR: Could not detect an SD Card.\nPlease download the content again.
+MID_DLC_NOT_CONTENT: No downloadable content found.
+MID_DLC_NOT_TITLE: No downloadable content found.\nPlease purchase downloadable\ncontent to use this feature.
+MID_DLC_CHECK: Check for downloadable content?
+MID_CEC_BOX_NAME: Fire Emblem Echoes
+MID_CEC_BOX_INFO: You have a visitor.
+MID_CEC_オーバー: StreetPass cannot be activated for\nany more software titles on this system.\nGo to StreetPass Management in\nSystem Settings and deactivate\nStreetPass for other software.
+MID_CEC_ビジー: Unable to activate StreetPass\nfor this software. Waiting a few\nminutes before trying again may\nresolve the issue.
+MID_CEC_規約確認: You must accept the terms of the latest\nNintendo 3DS Service User Agreement\nbefore you can use StreetPass.\nTo accept the terms, go to\nSystem Settings → Internet Settings →\nOther Information → User Agreement.
+MID_CEC_保護者制限: Use of StreetPass to communicate\nwith other users is restricted by\nParental Controls.
+MID_CEC_登録失敗: Unable to activate StreetPass\nfor this software.
+MID_CEC_登録確認: You can use StreetPass to\nexchange data with other players. Would\nyou like to activate StreetPass?
+MID_CEC_停止確認: Would you like to deactivate StreetPass\nfor this save file?
+MID_CEC_停止完了: StreetPass has been deactivated for\nthis save file.
+MID_CEC_上書確認: StreetPass is activated for other save files.\nWould you like to override this setting?
+MID_CEC_登録中: Activating StreetPass...\nPlease do not turn the power off.
+MID_CEC_登録完了: StreetPass has been activated.\nYour profile card will be updated\neach time you enter the\nStreetPass Record.
+MID_CEC_更新中: Updating Record...
+MID_CEC_キャンセル: To activate StreetPass later,\nchoose StreetPass Record.
+MID_CEC_受信停止確認: Would you like to deactivate StreetPass\nfor this save file?
+MID_CEC_受信開始確認: Would you like to activate StreetPass\nfor this save file?
+MID_CEC_自動保存停止確認: Would you like to disable\nauto-updating StreetPass on this file?
+MID_CEC_自動保存停止完了: StreetPass auto-updating has\nbeen disabled for this save file.
+MID_CEC_自動保存開始確認: Would you like to enable\nauto-updating StreetPass on this file?
+MID_CEC_自動保存開始完了: StreetPass auto-updating has\nbeen enabled for this save file.
+MID_BOSS_ENTRY_TASK: Would you like to receive notifications\n(including announcements and advertisements)\nfrom Nintendo via SpotPass?
+MID_BOSS_ENTRY_REPORT: You may choose to share information about\nyour gameplay with Nintendo in order to help\nus develop future products and services.\nWould you like to share your gameplay\ninformation with Nintendo?
+MID_BOSS_CONFIRM_STOP: SpotPass is currently activated.\nWould you like to deactivate it?
+MID_BOSS_CONFIRM_TASK: Connect to the Internet to download\navailable bonus content?
+MID_BOSS_EXEC_TASK: Downloading...\nPlease do not turn the power off\nor remove the SD Card.
+MID_BOSS_CREATE_TASK: Activating SpotPass...\nPlease do not turn the power off\nor remove the SD Card.
+MID_BOSS_CREATE_EXT: Creating extra data...\nPlease do not turn the power off\nor remove the SD Card.
+MID_BOSS_STOP_TASK: Deactivating SpotPass...\nPlease do not turn the power off\nor remove the SD Card.
+MID_BOSS_MOUNT_TASK: Checking available data...
+MID_BOSS_RESULT_ENTRY: Activation complete.
+MID_BOSS_RESULT_STOP: Deactivation complete.
+MID_BOSS_NOT_EULA: You must accept the terms of the latest\nNintendo 3DS Service User Agreement\nbefore you can use SpotPass.\nTo accept the terms, go to\nSystem Settings → Internet Settings →\nOther Information → User Agreement.
+MID_BOSS_NSD_DELETE: Deleting bonus data...\nPlease do not turn the power off\nor remove the SD Card.
+MID_BOSS_INIT_NOT_MEDIA: Could not detect an SD Card.\nYou will not be able to use SpotPass.\nWould you like to deactivate it?
+MID_BOSS_INIT_NOT_WRITE: Write-protection is enabled on the SD Card.\nYou will not be able to use SpotPass.\nWould you like to deactivate it?
+MID_BOSS_INIT_NOT_EXT: Extra data not found.\nYou will not be able to use SpotPass.\nWould you like to deactivate it?
+MID_BOSS_NOT_TASK: You must activate SpotPass\nbefore you can receive data.
+MID_BOSS_NOT_RECV: Unable to receive new data.
+MID_BOSS_ERROR_ENTRY: Unable to activate SpotPass\nfor this software.
+MID_BOSS_ERROR_STOP: Unable to deactivate SpotPass\nfor this software.
+MID_BOSS_NOT_MEDIA: Could not detect an SD Card.
+MID_BOSS_NOT_WRITE: Write-protection is enabled on the\nSD Card. Please turn off the power,\nmove the SD Card's write-protection\nswitch to the unlocked position,\nand then try again.
+MID_BOSS_NOT_EXT: Extra data not found.
+MID_BOSS_NOT_STORAGE: SpotPass has not been activated\nfor this software.
+MID_BOSS_NOT_DELETE: Unable to delete bonus content.\nPlease reactivate SpotPass for\nthis software.
+MID_REPORT_CREATE_TASK: Activating gameplay-data reporting...\nPlease do not turn the power off\nor remove the SD Card.
+MID_REPORT_RESULT_ENTRY: Activation complete.
+MID_REPORT_ERROR_ENTRY: Unable to activate gameplay-data\nreporting for this title.
+MID_REPORT_CONFIRM_STOP: Gameplay-data reporting is\ncurrently activated for this title.\nWould you like to deactivate it?
+MID_REPORT_STOP_TASK: Deactivating gameplay-data reporting...\nPlease do not turn the power off\nor remove the SD Card.
+MID_REPORT_RESULT_STOP: Deactivation complete.
+MID_DATASTORE_SEARCH_NO_DATA: Could not find the requested data.
+MID_DATASTORE_GET_DATA_COMPLETE: Obtained data.
+MID_DATASTORE_WAIT_CONNECTING: Connecting to the Internet...
+MID_DATASTORE_WAIT_UPDATING: Updating...
+MID_DATASTORE_WAIT_SEARCHING: Searching...
+MID_DATASTORE_WAIT_GETTING: Downloading data...
+MID_DATASTORE_WAIT_NG_WORD_CHECK: Checking received data...
+MID_DATASTORE_WAIT_NG_WORD_CHECK: Checking received data...
+MID_LOCAL_EXCHANGE_NG_USERNAME: ???
+MID_LOCAL_EXCHANGE_SEND_COMPLETE: Sent.
+MID_LOCAL_EXCHANGE_RECEIVE_COMPLETE: Received.
+MID_LOCAL_ERROR_GENERAL: An error occurred.
+MID_LOCAL_ERROR_WIRELESS_OFF: Wireless communication is currently\ndisabled.\nPlease enable wireless communication.
+MID_LOCAL_ERROR_INVALID_CONNECTION: An error occurred.\nIf your wireless communication is\ncurrently disabled, please enable it.
+MID_LOCAL_ERROR_INVALID_DATA: An error has occurred.
+MID_MATCH_NG_USERNAME: ???
+MID_MATCH_WIFI_WAIT_CONNECT: Connecting to the Internet...
+MID_MATCH_WIFI_ERROR_INVALID_DATA: An error has occurred.
+MID_WIFI_ERROR_GENERAL: An error has occurred.\nPlease try again later.\nFor help, visit support.nintendo.com.
+MID_WIFI_ERROR_GENERAL_00: An error has occurred.\nPlease try again later.\nFor help, visit support.nintendo.com.
+MID_BOSS_セブンスポット_無効: Nothing happened.
+MID_BOSS_セブンスポット_失敗: Unable to receive.

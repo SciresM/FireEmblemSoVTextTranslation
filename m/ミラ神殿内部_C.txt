@@ -5,7 +5,7 @@ Message Name: Message
 
 
 MID_ADV_C_ノーマ1: $Sbs1000|$t3$Wmセリカ|h$w0|$Wmノーマ|5$w0|$Wsノーマ|$Wa$SvpV_SC_4_18_ADV1_NORMA1_00|$E笑,|おお、セリカ！\n無事じゃったか。$k\n$SbpBGM_MAP_D_CHURCH|0|$Wsセリカ|$Wa$E驚,|$SvpV_SC_4_18_ADV1_NORMA1_01|ノーマさま？！$k$p$SvpV_SC_4_18_ADV1_NORMA1_02|こんなところで、\nいったいどうなさったのです？$k\n$Wsノーマ|$Wa$E通常,|$SvpV_SC_4_18_ADV1_NORMA1_03|いやあ……\nやはりお前が心配でのう。$k$p$SvpV_SC_4_18_ADV1_NORMA1_04|ここまで追いかけてきたのじゃが、\nなにぶん広い神殿での。$k$p$SvpV_SC_4_18_ADV1_NORMA1_05|$E笑,|うっかり迷ってしまったのじゃ。\nははは……$k\n$Wsセリカ|$Wa$E笑,|$SvpV_SC_4_18_ADV1_NORMA1_06|まあ、それは……\nご無事でなによりでした。$k\n$Wsノーマ|$Wa$E通常,|$SvpV_SC_4_18_ADV1_NORMA1_07|うむ。\nどうじゃ、セリカ。$k$p$SvpV_SC_4_18_ADV1_NORMA1_08|これからは、\nわしもいっしょに行ってやろう。$k\n$Sbs2000|
-MID_ADV_C_ノーマ_SELECT: ノーマを仲間にしますか？
+MID_ADV_C_ノーマ_SELECT: Ask Nomah to join you?
 MID_ADV_C_ノーマ2: $SbpBGM_EVT_DESTINY_A|2000|$t3$Wmノーマ|5$w0|$Wmセリカ|h$w0|$Wsノーマ|$Wa$SvpV_SC_4_18_ADV1_NORMA2_00|$E悲,|そうか……\n残念じゃの。$k$p$SvpV_SC_4_18_ADV1_NORMA2_01|わしも、まだまだいけると\n思ったのじゃが……$k
 MID_ADV2_C_ノーマ: $t3$Wmノーマ|5$w0|$Wmセリカ|h$w0|$Wsノーマ|$Wa$SvpV_SC_4_18_ADV2_NORMA_00|$E通常,|おお、なんじゃ？$k$p$SvpV_SC_4_18_ADV2_NORMA_01|やはり、わしがいないと\n心細かろう？$k
 MID_SUB19_1_1: $Z$t1$Wmシスター|5$VF隠|$w0|$Wsシスター|$Wa$VNMPID_狼狽するシスター|ああ、なんということでしょう……$k$p大切な『銀の盆』を\n水路に落としてしまいました。$k$pあれはミラさまのお気に入りの品……$k$pお帰りになるまでに見つけないと\nきっとご機嫌を損ねてしまいます。$k$pああ、でもどうすれば……$k

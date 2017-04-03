@@ -4,9 +4,9 @@ MESS_ARCHIVE_Result
 Message Name: Message
 
 
-MID_リザルト_戦果: 戦果
-MID_リザルト_参加経験値: 参加経験値
-MID_リザルト_疲労報告: $a$a0は\n疲労状態になりました
+MID_リザルト_戦果: Battle Results
+MID_リザルト_参加経験値: Participation EXP
+MID_リザルト_疲労報告: $a$a0 is suffering\nfrom fatigue.
 MID_リザルト_アルム_完勝: よし、いい勝利だったね。
 MID_リザルト_アルム_辛勝: ふう、なんとか勝てたかな。
 MID_リザルト_アルム_死亡: 覚悟はしていたけど……

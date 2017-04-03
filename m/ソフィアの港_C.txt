@@ -6,12 +6,12 @@ Message Name: Message
 
 MID_ADV_C_パオラ_a: $t3$Wmパオラ|5$w0|$Wmセリカ|h$w0|$Wsパオラ|$Wa$SvpV_SC_3_19_ADV1_PAOLA_A_00|$E通常,|ああ、よかった！$k$p$SvpV_SC_3_19_ADV1_PAOLA_A_01|あなたたちを\n探していたのよ。$k$p$SvpV_SC_3_19_ADV1_PAOLA_A_02|$E笑,|ソフィアの海岸では\n助けてくれてありがとう。$k$p$SvpV_SC_3_19_ADV1_PAOLA_A_03|$E通常,|それでね、私たちも\nいろいろ調べたのだけど。$k$p$SvpV_SC_3_19_ADV1_PAOLA_A_04|妹のエストは、ギースという\n盗賊の砦に捕まっているらしいの。$k$p$SvpV_SC_3_19_ADV1_PAOLA_A_05|あなたたち、\nとても頼りになるし……$k$p$SvpV_SC_3_19_ADV1_PAOLA_A_06|もし、ギースの砦にいくのなら\nいっしょに行かせてくれないかしら？$k
 MID_ADV_C_パオラ_b: $t3$Wmパオラ|5$w0|$Wmセリカ|h$w0|$Wsパオラ|$Wa$SvpV_SC_3_19_ADV1_PAOLA_B_00|$E通常,|あなたたちも\nギースの砦に行くのね。$k$p$SvpV_SC_3_19_ADV1_PAOLA_B_01|私もいっしょに行って\nいいかしら？$k
-MID_ADV_C_パオラ_SELECT: パオラを仲間にしますか？
+MID_ADV_C_パオラ_SELECT: Ask Palla to join you?
 MID_ADV_C_パオラ2: $t3$Wmパオラ|5$w0|$Wmセリカ|h$w0|$Wsパオラ|$Wa$SvpV_SC_3_19_ADV1_PAOLA2_00|$E悲,|そう…\n残念だわ。$k$p$SvpV_SC_3_19_ADV1_PAOLA2_01|$E通常,|でも、もし気が変わったら\n声をかけてちょうだい。$k
 MID_ADV2_C_パオラ: $t3$Wmパオラ|5$w0|$Wmセリカ|h$w0|$Wsパオラ|$Wa$SvpV_SC_3_19_ADV2_PAOLA_00|$E通常,|あら、なにかしら。$k$p$SvpV_SC_3_19_ADV2_PAOLA_01|いっしょに\nつれて行ってくれるの？$k
 MID_ADV_C_カチュア_a: $t3$Wmカチュア|5$w0|$Wmセリカ|h$w0|$Wsカチュア|$Wa$SvpV_SC_3_19_ADV1_KACHUA_A_00|$E笑,|ああ……\nあなたたち。$k$p$SvpV_SC_3_19_ADV1_KACHUA_A_01|会えてよかったわ。\nお礼が言いたかったの。$k$p$SvpV_SC_3_19_ADV1_KACHUA_A_02|ソフィアの海岸では\n助かったわ。$k$p$SvpV_SC_3_19_ADV1_KACHUA_A_03|$E通常,|ところで、あなたたち\nギースの砦には行く？$k$p$SvpV_SC_3_19_ADV1_KACHUA_A_04|妹のエストが\nそこに捕まっているらしいの。$k$p$SvpV_SC_3_19_ADV1_KACHUA_A_05|$E笑,|もし行くのなら\nいっしょに行けないかしら？$k
 MID_ADV_C_カチュア_b: $t3$Wmカチュア|5$w0|$Wmセリカ|h$w0|$Wsカチュア|$Wa$SvpV_SC_3_19_ADV1_KACHUA_B_00|$E笑,|姉さんも\nいっしょに行くのね。$k$p$SvpV_SC_3_19_ADV1_KACHUA_B_01|私も行っていいかしら？$k
-MID_ADV_C_カチュア_SELECT: カチュアを仲間にしますか？
+MID_ADV_C_カチュア_SELECT: Ask Catria to join you?
 MID_ADV_C_カチュア2: $t3$Wmカチュア|5$w0|$Wmセリカ|h$w0|$Wsカチュア|$Wa$SvpV_SC_3_19_ADV1_KACHUA2_00|$E悲,|あら……\nだめなの。$k$p$SvpV_SC_3_19_ADV1_KACHUA2_01|そうね、\nあなたたちの都合もあるもの。$k\n
 MID_ADV2_C_カチュア: $t3$Wmカチュア|5$w0|$Wmセリカ|h$w0|$Wsカチュア|$Wa$SvpV_SC_3_19_ADV2_KACHUA_00|$E通常,|あら、なにか用？$k$p$SvpV_SC_3_19_ADV2_KACHUA_01|いっしょに\nつれて行ってくれるの？$k
 MID_SUB4_1_1: $Z$t1$Wm女性|5$VF隠|$w0|$Ws女性|$Wa$VNMPID_酒場の主人の妻|このところ物騒なことばかりで……\nうちの子供たちも元気がないのよ。$k$p甘いお菓子でも焼いて\n喜ばせてあげたいんだけど$k$pあいにく戦争のせいで\n材料が手に入らないの。$k$p『小麦粉』と『はちみつ』\nそれと『バター』があれば作れるんだけど。$k$pねえあなた、持っていたら\n分けてくれないかしら？$k

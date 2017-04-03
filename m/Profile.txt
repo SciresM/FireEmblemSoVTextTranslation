@@ -4,28 +4,28 @@ MESS_ARCHIVE_Profile
 Message Name: Message
 
 
-MID_PROFILE_名前: 名前
-MID_PROFILE_性別: 性別
-MID_PROFILE_出身地: 出身地
-MID_PROFILE_等級: 等級
-MID_PROFILE_勲章: 勲章
-MID_PROFILE_名声値: 名声値
-MID_PROFILE_モード: モード
-MID_PROFILE_難易度: 難易度
-MID_PROFILE_メイン_説明_編集: 編集
-MID_PROFILE_メイン_説明_登録: 登録・更新
-MID_PROFILE_性別_説明: 性別をえらんでください
-MID_PROFILE_出身地_説明: 出身地をえらんでください
-MID_PROFILE_フェイス_説明: サムネイルをえらんでください
-MID_PROFILE_新規_キャンセル確認: プロフィールカードを\n登録しないと先へ進めません。\n登録を中断しますか？
-MID_PROFILE_編集_キャンセル確認: 内容が変更されています。\n更新せずに終了しますか？
-MID_PROFILE_新規_登録確認: プロフィールカードの登録を行い、\n先に進みますか？
-MID_PROFILE_編集_登録確認: プロフィールカードを更新し\n編集を終了しますか？
-MID_PROFILE_新規_名前が空: 名前を入力してください。
-MID_PROFILE_勲章リスト_タイトル: 勲章
-MID_PROFILE_性別_男性: 男
-MID_PROFILE_性別_女性: 女
-MID_PROFILE_性別_その他: その他
+MID_PROFILE_名前: Name
+MID_PROFILE_性別: Sex
+MID_PROFILE_出身地: Home
+MID_PROFILE_等級: Rank
+MID_PROFILE_勲章: Medals
+MID_PROFILE_名声値: Reputation
+MID_PROFILE_モード: Mode
+MID_PROFILE_難易度: Diff.
+MID_PROFILE_メイン_説明_編集: Edit
+MID_PROFILE_メイン_説明_登録: Save
+MID_PROFILE_性別_説明: Choose a sex.
+MID_PROFILE_出身地_説明: Choose your home.
+MID_PROFILE_フェイス_説明: Choose a thumbnail.
+MID_PROFILE_新規_キャンセル確認: You must update your\nprofile to continue.\nStop editing?
+MID_PROFILE_編集_キャンセル確認: Updating contents.\nExit without updating?
+MID_PROFILE_新規_登録確認: Save your profile\nand continue?
+MID_PROFILE_編集_登録確認: Update your profile\nand finish editing?
+MID_PROFILE_新規_名前が空: Enter a name.
+MID_PROFILE_勲章リスト_タイトル: Medals
+MID_PROFILE_性別_男性: Male
+MID_PROFILE_性別_女性: Female
+MID_PROFILE_性別_その他: Other
 MID_PROFILE_出身地_設定なし: 
 MID_PROFILE_出身地_アルバニア: アルバニア
 MID_PROFILE_出身地_アンドラ: アンドラ

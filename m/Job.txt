@@ -4,181 +4,181 @@ MESS_ARCHIVE_Job
 Message Name: Message
 
 
-MJID_不明: 不明
-MJID_L_不明: 不明
-MJID_ナイト: Ｓナイト
-MJID_L_ナイト: ソシアルナイト
-MJID_アーマー: アーマー
-MJID_L_アーマー: アーマー
-MJID_ペガサスナイト: Ｐナイト
-MJID_L_ペガサスナイト: ペガサスナイト
-MJID_パラディン: パラディン
-MJID_L_パラディン: パラディン
-MJID_ファルコンナイト: Ｆナイト
-MJID_L_ファルコンナイト: ファルコンナイト
-MJID_ソルジャー: ソルジャー
-MJID_L_ソルジャー: ソルジャー
-MJID_ゴールドナイト: Ｇナイト
-MJID_L_ゴールドナイト: ゴールドナイト
-MJID_傭兵: 傭兵
-MJID_L_傭兵: 傭兵
-MJID_剣士: 剣士
-MJID_L_剣士: 剣士
-MJID_魔戦士: 魔戦士
-MJID_L_魔戦士: 魔戦士
-MJID_神官: 神官
-MJID_L_神官: 神官
-MJID_アーチャー: アーチャー
-MJID_L_アーチャー: アーチャー
-MJID_スナイパー: スナイパー
-MJID_L_スナイパー: スナイパー
-MJID_村人: 村人
-MJID_L_村人: 村人
-MJID_魔道士: 魔道士
-MJID_L_魔道士: 魔道士
-MJID_魔道士女: 魔道士
-MJID_L_魔道士女: 魔道士
-MJID_聖女: 聖女
-MJID_L_聖女: 聖女
-MJID_シスター: シスター
-MJID_L_シスター: シスター
-MJID_賢者: 賢者
-MJID_L_賢者: 賢者
-MJID_ボウナイト: ボウナイト
-MJID_L_ボウナイト: ボウナイト
-MJID_戦士: 戦士
-MJID_L_戦士: 戦士
-MJID_勇者: 勇者
-MJID_L_勇者: 勇者
-MJID_バロン: バロン
-MJID_L_バロン: バロン
-MJID_プリンセス: プリンセス
-MJID_L_プリンセス: プリンセス
-MJID_子供男: 男の子
-MJID_L_子供男: 男の子
-MJID_子供女: 女の子
-MJID_L_子供女: 女の子
-MJID_ガーゴイル: ガーゴイル
-MJID_L_ガーゴイル: ガーゴイル
-MJID_バルログ: バルログ
-MJID_L_バルログ: バルログ
-MJID_ドラゴンゾンビ: Ｄゾンビ
-MJID_L_ドラゴンゾンビ: ドラゴンゾンビ
-MJID_白竜: 白竜
-MJID_L_白竜: 白竜
-MJID_ゾンビ: ゾンビ
-MJID_L_ゾンビ: ゾンビ
-MJID_マミー: マミー
-MJID_L_マミー: マミー
-MJID_盗賊: 盗賊
-MJID_L_盗賊: 盗賊
-MJID_スケルトン: スケルトン
-MJID_L_スケルトン: スケルトン
-MJID_リッチー: リッチー
-MJID_L_リッチー: リッチー
-MJID_妖術師: 妖術師
-MJID_L_妖術師: 妖術師
-MJID_魔女: 魔女
-MJID_L_魔女: 魔女
-MJID_ビグル: ビグル
-MJID_L_ビグル: ビグル
-MJID_祈祷師: 祈祷師
-MJID_L_祈祷師: 祈祷師
-MJID_魔人: 魔人
-MJID_L_魔人: 魔人
-MJID_邪神: 邪神
-MJID_L_邪神: 邪神
-MJID_ミラのしもべ: ミラのしもべ
-MJID_L_ミラのしもべ: ミラのしもべ
-MJID_ドーマの使徒: ドーマの使徒
-MJID_L_ドーマの使徒: ドーマの使徒
-MJID_ドラクル: ドラクル
-MJID_L_ドラクル: ドラクル
-MJID_タイタン: タイタン
-MJID_L_タイタン: タイタン
-MJID_ガルーダ: ガルーダ
-MJID_L_ガルーダ: ガルーダ
-MJID_守護者: 守護者
-MJID_L_守護者: 守護者
-MJID_ウェスタ: ウェスタ
-MJID_L_ウェスタ: ウェスタ
-MJID_ファフナー: ファフナー
-MJID_L_ファフナー: ファフナー
-MJID_ダゴン: ダゴン
-MJID_L_ダゴン: ダゴン
-MJID_バロール: バロール
-MJID_L_バロール: バロール
-MJID_デイモス: デイモス
-MJID_L_デイモス: デイモス
-MJID_火竜: 火竜
-MJID_L_火竜: 火竜
-MJID_邪竜: 邪竜
-MJID_L_邪竜: 邪竜
+MJID_不明: Unknown
+MJID_L_不明: Unknown
+MJID_ナイト: Cavalier
+MJID_L_ナイト: Cavalier
+MJID_アーマー: Armor
+MJID_L_アーマー: Armor Knight
+MJID_ペガサスナイト: Pegasus
+MJID_L_ペガサスナイト: Pegasus Knight
+MJID_パラディン: Paladin
+MJID_L_パラディン: Paladin
+MJID_ファルコンナイト: Falcon
+MJID_L_ファルコンナイト: Falcon Knight
+MJID_ソルジャー: Soldier
+MJID_L_ソルジャー: Soldier
+MJID_ゴールドナイト: Gold
+MJID_L_ゴールドナイト: Gold Knight
+MJID_傭兵: Mercenary
+MJID_L_傭兵: Mercenary
+MJID_剣士: Myrmidon
+MJID_L_剣士: Myrmidon
+MJID_魔戦士: Dread
+MJID_L_魔戦士: Dread Fighter
+MJID_神官: Priestess
+MJID_L_神官: Priestess
+MJID_アーチャー: Archer
+MJID_L_アーチャー: Archer
+MJID_スナイパー: Sniper
+MJID_L_スナイパー: Sniper
+MJID_村人: Villager
+MJID_L_村人: Villager
+MJID_魔道士: Mage
+MJID_L_魔道士: Mage
+MJID_魔道士女: Mage
+MJID_L_魔道士女: Mage
+MJID_聖女: Saint
+MJID_L_聖女: Saint
+MJID_シスター: Cleric
+MJID_L_シスター: Cleric
+MJID_賢者: Sage
+MJID_L_賢者: Sage
+MJID_ボウナイト: Bow Knight
+MJID_L_ボウナイト: Bow Knight
+MJID_戦士: Warrior
+MJID_L_戦士: Warrior
+MJID_勇者: Hero
+MJID_L_勇者: Hero
+MJID_バロン: Baron
+MJID_L_バロン: Baron
+MJID_プリンセス: Princess
+MJID_L_プリンセス: Princess
+MJID_子供男: Boy
+MJID_L_子供男: Boy
+MJID_子供女: Girl
+MJID_L_子供女: Girl
+MJID_ガーゴイル: Gargoyle
+MJID_L_ガーゴイル: Gargoyle
+MJID_バルログ: Balrog
+MJID_L_バルログ: Balrog
+MJID_ドラゴンゾンビ: D. Zombie
+MJID_L_ドラゴンゾンビ: Draco Zombie
+MJID_白竜: W. Dragon
+MJID_L_白竜: White Dragon
+MJID_ゾンビ: Revenant
+MJID_L_ゾンビ: Revenant
+MJID_マミー: Entombed
+MJID_L_マミー: Entombed
+MJID_盗賊: Brigand
+MJID_L_盗賊: Brigand
+MJID_スケルトン: Bonewalker
+MJID_L_スケルトン: Bonewalker
+MJID_リッチー: Wight
+MJID_L_リッチー: Wight
+MJID_妖術師: Arcanist
+MJID_L_妖術師: Arcanist
+MJID_魔女: Witch
+MJID_L_魔女: Witch
+MJID_ビグル: Mogall
+MJID_L_ビグル: Mogall
+MJID_祈祷師: Shaman
+MJID_L_祈祷師: Shaman
+MJID_魔人: H. Knight
+MJID_L_魔人: High Knight
+MJID_邪神: Dark God
+MJID_L_邪神: Dark God
+MJID_ミラのしもべ: Mila's Servant
+MJID_L_ミラのしもべ: Mila's Servant
+MJID_ドーマの使徒: A. of Duma
+MJID_L_ドーマの使徒: Apostle of Duma
+MJID_ドラクル: Dracul
+MJID_L_ドラクル: Dracul
+MJID_タイタン: Titan
+MJID_L_タイタン: Titan
+MJID_ガルーダ: Garuda
+MJID_L_ガルーダ: Garuda
+MJID_守護者: Guardian
+MJID_L_守護者: Guardian
+MJID_ウェスタ: Vesta
+MJID_L_ウェスタ: Vesta
+MJID_ファフナー: Fafnir
+MJID_L_ファフナー: Fafnir
+MJID_ダゴン: Dagon
+MJID_L_ダゴン: Dagon
+MJID_バロール: Balor
+MJID_L_バロール: Balor
+MJID_デイモス: Deimos
+MJID_L_デイモス: Deimos
+MJID_火竜: Fi. Dragon
+MJID_L_火竜: Fire Dragon
+MJID_邪竜: Fe. Dragon
+MJID_L_邪竜: Fell Dragon
 MJID_屍兵: 死者の仮面
 MJID_L_屍兵: 死者の仮面
-MJID_幻影剣士: ロード
-MJID_L_幻影剣士: ロード
-MJID_幻影傭兵: 勇者
-MJID_L_幻影傭兵: 勇者
-MJID_幻影神官: ロード
-MJID_L_幻影神官: ロード
-MJID_幻影魔道士: 戦術師
-MJID_L_幻影魔道士: 戦術師
-MJID_H_ナイト: 軍馬にまたがり\n戦場を駆ける騎兵
-MJID_H_アーマー: 高い守備力を持つ歩兵\n前線における頼もしい盾
-MJID_H_ペガサスナイト: 天馬に跨った騎士\n移動力に優れる
-MJID_H_パラディン: 高位なる騎士\nあらゆる戦況に対応できる
-MJID_H_ファルコンナイト: 魔物に対して絶大な\n力を持つ聖なる騎士
-MJID_H_ソルジャー: 槍をもって戦う\n基本的な歩兵
-MJID_H_ゴールドナイト: 偉大なる騎士\n非常に高い移動力を持つ
-MJID_H_傭兵: 金で雇われ戦場を渡り歩く\n戦いのプロフェッショナル
-MJID_H_剣士: 優れた技を持つ\n剣の達人
-MJID_H_魔戦士: 高い身体能力と\n魔法への高い耐性をもつ
-MJID_H_神官: 神に仕える\n美しき魔法剣士
-MJID_H_アーチャー: 弓を扱うことができる兵士\n離れた場所から攻撃できる
-MJID_H_スナイパー: 遠距離射撃能力に\nさらに磨きをかけた弓兵
-MJID_H_村人: 平凡な村人\n能力は低い
-MJID_H_魔道士: 強い魔力を持ち\n黒魔法を使いこなす
-MJID_H_聖女: 強大な癒やしの力を持つ\n清らかな乙女
-MJID_H_シスター: 神に仕える修道女\n白魔法を扱う事ができる
-MJID_H_賢者: より上位の魔法が扱える\n偉大なる存在
-MJID_H_ボウナイト: 極めて長い射程と高い\n移動力を兼ね備えた騎兵
-MJID_H_戦士: 各能力のバランスが\n非常によい歩兵
-MJID_H_勇者: 大陸中に名をはせた英雄\n剣と弓を扱うことができる
-MJID_H_バロン: 他を圧倒する攻撃力と\n絶大な守備力を誇る
-MJID_H_プリンセス: 王冠を継承した\n真のソフィア王国の王女
-MJID_H_子供男: 村で暮らす\n平凡な男の子
-MJID_H_子供女: 村で暮らす\n平凡な女の子
-MJID_H_ガーゴイル: 意志を持ち飛行する\n石像
-MJID_H_バルログ: 意志を持ち飛行する\nブロンズ像
-MJID_H_ドラゴンゾンビ: 魔力によって蘇った竜の死体\n飛行でき、高い移動力を持つ
-MJID_H_白竜: 魔力によって蘇った\n上位のドラゴンゾンビ
-MJID_H_ゾンビ: 魔力によって墓場から\n這い出した動く死体
-MJID_H_マミー: 魔力によって墓場から這い出た\n身分の高い人物の遺体
-MJID_H_盗賊: 斧を持ち暴れまわる\nあらくれもの
-MJID_H_スケルトン: 戦場で生命を落とした\n兵士の骨が動き出したもの
-MJID_H_リッチー: 魔力によって動き出した\n太古の生物の骨
-MJID_H_妖術師: 邪悪な魔法を扱う呪術師
-MJID_H_魔女: ドーマの生贄に捧げられた\n女性の成れの果ての姿
-MJID_H_ビグル: 目玉のような姿の魔物\n自己増殖を繰り返す
-MJID_H_祈祷師: 魔物を召喚する力を得た\n上位の呪術師
-MJID_H_魔人: 強大な力を持つ\n魔界の騎士
-MJID_H_邪神: 竜の形態をとった\nドーマの真の姿
-MJID_H_ミラのしもべ: かりそめの姿をとった\nミラのしもべ
-MJID_H_ドーマの使徒: かりそめの姿をとった\nドーマの使徒
-MJID_H_ドラクル: 深い闇の中に潜む\n強力な力を持った不死者
-MJID_H_タイタン: 生者を求めて大陸を彷徨う\n古の巨人族の成れの果て
-MJID_H_ガルーダ: 光り輝く美しい翼を持ち\n素早い動きで敵を滅ぼす怪鳥
-MJID_H_守護者: 崇高な使命を持ち時代を\n越えてさまよい続ける騎士
-MJID_H_ウェスタ: 邪神の生贄に捧げられた\n太古の巫女
-MJID_H_ファフナー: 太古から生き続ける\n巨大な竜
-MJID_H_ダゴン: 水の中に潜む珍しい竜\nその肉は非常に美味と言われる
-MJID_H_バロール: 恐ろしい力を持った邪眼\n古の魔神の目玉とも言われる
-MJID_H_デイモス: すべてを浄化する炎を扱う\n高名なシャーマンの骨
-MJID_H_火竜: アカネイア大陸の各地に\n生息する炎を吐く竜
-MJID_H_邪竜: 古の錬金術師の手によって\n生み出された絶望をもたらす存在
-MJID_H_屍兵: 古の錬金術師の手によって\n作り出された死人の兵士
-MJID_H_幻影剣士: 君主として皆を率いて戦う\n偉大なる存在
-MJID_H_幻影傭兵: 大陸中に名をはせた英雄\n並外れた剣の使い手
-MJID_H_幻影神官: 君主として皆を率いて戦う\n偉大なる存在
-MJID_H_幻影魔道士: 知略に長けるだけでなく\n自らも剣と魔法で戦う軍師
+MJID_幻影剣士: Lord
+MJID_L_幻影剣士: Lord
+MJID_幻影傭兵: Hero
+MJID_L_幻影傭兵: Hero
+MJID_幻影神官: Lord
+MJID_L_幻影神官: Lord
+MJID_幻影魔道士: Tactician
+MJID_L_幻影魔道士: Tactician
+MJID_H_ナイト: A soldier that races through\nbattle on his steed.
+MJID_H_アーマー: Infantry with high defense\nthat leads the front lines.
+MJID_H_ペガサスナイト: A warrior with a pegasus mount.\nExcels at quick movement.
+MJID_H_パラディン: A high-ranking soldier that\ncan adapt to any battle.
+MJID_H_ファルコンナイト: A holy warrior that holds\nthe power to defeat terrors.
+MJID_H_ソルジャー: Fights using a lance.\nA basic infantry unit.
+MJID_H_ゴールドナイト: A distinguished soldier\nwith extremely quick movement.
+MJID_H_傭兵: A professional warrior that\nsearches the world for gold.
+MJID_H_剣士: A sword-wielding warrior\nwith superb skill.
+MJID_H_魔戦士: Has high physical ability\nand a resistance to magic.
+MJID_H_神官: A beautiful magic fencer\nthat answers to the gods.
+MJID_H_アーチャー: A soldier that can wield bows.\nAble to attack from afar.
+MJID_H_スナイパー: A seasoned archer that\nexcels at long-range fire.
+MJID_H_村人: An ordinary villager with\nmediocre stats.
+MJID_H_魔道士: Has an affinity for magic,\nespecially the dark arts.
+MJID_H_聖女: A pure maiden with the\npower to heal others.
+MJID_H_シスター: Nuns that serve the gods.\nAble to heal allies.
+MJID_H_賢者: A distinguished warrior that\ncan wield superior magic.
+MJID_H_ボウナイト: A warrior combining high\nspeed and high attack range.
+MJID_H_戦士: An extremely balanced\nfoot-soldier.
+MJID_H_勇者: A fearless, beloved warrior\nwho can use swords and bows.
+MJID_H_バロン: Dominates opposition with\noverwhelming attack and defense.
+MJID_H_プリンセス: The true crown princess\nof Zofia.
+MJID_H_子供男: A normal boy,\nraised in a village.
+MJID_H_子供女: A normal girl,\nraised in a village.
+MJID_H_ガーゴイル: A stone statue that\nflies with living intent.
+MJID_H_バルログ: A bronze statue that\nflies with living intent.
+MJID_H_ドラゴンゾンビ: A dragon's corpse reanimated\nby magic. Flies at high speed.
+MJID_H_白竜: A superior Draco Zombie,\nreanimated by magic.
+MJID_H_ゾンビ: A moving corpse, lifted\nfrom its grave by magic.
+MJID_H_マミー: The remains of a noble,\nreanimated by magic.
+MJID_H_盗賊: A rough and rowdy\naxe-fighter.
+MJID_H_スケルトン: A fallen warrior whose bones\nhave moved once again.
+MJID_H_リッチー: The bones of an ancient\ncreature, raised by magic.
+MJID_H_妖術師: A shaman wielding\nsinister magic.
+MJID_H_魔女: A ruined girl, given as\ntribute to Duma.
+MJID_H_ビグル: A self-replicating terror\nthat looks like an eyeball.
+MJID_H_祈祷師: A powerful Arcanist\nthat can summon terrors.
+MJID_H_魔人: A hellish warrior\nwith immense strength.
+MJID_H_邪神: Duma, reverted to his\ntrue form as a dragon.
+MJID_H_ミラのしもべ: Mila's servant taking\na temporary form.
+MJID_H_ドーマの使徒: Duma's apostle taking\na temporary form.
+MJID_H_ドラクル: A powerful undead\nwarrior that lurks in darkness.
+MJID_H_タイタン: A lost giant that wanders\ncontinents, searching for life.
+MJID_H_ガルーダ: An ominous bird that\ntears through armies.
+MJID_H_守護者: A warrior that roams in pursuit\nof his eternal noble mission.
+MJID_H_ウェスタ: An ancient priestess\nsacrificed to the Dark God.
+MJID_H_ファフナー: A colossal dragon that\nhas lived since antiquity.
+MJID_H_ダゴン: A rare dragon lurking in the ocean.\nSaid to have delicious meat.
+MJID_H_バロール: A terrifying giant that is\nsaid to have an evil eye.
+MJID_H_デイモス: The bones of a renowned shaman.\nUses all-enveloping flame.
+MJID_H_火竜: A dragon from Archanea\nthat is able to spit fire.
+MJID_H_邪竜: A despair-inducing entity brought\nto life by ancient alchemy.
+MJID_H_屍兵: A dead soldier brought to\nlife by ancient alchemy.
+MJID_H_幻影剣士: A famous warrior that leads\nan army as its lord.
+MJID_H_幻影傭兵: A famous warrior with a\nmysterious sword.
+MJID_H_幻影神官: A famous warrior that leads\nan army as its lord.
+MJID_H_幻影魔道士: Not only excelling in ingenuity,\nalso wields swords and tomes.

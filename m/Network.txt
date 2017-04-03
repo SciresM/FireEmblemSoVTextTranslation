@@ -4,23 +4,23 @@ MESS_ARCHIVE_Network
 Message Name: Message
 
 
-MID_MESSAGECARD_個性: 個性
-MID_H_MESSAGECARD_個性: 二つ名を選びます
-MID_MESSAGECARD_表情: 表情
-MID_H_MESSAGECARD_表情: 表情を選びます
-MID_MESSAGECARD_表情_普通: 普通
-MID_MESSAGECARD_表情_キメ: キメ
-MID_MESSAGECARD_表情_怒: 怒
-MID_MESSAGECARD_表情_笑: 笑
-MID_MESSAGECARD_表情_苦: 苦
-MID_MESSAGECARD_出身地: 出身地
-MID_H_MESSAGECARD_出身地: 出身地を選びます
-MID_MESSAGECARD_普段の姿: 普段の姿
-MID_H_MESSAGECARD_普段の姿: 普段の姿を選びます
-MID_MESSAGECARD_メッセージ: メッセージ
-MID_H_MESSAGECARD_メッセージ: 一言メッセージを編集します
-MID_MESSAGECARD_難易度公開: 難易度公開
-MID_H_MESSAGECARD_難易度公開: 難易度を公開するかどうかを選びます
-MID_MESSAGECARD_難易度公開_公開: 公開する
-MID_MESSAGECARD_難易度公開_非公開: 公開しない
-MID_HELP_通信メニュー: 通信メニューや、旅人の広場では、\nインターネットやローカル通信、\nすれちがい通信によって\nユーザーが公開したマイキャッスルや\n各種メッセージを送受信することができます。
+MID_MESSAGECARD_個性: Trait
+MID_H_MESSAGECARD_個性: Select an adjective to describe yourself.
+MID_MESSAGECARD_表情: Expression
+MID_H_MESSAGECARD_表情: Select a facial expression.
+MID_MESSAGECARD_表情_普通: Normal
+MID_MESSAGECARD_表情_キメ: Cocky
+MID_MESSAGECARD_表情_怒: Angry
+MID_MESSAGECARD_表情_笑: Cheerful
+MID_MESSAGECARD_表情_苦: Distressed
+MID_MESSAGECARD_出身地: Home
+MID_H_MESSAGECARD_出身地: Tell others where you are from.
+MID_MESSAGECARD_普段の姿: Identity
+MID_H_MESSAGECARD_普段の姿: Tell others what you really are.
+MID_MESSAGECARD_メッセージ: Message
+MID_H_MESSAGECARD_メッセージ: Edit your message.
+MID_MESSAGECARD_難易度公開: Mode
+MID_H_MESSAGECARD_難易度公開: Share your difficulty and game mode.
+MID_MESSAGECARD_難易度公開_公開: Share
+MID_MESSAGECARD_難易度公開_非公開: Don't Share
+MID_HELP_通信メニュー: Here is where you can use wireless\ncommunication to share your castle,\nreceive messages, battle, and more.

@@ -5,312 +5,312 @@ Message Name: Message
 
 
 MSID_無し: －－－－－－
-MSID_命中補正１: 曲射
-MSID_威力補正１: 剛撃
-MSID_回避補正１: 一撃離脱
-MSID_手加減: 手加減
-MSID_体当たり: 体当たり
-MSID_入れ替え: 入れ替え
-MSID_命中補正２: クロスワイズ
-MSID_威力補正２: 強弓
-MSID_回避補正２: 清流剣
-MSID_必殺補正１: 両断
-MSID_魔法攻撃: 魔刃
-MSID_とどめHP吸収: 生命吸収
-MSID_切り込み: 切り込み
-MSID_切り抜け: 切り抜け
-MSID_後手必殺: 獅子王の構え
-MSID_射程＋１: 遠雷
-MSID_特効馬: 葬騎の一撃
-MSID_特効鎧: 鎧砕き
-MSID_特効鎧２: 殺撃破甲衝
-MSID_特効魔: 聖天弓
-MSID_特効飛: 燕返し
-MSID_瀕死確殺: デストレッツァ
-MSID_足止め: 囲いの矢
-MSID_魔封じ: 封魔の矢
-MSID_HP吸収: 豊穣の力
-MSID_２連撃: 獅子連斬
-MSID_HP減少分ダメ: ヴェンデッタ
-MSID_速さダメージ: 龍霞
-MSID_技ダメージ: 虎神五行剣
-MSID_射程＋２: アルクバリスタ
-MSID_射程＋３: 忘我・無底弓
-MSID_地形無視: 影詰め
-MSID_５連撃: 流星刃
-MSID_必殺補正２: リーデルスレイ
-MSID_威力補正３: 太陽衝
-MSID_必中: 月光閃
-MSID_G防御補正１: 防御態勢
-MSID_G地形効果二倍: 珊瑚隠れ
-MSID_G物理間接半減: 聖盾
-MSID_G魔法反射: 魔鏡返し
-MSID_G物理半減: 大盾
-MSID_G魔法半減: 大地の加護
-MSID_鉄剣２: 風薙ぎ
-MSID_雷剣２: 雷迅
-MSID_金剣２: 大地の恵み
-MSID_女剣２: フランベルジュ
-MSID_鉄槍２: ロングアーチ
-MSID_鋼槍２: 旋風槍
-MSID_銀槍１: 霧駆け
-MSID_銀槍２: チャリオット
-MSID_殺弓: ハンターボレー
-MSID_滅殺: 滅殺
-MSID_アルム奥義: 覇神断竜剣
-MSID_セリカ奥義: 真ライナロック
-MSID_トライアングル: Tアタック
-MSID_主人公: 主人公
-MSID_リゲル王家: リゲル王家
-MSID_ソフィア王家: ソフィア王家
-MSID_隣接回復: 癒しの光
-MSID_自動回復: 回復効果
-MSID_自動回復大: 自己再生
-MSID_自動回復祈祷師: 肉体召喚
-MSID_吸収: 吸収
-MSID_一撃死無効: 見切り
-MSID_神殺し: 神殺し
-MSID_地形効果無効: 地形効果無効
-MSID_呪い: 呪い
-MSID_呪い無効: 呪印
-MSID_魔法武器: 魔法武器
-MSID_威力固定: 固定威力
-MSID_瀕死攻撃: 瀕死攻撃
-MSID_魔法回避: 魔法回避
-MSID_良成長: 良成長
-MSID_きまぐれ成長: 再構築
-MSID_魔法射程＋１: 意念
-MSID_魔法射程＋２: 魔道
-MSID_魔防＋: 魔防＋５
-MSID_魔法命中＋１０: 練磨
-MSID_魔法威力＋５: 魔法威力＋５
-MSID_必殺全回避: 必殺全回避
-MSID_対魔物増強: 退魔
-MSID_怨声: 怨声
-MSID_命中回避＋２０: 力の業火
-MSID_剣ダメージ半減: 剣ダメージ半減
-MSID_槍ダメージ半減: 槍ダメージ半減
-MSID_斧ダメージ半減: 斧ダメージ半減
-MSID_弓ダメージ半減: 重装
-MSID_魔法ダメージ半減: 破邪
-MSID_対魔ダメージ半減: 聖域
-MSID_弓ダメージ半減_兵種: 重装
-MSID_魔法ダメージ半減_兵種: 破邪
-MSID_弓魔ダメージ半減_道具: 妄執
-MSID_消耗必殺: 怒り
-MSID_巨大: 巨大
-MSID_ダウンロード: ダウンロード
-MSID_交換禁止: 交換禁止
-MSID_敗北条件: 敗北条件
-MSID_強制キリバト: 強制キリバト
-MSID_強制オンバト: 強制オンバト
-MSID_キリバト禁止: キリバト禁止
-MSID_魔女ワープ: 転移
-MSID_召喚数乱数のみ: 召喚数乱数のみ
-MSID_召喚確率高: 召喚確率高
-MSID_召喚必ず: 召喚必ず
-MSID_ディル無効: ディル無効
-MSID_召喚AI: 召喚AI
-MSID_召喚独立: 召喚独立
-MSID_ビグル道連れ: ビグル道連れ
-MSID_分裂: 分裂
-MSID_ダメージ床無効: ダメージ床無効
-MSID_生存ロスト: 生存ロスト
-MSID_祈り: 祈り
-MSID_攻撃時2回攻撃: 攻撃時2回攻撃
-MSID_特殊演出: 特殊演出
-MSID_準特殊演出: 準特殊演出
-MSID_魔力射程: 魔力射程
-MSID_半魔力射程: 半魔力射程
-MSID_四半魔力射程: 四半魔力射程
-MSID_弓射程＋１: 弓射程＋１
-MSID_弓射程＋２: 弓射程＋２
-MSID_被毒: 状態：毒
-MSID_被毒２: 状態：毒
-MSID_被毒３: 状態：毒
-MSID_被足止め: 状態：移動封じ
-MSID_被足止め始: 状態：移動封じ
-MSID_被魔封じ: 状態：魔法封じ
-MSID_被魔封じ始: 状態：魔法封じ
-MSID_毒パッシブ: 毒撃
-MSID_足止めパッシブ: 麻痺毒
-MSID_魔封じパッシブ: 奇声
-MSID_ドーマの加護: ドーマの加護
-MSID_メガクェイク: メガクェイク
-MSID_ダークスパイク: ダークスパイク
-MSID_邪竜の鱗: 邪竜の鱗
-MSID_赤の呪い: 赤の呪い
-MSID_防御無効: 防御無効
-MSID_アルム攻撃禁止: アルム攻撃禁止
-MSID_状態異常無効: 状態異常無効
-MSID_騎馬: 騎馬
-MSID_飛行: 飛行
-MSID_鎧: 鎧兵
-MSID_魔物: 魔物
-MSID_上級魔物: 上級魔物
-MSID_竜族: 竜族
-MSID_神: 神
-MSID_神_ギムレー: 神
-MSID_騎馬特効: 騎馬特効
-MSID_飛行特効: 飛行特効
-MSID_鎧特効: 鎧兵特効
-MSID_魔物特効: 魔物特効
-MSID_女武器威力２倍: 女武器威力２倍
-MSID_魔法ＨＰ消費無し: 契約
-MSID_ダメージ床無効_公開: 浄化
-MSID_amiibo召喚: amiibo召喚
-MSID_H_無し: なし
-MSID_H_命中補正１: 相手の死角に矢を放つ\n命中率が高い
-MSID_H_威力補正１: 力を込めた一撃
-MSID_H_回避補正１: 回避に重きを置く攻撃
-MSID_H_手加減: 相手のＨＰを１残す
-MSID_H_体当たり: 味方ユニットを\n１マス分押し出す
-MSID_H_入れ替え: 味方ユニットと\n場所を入れ替える
-MSID_H_命中補正２: 交差斬り\n命中率が高い
-MSID_H_威力補正２: 威力を高めた矢
-MSID_H_回避補正２: 回避を兼ねる一閃
-MSID_H_必殺補正１: 大振りな一撃
-MSID_H_魔法攻撃: 魔力を込めた攻撃
-MSID_H_とどめHP吸収: 相手を撃破した場合\nそのＨＰを吸収する
-MSID_H_切り込み: 戦闘終了後\n相手と場所を入れ替える
-MSID_H_切り抜け: 戦闘終了後\n相手の１マス先に移動する
-MSID_H_後手必殺: 強力な一撃\n必ず後手になる
-MSID_H_射程＋１: 剣を掲げ\n遠くの敵を攻撃する
-MSID_H_特効馬: 【騎馬】を持つ相手に対し\n特効を得る
-MSID_H_特効鎧: 【鎧兵】を持つ相手に対し\n特効を得る
-MSID_H_特効鎧２: 【鎧兵】を持つ相手に対し\n特効を得る
-MSID_H_特効魔: 【魔物】系を持つ相手に対し\n特効を得る
-MSID_H_特効飛: 【飛行】を持つ相手に対し\n特効を得る
-MSID_H_瀕死確殺: 相手を撃破できる場合\n必ず命中する
-MSID_H_足止め: 命中した場合　１ターン\n相手の移動を封じる
-MSID_H_魔封じ: 命中した場合　１ターン\n相手の魔法を封じる
-MSID_H_HP吸収: 与えたダメージ分\nＨＰを回復する
-MSID_H_２連撃: 二連撃を放つ
-MSID_H_HP減少分ダメ: 受けているダメージの半分を\n攻撃力に付与する
-MSID_H_速さダメージ: 使用者の速さを\n攻撃力に上乗せする
-MSID_H_技ダメージ: 使用者の技を\n攻撃力に上乗せする
-MSID_H_射程＋２: 遠く離れた相手を攻撃する
-MSID_H_射程＋３: 遥か遠くの相手を攻撃する
-MSID_H_地形無視: 地形を無視して攻撃する
-MSID_H_５連撃: ダメージ半分の攻撃を\n五連続で行う
-MSID_H_必殺補正２: 相手の防御力を\n半分無効化する
-MSID_H_威力補正３: 大きな威力の一撃を放つ
-MSID_H_必中: 必ず命中する
-MSID_H_G防御補正１: 物理攻撃によるダメージを\n－５する
-MSID_H_G地形効果二倍: 地形効果を二倍にする
-MSID_H_G物理間接半減: 遠距離からの物理攻撃による\nダメージを半減させる
-MSID_H_G魔法反射: 魔法攻撃を跳ね返す
-MSID_H_G物理半減: 物理攻撃によるダメージを\n半減させる
-MSID_H_G魔法半減: 魔法攻撃によるダメージを\n半減させる
-MSID_H_鉄剣２: 相手から反撃を受けない
-MSID_H_雷剣２: 隣接する敵一体に\n強力な攻撃をおこなう
-MSID_H_金剣２: 敵を撃破した場合\n食べ物を得る
-MSID_H_女剣２: 魔力を込めた\n二連撃を放つ
-MSID_H_鉄槍２: 離れた敵一体に\n槍を投げて攻撃する
-MSID_H_鋼槍２: 隣接する敵一体に\n力を溜めた攻撃をおこなう
-MSID_H_銀槍１: この攻撃を実行する時\n魔法への耐性を得る
-MSID_H_銀槍２: 戦闘終了後\n相手を１マス押し出す
-MSID_H_殺弓: 高速な二連射
-MSID_H_滅殺: 滅殺
-MSID_H_アルム奥義: アルム奥義
-MSID_H_セリカ奥義: セリカ奥義
-MSID_H_トライアングル: 姉妹の連携によって\n連続で攻撃を仕掛ける
-MSID_H_主人公: 主人公
-MSID_H_リゲル王家: リゲル王家
-MSID_H_ソフィア王家: ソフィア王家
-MSID_H_隣接回復: 毎ターン　隣接するユニットの\nＨＰを５回復する
-MSID_H_自動回復: 毎ターン\nＨＰが５回復する
-MSID_H_自動回復大: 毎ターン\nＨＰが回復する
-MSID_H_自動回復祈祷師: 毎ターン\nＨＰが５回復する
-MSID_H_吸収: 吸収
-MSID_H_一撃死無効: 一撃死無効
-MSID_H_神殺し: 【神】を滅ぼすことができる
-MSID_H_地形効果無効: 地形効果無効
-MSID_H_呪い: 一定の確率で\n使用者に呪いを放つ
-MSID_H_呪い無効: 呪いの発生率を抑える
-MSID_H_魔法武器: この武器による攻撃は\n魔法攻撃として扱う
-MSID_H_威力固定: 威力固定
-MSID_H_瀕死攻撃: 瀕死攻撃
-MSID_H_魔法回避: 魔法回避
-MSID_H_良成長: 良成長
-MSID_H_きまぐれ成長: レベルアップの際　本人の\n資質と異なる成長をする
-MSID_H_魔法射程＋１: 黒魔法の射程が\n１マス長くなる
-MSID_H_魔法射程＋２: 黒魔法の射程が\n２マス長くなる
-MSID_H_魔防＋: 魔防が５上昇する
-MSID_H_魔法命中＋１０: 黒魔法の命中率が\n１０％上昇する
-MSID_H_魔法威力＋５: 黒魔法の攻撃力が\n５上昇する
-MSID_H_必殺全回避: 必殺攻撃を受けない
-MSID_H_対魔物増強: 相手が【魔物】系を持つ時\n力は＋１０される
-MSID_H_怨声: 攻撃射程に関わらず\n必ず反撃を行う
-MSID_H_命中回避＋２０: 命中、回避＋１０
-MSID_H_剣ダメージ半減: 剣ダメージ半減
-MSID_H_槍ダメージ半減: 槍ダメージ半減
-MSID_H_斧ダメージ半減: 斧ダメージ半減
-MSID_H_弓ダメージ半減: 弓によるダメージを\n半減する
-MSID_H_魔法ダメージ半減: 魔法によるダメージを\n半減する
-MSID_H_対魔ダメージ半減: 【魔物】系から受ける\nダメージを半減する
-MSID_H_弓ダメージ半減_兵種: 弓によるダメージを\n半減する
-MSID_H_魔法ダメージ半減_兵種: 魔法によるダメージを\n半減する
-MSID_H_弓魔ダメージ半減_道具: 弓、魔法によるダメージを\n半減する
-MSID_H_消耗必殺: ＨＰが半分以下になった時\n必殺率が上昇する
-MSID_H_巨大: 巨大
-MSID_H_ダウンロード: ダウンロード
-MSID_H_交換禁止: 交換禁止
-MSID_H_敗北条件: 敗北条件
-MSID_H_強制キリバト: 強制キリバト
-MSID_H_強制オンバト: 強制オンバト
-MSID_H_キリバト禁止: キリバト禁止
-MSID_H_魔女ワープ: 相手の近くにワープし\nさらに行動を行う
-MSID_H_召喚数乱数のみ: 召喚数乱数のみ
-MSID_H_召喚確率高: 召喚確率高
-MSID_H_召喚必ず: 召喚必ず
-MSID_H_ディル無効: ディル無効
-MSID_H_召喚AI: 召喚AI
-MSID_H_召喚独立: 召喚独立
-MSID_H_ビグル道連れ: ビグル道連れ
-MSID_H_分裂: 一定の確率で分裂する
-MSID_H_ダメージ床無効: ダメージ床無効
-MSID_H_生存ロスト: 生存ロスト
-MSID_H_祈り: ＨＰ０になる攻撃を受けた時\n運×２の確率で生き残る
-MSID_H_攻撃時2回攻撃: 攻撃時2回攻撃
-MSID_H_特殊演出: 特殊演出
-MSID_H_準特殊演出: 準特殊演出
-MSID_H_魔力射程: 魔力射程
-MSID_H_半魔力射程: 半魔力射程
-MSID_H_四半魔力射程: 四半魔力射程
-MSID_H_弓射程＋１: 弓の攻撃射程が\n１マス伸びる
-MSID_H_弓射程＋２: 弓の攻撃射程が\n２マス伸びる
-MSID_H_被毒: 毎ターン\nＨＰが１０減少する
-MSID_H_被毒２: 毎ターン\nＨＰが１０減少する
-MSID_H_被毒３: 毎ターン\nＨＰが１０減少する
-MSID_H_被足止め: 移動できない\nまた　回避率が３０％低下する
-MSID_H_被足止め始: 移動できない\nまた　回避率が３０％低下する
-MSID_H_被魔封じ: 魔法　ワープを使用できない
-MSID_H_被魔封じ始: 魔法　ワープを使用できない
-MSID_H_毒パッシブ: 攻撃が命中した場合\n相手に【毒】を付与する
-MSID_H_足止めパッシブ: 攻撃が命中した場合\n相手に【移動封じ】を付与する
-MSID_H_魔封じパッシブ: 攻撃が命中した場合\n相手に【魔封じ】を付与する
-MSID_H_ドーマの加護: ドーマ神の力により\n相手の攻撃を封じる
-MSID_H_メガクェイク: 大地の魔法\n敵全体にダメージを与える
-MSID_H_ダークスパイク: 邪竜の棘\n範囲内の敵にダメージを与える
-MSID_H_邪竜の鱗: 受けるダメージを半減する
-MSID_H_赤の呪い: 周囲３マス内の\n敵の回避を２０低下させる
-MSID_H_防御無効: 相手の防御を無視する
-MSID_H_アルム攻撃禁止: アルム攻撃禁止
-MSID_H_状態異常無効: 毒、麻痺などの\n状態異常を受けない
-MSID_H_騎馬: 馬を操り戦場を駆ける\n移動力が高い
-MSID_H_飛行: 移動や戦闘において\n地形の影響を受けない
-MSID_H_鎧: 鎧を纏った兵士\n高い防御力を誇る
-MSID_H_魔物: 呪われた生物\n高い生命力を持つ
-MSID_H_上級魔物: 力を得て進化した魔物\nディルを無効化する
-MSID_H_竜族: 幻とされている竜族\n圧倒的な力を持つ
-MSID_H_神: 力を求め続け\n正気を失った神竜
-MSID_H_神_ギムレー: 神の力と\n負の思念からなる邪竜
-MSID_H_騎馬特効: 【騎馬】を持つ相手に対し\n特効を得る
-MSID_H_飛行特効: 【飛行】を持つ相手に対し\n特効を得る
-MSID_H_鎧特効: 【鎧兵】を持つ相手に対し\n特効を得る
-MSID_H_魔物特効: 【魔物】系を持つ相手に対し\n特効を得る
-MSID_H_女武器威力２倍: 女性が使用する時\n武器の威力は２倍になる
-MSID_H_魔法ＨＰ消費無し: 魔法を使用する際\nＨＰを消費しない
-MSID_H_ダメージ床無効_公開: 地形による\nダメージを受けない
-MSID_H_amiibo召喚: amiiboをつかって\n幻影兵を召喚する
+MSID_命中補正１: Aiming
+MSID_威力補正１: Steel Blow
+MSID_回避補正１: Evasive Blow
+MSID_手加減: Mercy
+MSID_体当たり: Shove
+MSID_入れ替え: Swap
+MSID_命中補正２: Crosswise
+MSID_威力補正２: Mighty Arrow
+MSID_回避補正２: Duelist's Blow
+MSID_必殺補正１: Double Severity
+MSID_魔法攻撃: Magic Blow
+MSID_とどめHP吸収: Life-taker
+MSID_切り込み: Lunge
+MSID_切り抜け: Force Through
+MSID_後手必殺: Lion Heart
+MSID_射程＋１: Distant Bolt
+MSID_特効馬: Horseslayer
+MSID_特効鎧: Armorbreaker
+MSID_特効鎧２: Armorcrusher
+MSID_特効魔: Blessed Arrows
+MSID_特効飛: Wing Clipper
+MSID_瀕死確殺: Death Tracer
+MSID_足止め: Trapping Arrows
+MSID_魔封じ: Sealing Arrows
+MSID_HP吸収: Abundance
+MSID_２連撃: Twin Lions
+MSID_HP減少分ダメ: Vendetta
+MSID_速さダメージ: Draconic Mist
+MSID_技ダメージ: Tiger Flurry
+MSID_射程＋２: Arch Javelin
+MSID_射程＋３: Fated Arrows
+MSID_地形無視: Shadowchaser
+MSID_５連撃: Astral Blow
+MSID_必殺補正２: Crushing Blow
+MSID_威力補正３: Solar Impact
+MSID_必中: Lunar Glow
+MSID_G防御補正１: Fortification
+MSID_G地形効果二倍: Camouflage
+MSID_G物理間接半減: Aegis
+MSID_G魔法反射: Magic Mirror
+MSID_G物理半減: Pavise
+MSID_G魔法半減: Earth's Blessing
+MSID_鉄剣２: Windswept
+MSID_雷剣２: Thunderclap
+MSID_金剣２: Earth's Bounty
+MSID_女剣２: Flamberge
+MSID_鉄槍２: Long Arch
+MSID_鋼槍２: Gale Lance
+MSID_銀槍１: Mistwalker
+MSID_銀槍２: Chariot
+MSID_殺弓: Hunter Volley
+MSID_滅殺: Lethality
+MSID_アルム奥義: Dragon Conquest
+MSID_セリカ奥義: True Ragnarok
+MSID_トライアングル: T. Attack
+MSID_主人公: Hero
+MSID_リゲル王家: Rigelian Royalty
+MSID_ソフィア王家: Zofian Royalty
+MSID_隣接回復: Healing Light
+MSID_自動回復: Renewal
+MSID_自動回復大: Resurrection
+MSID_自動回復祈祷師: Summon Flesh
+MSID_吸収: Absorb
+MSID_一撃死無効: Nihil
+MSID_神殺し: Godslayer
+MSID_地形効果無効: Null Terrain
+MSID_呪い: Hex
+MSID_呪い無効: Weaken Hex
+MSID_魔法武器: Magic Weapon
+MSID_威力固定: Fixed Might
+MSID_瀕死攻撃: Dying Attack
+MSID_魔法回避: Magic Evade
+MSID_良成長: Aptitude
+MSID_きまぐれ成長: Reconstruct
+MSID_魔法射程＋１: Focus
+MSID_魔法射程＋２: Sorcery
+MSID_魔防＋: Res +5
+MSID_魔法命中＋１０: Discipline
+MSID_魔法威力＋５: Mag +5
+MSID_必殺全回避: Null Critical
+MSID_対魔物増強: Banish Terrors
+MSID_怨声: Outrage
+MSID_命中回避＋２０: Unyielding Fire
+MSID_剣ダメージ半減: Weaken Sword
+MSID_槍ダメージ半減: Weaken Lance
+MSID_斧ダメージ半減: Weaken Axe
+MSID_弓ダメージ半減: Heavy Armor
+MSID_魔法ダメージ半減: Spirit Ward
+MSID_対魔ダメージ半減: Blessed
+MSID_弓ダメージ半減_兵種: Heavy Armor
+MSID_魔法ダメージ半減_兵種: Spirit Ward
+MSID_弓魔ダメージ半減_道具: Deception
+MSID_消耗必殺: Wrath
+MSID_巨大: Giant
+MSID_ダウンロード: Download
+MSID_交換禁止: Trade Prohibited
+MSID_敗北条件: Defeat Condition
+MSID_強制キリバト: Forced Battle Anim.
+MSID_強制オンバト: Forced Map Anim.
+MSID_キリバト禁止: No Battle Anim.
+MSID_魔女ワープ: Warp
+MSID_召喚数乱数のみ: Random Summon
+MSID_召喚確率高: Likely Summon
+MSID_召喚必ず: Always Summon
+MSID_ディル無効: Null Dear
+MSID_召喚AI: Summon AI
+MSID_召喚独立: Summon Independent
+MSID_ビグル道連れ: Mogall Aligned
+MSID_分裂: Separate
+MSID_ダメージ床無効: Null Damage Tile
+MSID_生存ロスト: Dead
+MSID_祈り: Miracle
+MSID_攻撃時2回攻撃: Brave
+MSID_特殊演出: Special Appearance
+MSID_準特殊演出: Sub Appearance
+MSID_魔力射程: Magic Range
+MSID_半魔力射程: Magic/2 Range
+MSID_四半魔力射程: Magic/4 Range
+MSID_弓射程＋１: Bowrange +1
+MSID_弓射程＋２: Bowrange +2
+MSID_被毒: [Poisoned]
+MSID_被毒２: [Poisoned]
+MSID_被毒３: [Poisoned]
+MSID_被足止め: [Immobilized]
+MSID_被足止め始: [Immobilized]
+MSID_被魔封じ: [Silenced]
+MSID_被魔封じ始: [Silenced]
+MSID_毒パッシブ: Venom Blow
+MSID_足止めパッシブ: Stun Powder
+MSID_魔封じパッシブ: Eerie Voice
+MSID_ドーマの加護: Duma's Blessing
+MSID_メガクェイク: Mega Quake
+MSID_ダークスパイク: Dark Spike
+MSID_邪竜の鱗: Dragonskin
+MSID_赤の呪い: Anathema
+MSID_防御無効: Null Defense
+MSID_アルム攻撃禁止: Ignore Alm
+MSID_状態異常無効: Status Immunity
+MSID_騎馬: Cavalry
+MSID_飛行: Flying
+MSID_鎧: Armor
+MSID_魔物: Terror
+MSID_上級魔物: Terror+
+MSID_竜族: Dragon
+MSID_神: God
+MSID_神_ギムレー: God
+MSID_騎馬特効: Eff. Cavalry
+MSID_飛行特効: Eff. Flying
+MSID_鎧特効: Eff. Armor
+MSID_魔物特効: Eff. Terror
+MSID_女武器威力２倍: Female Bonus
+MSID_魔法ＨＰ消費無し: Pact-Maker
+MSID_ダメージ床無効_公開: Purify
+MSID_amiibo召喚: Summon amiibo
+MSID_H_無し: None
+MSID_H_命中補正１: Fires an arrow at enemy's\nblind spot; high hit rate.
+MSID_H_威力補正１: A powerful blow.
+MSID_H_回避補正１: An attack that\nprioritizes evasion.
+MSID_H_手加減: Leaves enemy with 1 HP.
+MSID_H_体当たり: Pushes an allied unit\none tile away.
+MSID_H_入れ替え: Swaps positions with\nadjacent ally unit.
+MSID_H_命中補正２: Attacks at an angle;\nhigh hit rate.
+MSID_H_威力補正２: A powerful arrow.
+MSID_H_回避補正２: A sudden strike that\nprepares the user to evade.
+MSID_H_必殺補正１: A large, sweeping strike.
+MSID_H_魔法攻撃: An attack infused\nwith magic.
+MSID_H_とどめHP吸収: Restores HP dealt when\ndefeating an enemy.
+MSID_H_切り込み: Swaps spots with an\nenemy after combat.
+MSID_H_切り抜け: Moves a tile in front\nof an enemy after battle.
+MSID_H_後手必殺: A powerful blow that\nmoves last.
+MSID_H_射程＋１: Raises sword to attack\nfaraway enemies.
+MSID_H_特効馬: Deals effective damage to\nCavalry enemies.
+MSID_H_特効鎧: Deals effective damage to\nArmored enemies.
+MSID_H_特効鎧２: Deals effective damage to\nArmored enemies.
+MSID_H_特効魔: Deals effective damage to\nTerrors.
+MSID_H_特効飛: Deals effective damage to\nFlying enemies.
+MSID_H_瀕死確殺: Any attack that can kill\nan enemy will always hit.
+MSID_H_足止め: Stops enemy movement\nfor one turn after hitting.
+MSID_H_魔封じ: Seals enemy magic for\none turn after hitting.
+MSID_H_HP吸収: Recovers some damage\ndealt, as HP.
+MSID_H_２連撃: Unleashes two\nconsecutive blows.
+MSID_H_HP減少分ダメ: Adds half of damage taken\nto attack power.
+MSID_H_速さダメージ: Raises user's attack\nbased on speed.
+MSID_H_技ダメージ: Raises user's attack\nbased on skill.
+MSID_H_射程＋２: Attacks very faraway foes.
+MSID_H_射程＋３: Attacks foes from a\ngreat distance.
+MSID_H_地形無視: Attacks while ignoring terrain.
+MSID_H_５連撃: Unleashes five consecutive\nattacks at half damage.
+MSID_H_必殺補正２: Attacks while halving\nenemy defense.
+MSID_H_威力補正３: Unleashes an incredibly\npowerful attack.
+MSID_H_必中: Always hits.
+MSID_H_G防御補正１: Physical attacks deal\n5 less damage.
+MSID_H_G地形効果二倍: Doubles effects of terrain.
+MSID_H_G物理間接半減: Halves damage from\nlong-distance attacks.
+MSID_H_G魔法反射: Deflects magic attacks.
+MSID_H_G物理半減: Halves damage from\nphysical attacks.
+MSID_H_G魔法半減: Halves damage from\nmagic attacks.
+MSID_H_鉄剣２: Blocks enemy\ncounterattacks.
+MSID_H_雷剣２: Powerful attack on\none adjacent enemy.
+MSID_H_金剣２: Receives food when\ndefeating enemies.
+MSID_H_女剣２: Attacks twice, imbued\nwith magic.
+MSID_H_鉄槍２: Throws lance to\nattack distant foes.
+MSID_H_鋼槍２: Powerful attack on\none adjacent enemy.
+MSID_H_銀槍１: Gain resistance to magic\nafter attacking.
+MSID_H_銀槍２: Pushes enemy a tile\naway after battle.
+MSID_H_殺弓: Two consecutive attacks\ninflicted with rapid speed.
+MSID_H_滅殺: Lethality.
+MSID_H_アルム奥義: Alm's ultimate skill.
+MSID_H_セリカ奥義: Celica's ultimate skill.
+MSID_H_トライアングル: Sisters cooperate to\nunleash a joint attack.
+MSID_H_主人公: Hero.
+MSID_H_リゲル王家: Rigelian Royalty.
+MSID_H_ソフィア王家: Zofian Royalty.
+MSID_H_隣接回復: Heals adjacent allies\nby 5 every turn.
+MSID_H_自動回復: Heals 5 HP every turn.
+MSID_H_自動回復大: Heals every turn.
+MSID_H_自動回復祈祷師: Heals 5 HP every turn.
+MSID_H_吸収: Absorb.
+MSID_H_一撃死無効: Negates one-hit KOs.
+MSID_H_神殺し: Has the ability to\ndestroy a god.
+MSID_H_地形効果無効: Ignores terrain effects.
+MSID_H_呪い: Has a chance to free\nthe user from magic.
+MSID_H_呪い無効: Reduces the \neffectiveness of magic.
+MSID_H_魔法武器: This weapon deals\nmagic damage.
+MSID_H_威力固定: Fixed Might.
+MSID_H_瀕死攻撃: Dying attack.
+MSID_H_魔法回避: Magic evasion.
+MSID_H_良成長: Aptitude.
+MSID_H_きまぐれ成長: User will experience\nunusual level-ups.
+MSID_H_魔法射程＋１: Magic range +1.
+MSID_H_魔法射程＋２: Magic range +2.
+MSID_H_魔防＋: Increases Resistance by 5.
+MSID_H_魔法命中＋１０: Increases Magic\nhit rate by 10.
+MSID_H_魔法威力＋５: Increases Magic\nstrength by 5.
+MSID_H_必殺全回避: Immune to critical hits.
+MSID_H_対魔物増強: +10 damage when\nfighting Terrors.
+MSID_H_怨声: Counter-attacks regardless\nof range.
+MSID_H_命中回避＋２０: Aim and Evade +10.
+MSID_H_剣ダメージ半減: Halves sword damage.
+MSID_H_槍ダメージ半減: Halves lance damage.
+MSID_H_斧ダメージ半減: Halves axe damage.
+MSID_H_弓ダメージ半減: Halves bow damage.
+MSID_H_魔法ダメージ半減: Halves magic damage.
+MSID_H_対魔ダメージ半減: Halves damage from Terrors.
+MSID_H_弓ダメージ半減_兵種: Halves damage from bows.
+MSID_H_魔法ダメージ半減_兵種: Halves damage from magic.
+MSID_H_弓魔ダメージ半減_道具: Halves damage from\nbows and magic.
+MSID_H_消耗必殺: Increases critical rate\nwhen HP is below 50%.
+MSID_H_巨大: Giant.
+MSID_H_ダウンロード: Download.
+MSID_H_交換禁止: Banned from trading.
+MSID_H_敗北条件: Defeat condition.
+MSID_H_強制キリバト: Forces battle animations.
+MSID_H_強制オンバト: Forces map animations.
+MSID_H_キリバト禁止: Disables battle animations.
+MSID_H_魔女ワープ: Warps next to enemy\nand moves again.
+MSID_H_召喚数乱数のみ: Randomly summons.
+MSID_H_召喚確率高: High chance of summoning.
+MSID_H_召喚必ず: Always summons.
+MSID_H_ディル無効: Null Dear.
+MSID_H_召喚AI: Summon AI.
+MSID_H_召喚独立: Summon Independent.
+MSID_H_ビグル道連れ: Aligned with Mogall.
+MSID_H_分裂: Chance of splitting in two.
+MSID_H_ダメージ床無効: Ignores damage tiles.
+MSID_H_生存ロスト: Dead.
+MSID_H_祈り: Luckx2% chance of surviving\nwhen HP reaches 0.
+MSID_H_攻撃時2回攻撃: Attacks twice when initiating.
+MSID_H_特殊演出: Special Appearance.
+MSID_H_準特殊演出: Sub Appearance.
+MSID_H_魔力射程: Magic Range.
+MSID_H_半魔力射程: Magic/2 Range.
+MSID_H_四半魔力射程: Magic/4 Range.
+MSID_H_弓射程＋１: Bow range +1.
+MSID_H_弓射程＋２: Bow range +2.
+MSID_H_被毒: HP reduces by 10\nevery turn.
+MSID_H_被毒２: HP reduces by 10\nevery turn.
+MSID_H_被毒３: HP reduces by 10\nevery turn.
+MSID_H_被足止め: Unable to move.\nEvasion -30.
+MSID_H_被足止め始: Unable to move.\nEvasion -30.
+MSID_H_被魔封じ: Cannot use magic or warp.
+MSID_H_被魔封じ始: Cannot use magic or warp.
+MSID_H_毒パッシブ: Poisons enemy after hitting.
+MSID_H_足止めパッシブ: Seals enemy movement\nafter hitting.
+MSID_H_魔封じパッシブ: Seals enemy magic\nafter hitting.
+MSID_H_ドーマの加護: Seals enemy attack\nwith Duma's power.
+MSID_H_メガクェイク: Damages all enemies\nwith earth magic.
+MSID_H_ダークスパイク: Damages all enemies in\nrange using thorns.
+MSID_H_邪竜の鱗: Halves damage received.
+MSID_H_赤の呪い: Evade -20 for all enemies\nwithin three tiles.
+MSID_H_防御無効: Ignores enemy defenses.
+MSID_H_アルム攻撃禁止: Will not attack Alm.
+MSID_H_状態異常無効: Immune to poison, paralysis,\nand other effects.
+MSID_H_騎馬: Soldier's mount increases\nmovement ability.
+MSID_H_飛行: Unaffected by terrain,\nin and out of battle.
+MSID_H_鎧: An armored warrior boasting\nhigh defenses.
+MSID_H_魔物: A cursed being with\nhigh health.
+MSID_H_上級魔物: A promoted Terror,\nimmune to Dear.
+MSID_H_竜族: A dragon clan member\nwith overwhelming strength.
+MSID_H_神: A divine dragon that\nhas lost its sanity.
+MSID_H_神_ギムレー: A fell dragon produced by\na god's power and angst.
+MSID_H_騎馬特効: Deals effective damage to\nCavalry enemies.
+MSID_H_飛行特効: Deals effective damage to\nFlying enemies.
+MSID_H_鎧特効: Deals effective damage to\nArmored enemies.
+MSID_H_魔物特効: Deals effective damage\nto Terrors.
+MSID_H_女武器威力２倍: Doubles weapon might\nwhen used by a female.
+MSID_H_魔法ＨＰ消費無し: Will not lose HP\nwhen casting magic.
+MSID_H_ダメージ床無効_公開: Immune to\nterrain-based damage.
+MSID_H_amiibo召喚: Summons an Illusory\nSoldier using amiibo.

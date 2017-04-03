@@ -4,97 +4,97 @@ MESS_ARCHIVE_Sortie
 Message Name: Message
 
 
-MID_SORTIE_タイトル: 進撃準備
-MID_SORTIE_ユニット選択: ユニット選択
-MID_H_SORTIE_ユニット選択: 出撃するユニットを選択します
-MID_SORTIE_マップ・配置: マップ・配置
-MID_H_SORTIE_マップ・配置: マップを確認、出撃ユニットの配置を変更します
-MID_SORTIE_持ち物整理: 身支度
-MID_H_SORTIE_持ち物整理: ユニットの持ち物を整理します
-MID_SORTIE_スキル着脱: スキル着脱
-MID_H_SORTIE_スキル着脱: ユニットのスキルを着脱できます
-MID_SORTIE_支援会話: 支援会話
-MID_H_SORTIE_支援会話: ユニット同士の絆を深める会話を行います
-MID_SORTIE_記録: セーブ
-MID_H_SORTIE_記録: 現在のプレイ状況を保存します
-MID_SORTIE_戻る: 戻る
-MID_SORTIE_戻る_通信対戦: 戻る
-MID_H_SORTIE_戻る: 前の画面へ戻ります
-MID_H_SORTIE_戻る_通信対戦: ファイル選択に戻ります
-MID_SORTIE_戻る確認: 戻りますか？
-MID_SORTIE_編成終了: 戦闘開始
-MID_H_SORTIE_編成終了: 編成を終了し、戦闘を開始します
-MID_SORTIE_編成終了確認: 戦闘を開始しますか？
-MID_SORTIE_編成終了_防衛配置: 決定
-MID_SORTIE_編成終了_通信対戦: 決定
-MID_H_SORTIE_編成終了_通信対戦: 編成を決定します
-MID_SORTIE_編成終了確認_通信対戦: 決定しますか？
-MID_SORTIE_探索準備: 探索準備
-MID_SORTIE_編成終了_ダンジョン: 探索開始
-MID_H_SORTIE_編成終了_ダンジョン: 編成を終了し、探索を開始します
-MID_SORTIE_編成終了確認_ダンジョン: 探索を開始しますか？
-MID_SORTIE_ならびかえ: ならびかえ
-MID_H_SORTIE_ならびかえ: 戦闘時の並び順を変更します
-MID_SORTIE_離脱: 離脱
-MID_H_SORTIE_離脱: ユニットをダンジョンから離脱させます
-MID_SORTIE_離脱_確認_主人公: 全員でダンジョンから離脱しますか？
-MID_SORTIE_離脱_確認: $a$a0をダンジョンから離脱させますか？
-MID_SORTIE_離脱_結果: $a$a0が離脱しました
-MID_SORTIE_ミラの歯車: ミラの歯車
-MID_H_SORTIE_ミラの歯車: ミラの歯車を起動します
-MID_SORTIE_通信: 通信
-MID_H_SORTIE_通信: 通信機能を利用します
-MID_SORTIE_交代: 交代
-MID_H_SORTIE_交代: アルム／セリカと交代します
-MID_SORTIE_待機: 待機
-MID_H_SORTIE_待機: 敵軍の行動に移ります
-MID_SORTIE_入る: 入る
-MID_H_SORTIE_入る: 現在居る場所に入ります
-MID_SORTIE_入る確認: この場所に入りますか
-MID_SORTIE_一括整理: おまかせ
-MID_SORTIE_一括整理_おまかせ整理: おまかせ整理
-MID_H_SORTIE_一括整理_おまかせ整理: 出撃ユニットの持ち物をおまかせで整理します
-MID_SORTIE_一括整理_おまかせ整理確認: マップに出撃するユニットの持ち物を\nおまかせで整理しますか？\n（出撃しないユニットの持ち物は\n　全て道具袋に入れられます）
-MID_SORTIE_一括整理_おまかせ整理確認2: 全てのユニットの持ち物を\nおまかせで整理しますか？
-MID_SORTIE_一括整理_おまかせ整理警告: 道具袋の持ち物が不足しているため\n全てのユニットに\n持ち物を持たせることができませんでした。
-MID_SORTIE_一括整理_おまかせ整理警告2: 道具袋がいっぱいのため\n持ち物の整理ができませんでした。
-MID_SORTIE_一括整理_全預け: 全預け
-MID_H_SORTIE_一括整理_全預け: 全てのユニットの持ち物を道具袋に入れます
-MID_SORTIE_一括整理_全預け確認: 全てのユニットの持ち物を\n道具袋に入れますか？
-MID_SORTIE_一括整理_全預け警告: 道具袋がいっぱいのため\n全てのユニットの持ち物を\n入れることができませんでした。
-MID_H_SORTIE_出撃人数: $aあと$a0人出撃ユニットを選択できます
-MID_B_SORTIE_部隊表: 部隊表
-MID_B_SORTIE_一覧: 一覧
-MID_B_SORTIE_おまかせ: おまかせ
-MID_B_SORTIE_切り替え: 切替
-MID_B_SORTIE_ユニット変更: 人変更
-MID_SORTIE_持ち物整理_持ち物: 道具袋
-MID_H_SORTIE_持ち物整理_持ち物: このユニットの持ち物を整理します
-MID_SORTIE_持ち物整理_交換: 交換
-MID_H_SORTIE_持ち物整理_交換: このユニットの持ち物と他のユニットの持ち物を交換します
-MID_SORTIE_持ち物整理_預ける警告: 道具袋の中身がいっぱいのため\n持ち物を預けることができません。
-MID_SORTIE_持ち物整理_交換警告: 道具袋の中身がいっぱいのため\n持ち物を交換することができません。
-MID_H_SORTIE_持ち物整理_交換相手選択: 持ち物を交換する相手を選択してください
-MID_SORTIE_持ち物整理_おまかせ整理: おまかせ
-MID_H_SORTIE_持ち物整理_おまかせ整理: このユニットの持ち物をおまかせで整理します
-MID_SORTIE_持ち物整理_おまかせ整理警告: 道具袋の持ち物が不足しているため\n持ち物を持たせることができませんでした。
-MID_SORTIE_持ち物整理_おまかせ整理警告2: 道具袋がいっぱいのため\n持ち替えができませんでした。
-MID_SORTIE_持ち物整理_おまかせ整理警告3: 現在より適した持ち物が\n道具袋からは見つかりませんでした。
-MID_SORTIE_持ち物整理_全預け: 全預け
-MID_H_SORTIE_持ち物整理_全預け: このユニットの持ち物を道具袋に入れます
-MID_SORTIE_持ち物整理_全預け警告: 道具袋がいっぱいのため\n全ての持ち物を\n入れることができませんでした。
-MID_SORTIE_持ち物整理_預ける: 預ける
-MID_H_SORTIE_持ち物整理_預ける: このユニットの持ち物を道具袋に入れます
-MID_SORTIE_持ち物整理_受け取る: 受け取る
-MID_SORTIE_持ち物整理_統合: 統合
-MID_SORTIE_持ち物整理_装備: 装備
-MID_SORTIE_持ち物整理_外す: 外す
-MID_SORTIE_持ち物整理_並べ替え: 並べ替え
-MID_SORTIE_持ち物整理_使う: 使う
-MID_SORTIE_持ち物整理_使う警告: 道具袋がいっぱいのため\n持ち物を使うことができません。
-MID_SORTIE_持ち物整理_捨てる: 捨てる
-MID_SORTIE_持ち物整理_無し: 何も持っていません
-MID_SORTIE_持ち物整理_輸送隊: 道具袋
-MID_SORTIE_持ち物整理_在庫: 在庫
-MID_RELIANCE_会話相手選択: 相手を選んでください
-MID_RELIANCE_名前不明: ？？？？？？
+MID_SORTIE_タイトル: Preparations
+MID_SORTIE_ユニット選択: Select Units
+MID_H_SORTIE_ユニット選択: Select the units who will fight.
+MID_SORTIE_マップ・配置: View Map
+MID_H_SORTIE_マップ・配置: View the map and set unit positions.
+MID_SORTIE_持ち物整理: Inventory
+MID_H_SORTIE_持ち物整理: Manage items.
+MID_SORTIE_スキル着脱: Equip Skills
+MID_H_SORTIE_スキル着脱: Equip and remove skills.
+MID_SORTIE_支援会話: Support
+MID_H_SORTIE_支援会話: Build unit relationships via conversations.
+MID_SORTIE_記録: Save
+MID_H_SORTIE_記録: Save your progress.
+MID_SORTIE_戻る: Exit
+MID_SORTIE_戻る_通信対戦: Back
+MID_H_SORTIE_戻る: Return to the previous screen.
+MID_H_SORTIE_戻る_通信対戦: Return to file select.
+MID_SORTIE_戻る確認: Exit?
+MID_SORTIE_編成終了: Fight!
+MID_H_SORTIE_編成終了: End preparations and start the battle.
+MID_SORTIE_編成終了確認: Start the battle?
+MID_SORTIE_編成終了_防衛配置: OK
+MID_SORTIE_編成終了_通信対戦: OK
+MID_H_SORTIE_編成終了_通信対戦: Confirm edits.
+MID_SORTIE_編成終了確認_通信対戦: Proceed?
+MID_SORTIE_探索準備: Preparations
+MID_SORTIE_編成終了_ダンジョン: Explore!
+MID_H_SORTIE_編成終了_ダンジョン: End preparations and enter the dungeon.
+MID_SORTIE_編成終了確認_ダンジョン: Begin exploration?
+MID_SORTIE_ならびかえ: Lineup
+MID_H_SORTIE_ならびかえ: Choose units and their order.
+MID_SORTIE_離脱: Escape
+MID_H_SORTIE_離脱: Leave the dungeon.
+MID_SORTIE_離脱_確認_主人公: Send everyone out of the dungeon?
+MID_SORTIE_離脱_確認: $aSend $a0 out of the dungeon?
+MID_SORTIE_離脱_結果: $a$a0 has escaped.
+MID_SORTIE_ミラの歯車: Mila's Gear
+MID_H_SORTIE_ミラの歯車: Use Mila's Gear.
+MID_SORTIE_通信: Wireless
+MID_H_SORTIE_通信: Use wireless functions.
+MID_SORTIE_交代: Switch
+MID_H_SORTIE_交代: Switch between Alm and Celica.
+MID_SORTIE_待機: Wait
+MID_H_SORTIE_待機: Wait for enemy movements.
+MID_SORTIE_入る: Enter
+MID_H_SORTIE_入る: Enter the current area.
+MID_SORTIE_入る確認: Will you enter this area?
+MID_SORTIE_一括整理: Manage
+MID_SORTIE_一括整理_おまかせ整理: Optimize All
+MID_H_SORTIE_一括整理_おまかせ整理: Optimize your fighting units' equipment.
+MID_SORTIE_一括整理_おまかせ整理確認: Optimize your fighting units'\nequipment? (Items held by other\nunits will be returned to the\nconvoy.)
+MID_SORTIE_一括整理_おまかせ整理確認2: Do you wish to optimize\nall units' equipment?
+MID_SORTIE_一括整理_おまかせ整理警告: There were not enough items in\nthe convoy to properly equip all\nfighting units.
+MID_SORTIE_一括整理_おまかせ整理警告2: Equipment could not be optimized.\nNot enough room in convoy.
+MID_SORTIE_一括整理_全預け: Store All
+MID_H_SORTIE_一括整理_全預け: Store all units' items with the convoy.
+MID_SORTIE_一括整理_全預け確認: Store all items with the convoy?
+MID_SORTIE_一括整理_全預け警告: Not all items could be stored. There\nis not enough room in the convoy.
+MID_H_SORTIE_出撃人数: $aYou can select $a0 more.
+MID_B_SORTIE_部隊表: Units
+MID_B_SORTIE_一覧: Less
+MID_B_SORTIE_おまかせ: Manage
+MID_B_SORTIE_切り替え: Switch
+MID_B_SORTIE_ユニット変更: Change units
+MID_SORTIE_持ち物整理_持ち物: Items
+MID_H_SORTIE_持ち物整理_持ち物: Manage items for this unit.
+MID_SORTIE_持ち物整理_交換: Trade
+MID_H_SORTIE_持ち物整理_交換: Trade items between units.
+MID_SORTIE_持ち物整理_預ける警告: Items could not be sent. There\nis not enough room in the convoy.
+MID_SORTIE_持ち物整理_交換警告: Items could not be traded. There\nis not enough room in the convoy.
+MID_H_SORTIE_持ち物整理_交換相手選択: Select a unit to trade items with.
+MID_SORTIE_持ち物整理_おまかせ整理: Optimize
+MID_H_SORTIE_持ち物整理_おまかせ整理: Optimize this unit's equipment.
+MID_SORTIE_持ち物整理_おまかせ整理警告: There were no items in the\nconvoy to properly equip\nthis unit.
+MID_SORTIE_持ち物整理_おまかせ整理警告2: Equipment could not be exchanged.\nNot enough room in the convoy.
+MID_SORTIE_持ち物整理_おまかせ整理警告3: No suitable equipment could\nbe found in the convoy.
+MID_SORTIE_持ち物整理_全預け: Store All
+MID_H_SORTIE_持ち物整理_全預け: Store this unit's items with the convoy.
+MID_SORTIE_持ち物整理_全預け警告: All of this unit's items could not be\nstored. There is not enough room\nin the convoy.
+MID_SORTIE_持ち物整理_預ける: Store
+MID_H_SORTIE_持ち物整理_預ける: Place this unit's item in the convoy.
+MID_SORTIE_持ち物整理_受け取る: Take
+MID_SORTIE_持ち物整理_統合: Combine
+MID_SORTIE_持ち物整理_装備: Equip
+MID_SORTIE_持ち物整理_外す: Remove
+MID_SORTIE_持ち物整理_並べ替え: Arrange
+MID_SORTIE_持ち物整理_使う: Use
+MID_SORTIE_持ち物整理_使う警告: The item cannot be used. There is\nnot enough room in the convoy.
+MID_SORTIE_持ち物整理_捨てる: Discard
+MID_SORTIE_持ち物整理_無し: (No items)
+MID_SORTIE_持ち物整理_輸送隊: Convoy
+MID_SORTIE_持ち物整理_在庫: Stock
+MID_RELIANCE_会話相手選択: Select a unit.
+MID_RELIANCE_名前不明: ???

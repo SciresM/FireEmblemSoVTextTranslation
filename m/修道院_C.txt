@@ -5,7 +5,7 @@ Message Name: Message
 
 
 MID_ADV_C_ジェニー仲間入り会話1: $t3$Wmジェニー|5$w0|$Wmセリカ|h$w0|$Wsジェニー|$Wa$SvpV_SC_2_17_ADV_JENNY_JOIN_CLAMP_0_00|$E通常,|セリカさま。\nあの、わたしもついていっていいですか？$k
-MID_ADV_C_ジェニー_SELECT: ジェニーを仲間にしますか？
+MID_ADV_C_ジェニー_SELECT: Ask Genny to join you?
 MID_ADV_C_ジェニー2: $t3$Wmジェニー|5$w0|$Wmセリカ|h$w0|$Wsジェニー|$Wa$SvpV_SC_2_17_ADV2_JENNY2_00|$E驚,|えっ、だめ？\nそんなあ……$k$p$SvpV_SC_2_17_ADV2_JENNY2_01|$E悲,|あーあ、\nいっしょにいきたかったです……$k
 MID_ADV_C_ジェニー仲間入り会話2: $t3$Wmジェニー|5$w0|$Wmセリカ|h$w0|$Wsジェニー|$Wa$SvpV_SC_2_17_ADV_JENNY_JOIN_CLAMP_1_00|$Eキメ,|なんですか？$k$p$SvpV_SC_2_17_ADV_JENNY_JOIN_CLAMP_1_01|わたし、いっしょにいっても\nいいんですか？$k
 MID_ADV_C_修道院_外出確認: 外へ出ますか？

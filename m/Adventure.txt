@@ -4,32 +4,32 @@ MESS_ARCHIVE_Adventure
 Message Name: Message
 
 
-MID_ADV_アドベンチャー外へ出る: 外へ出ますか？
-MID_ADV_上の階へ: 上の階へ行きますか？
-MID_ADV_下の階へ: 下の階へ行きますか？
-MID_ADV_ダンジョンへ入る: ダンジョンに入りますか？
-MID_ADV_移動する: 移動しますか？
-MID_ADV_会話できない: 話し相手がいません。
-MID_ADV_会話キャラクター名未指定: キャラクタ名を指定してください。
-MID_ADV_持ち物いっぱい: 持ち物がいっぱいなので\nアイテムを入手できませんでした。
-MID_ADV_コイン_取得: $a$a0を$a1枚手に入れた！
-MID_ADV_コイン_消費: $a$a0を$a1枚渡した。
-MID_ADV_旅の商人_到着_アルム: アルム軍の道具袋に\nアイテムを届けました。
-MID_ADV_旅の商人_到着_セリカ: セリカ軍の道具袋に\nアイテムを届けました。
-MID_ADV_調べる_ズーム: ズーム
-MID_ADV_調べる_移動: 見渡す
-MID_adv_key: 牢獄の鍵
-MID_irondoor: 牢の扉
-MID_ADV_コマンド名_会話: 会話
-MID_ADV_コマンド名_調べる: 調べる
-MID_ADV_コマンド名_移動: 移動
-MID_ADV_コマンド名_ミラ: ミラ
-MID_ADV_コマンド名_神像: 神像
-MID_ADV_コマンド名_メニュー: メニュー
-MID_お供え_確認: $aミラ神像に$a0を捧げますか？
-MID_お供え_光: 辺りをやさしい光が包む…
-MID_お供え_疲労回復: 全員の疲労が回復した！
-MID_お供え_疲労回復_歯車: 全員の疲労と\nミラの歯車が回復した！
+MID_ADV_アドベンチャー外へ出る: Do you wish to leave this area?
+MID_ADV_上の階へ: Do you wish to move to a higher floor?
+MID_ADV_下の階へ: Do you wish to move to a lower floor?
+MID_ADV_ダンジョンへ入る: Do you wish to enter the dungeon?
+MID_ADV_移動する: Do you wish to move?
+MID_ADV_会話できない: There is nobody to talk to.
+MID_ADV_会話キャラクター名未指定: Please choose a character.
+MID_ADV_持ち物いっぱい: Because you are holding too much,\nyou cannot take the item.
+MID_ADV_コイン_取得: $aObtained $a1x $a0!
+MID_ADV_コイン_消費: $aHanded over $a1x $a0.
+MID_ADV_旅の商人_到着_アルム: The item has been sent\nto Alm's convoy.
+MID_ADV_旅の商人_到着_セリカ: The item has been sent\nto Celica's convoy
+MID_ADV_調べる_ズーム: Zoom
+MID_ADV_調べる_移動: View
+MID_adv_key: Prison Key
+MID_irondoor: Prison Door
+MID_ADV_コマンド名_会話: Talk
+MID_ADV_コマンド名_調べる: Examine
+MID_ADV_コマンド名_移動: Move
+MID_ADV_コマンド名_ミラ: Mila
+MID_ADV_コマンド名_神像: Statue
+MID_ADV_コマンド名_メニュー: Menu
+MID_お供え_確認: $aWill you offer $a0\nat the Mila Shrine?
+MID_お供え_光: The area is enveloped in a soft light...
+MID_お供え_疲労回復: All army fatigue has been removed!
+MID_お供え_疲労回復_歯車: All army fatigue and Mila's\nGear uses have been restored!
 MID_EV_ミラのしもべ1: $t1$Wmミラ|5$VF隠|$w0|$Wsミラ|$Wa$VNMPID_ミラのしもべ|$SvpV_MIRA_COMMON_EV_SERVANT1_00|よく来ましたね運命の子……\nわれはミラのしもべ。$k$p$SvpV_MIRA_COMMON_EV_SERVANT1_01|わが主、ミラの命により$k$p$SvpV_MIRA_COMMON_EV_SERVANT1_02|資格あるものに\nふさわしい力を授けましょう……$k
 MID_お告げ_デフォルト: $t1$Wmミラ|5$VF隠|$w0|$Wsミラ|$Wa$VNMPID_ミラのしもべ|あなたたちに、ミラの導きがあらんことを$k
 MID_お告げ_盗賊のほこら_0: $t1$Wmミラ|5$VF隠|$w0|$Wsミラ|$Wa$VNMPID_ミラのしもべ|仲間にアーチャーや魔道士がいなければ\nこの先の戦いは厳しいものになるでしょう$k$pあなたたちに、ミラの導きがあらんことを$k

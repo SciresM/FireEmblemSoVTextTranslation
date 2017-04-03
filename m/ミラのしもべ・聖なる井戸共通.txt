@@ -4,19 +4,19 @@ MESS_ARCHIVE_ミラのしもべ・聖なる井戸共通
 Message Name: Message
 
 
-MID_EV_ミラのしもべ2: 資格のある人はいないようです。
-MID_EV_ミラのしもべ_回復前: 部屋をやさしい光が包んでいる…
-MID_EV_ミラのしもべ_回復後: $a$a0達の疲労が回復した！
-MID_EV_聖なる井戸1_grow: $a$a0の水が湧いています。誰に飲ませますか？\n
-MID_EV_聖なる井戸1_exp: 経験の水が湧いています。誰に飲ませますか？
-MID_EV_聖なる井戸1_live: 復活の水が湧いています。誰に飲ませますか？
-MID_EV_聖なる井戸1_fine: 疲労回復の水が湧いています。\n飲みますか？(無限に使用できます)
-MID_EV_聖なる井戸1_2: 本当に飲ませますか？
-MID_EV_聖なる井戸2: 聖なる井戸は枯れてしまった……
-MID_EV_聖なる井戸_枯れている: 聖なる井戸は枯れてしまっている……
-MID_EV_聖なる井戸_grow_上昇: $a$a0が$a1上がった！！
-MID_EV_聖なる井戸_live_復活: $a$a0は復活した！！
-MID_EV_聖なる井戸_fine_疲労回復: メンバー全員の疲労が回復した！！
-MID_EV_聖なる井戸_grow_不要: $a$a0の水が湧いている。\n今は必要ないようだ。
-MID_EV_聖なる井戸_exp_不要: 経験の水が湧いている。\n今は必要ないようだ。
-MID_EV_聖なる井戸_live_不要: 復活の水が湧いている。\n今は必要ないようだ。
+MID_EV_ミラのしもべ2: Nobody is ready to promote.
+MID_EV_ミラのしもべ_回復前: A warm light fills the room...
+MID_EV_ミラのしもべ_回復後: $a$a0's army is cured of fatigue!
+MID_EV_聖なる井戸1_grow: $a$a0 water is flowing. Who should drink it?\n
+MID_EV_聖なる井戸1_exp: EXP water is flowing. Who should drink it?
+MID_EV_聖なる井戸1_live: Revival water is flowing. Who should drink it?
+MID_EV_聖なる井戸1_fine: Anti-fatigue water is flowing. Who should\ndrink it? (infinite-use)
+MID_EV_聖なる井戸1_2: Should this unit drink it?
+MID_EV_聖なる井戸2: The sacred well has dried up...
+MID_EV_聖なる井戸_枯れている: The sacred well is drying up...
+MID_EV_聖なる井戸_grow_上昇: $a$a0's $a1 has increased!!
+MID_EV_聖なる井戸_live_復活: $a$a0 has been revived!!
+MID_EV_聖なる井戸_fine_疲労回復: Party fatigue has been cured!!
+MID_EV_聖なる井戸_grow_不要: $a$a0 water is flowing.\nYou see no need for it now.
+MID_EV_聖なる井戸_exp_不要: EXP water is flowing.\nYou see no need for it now.
+MID_EV_聖なる井戸_live_不要: Revival water is flowing.\nYou see no need for it now.
