@@ -1,4 +1,4 @@
-MESS_ARCHIVE_MainMenu
+﻿MESS_ARCHIVE_MainMenu
 
 
 Message Name: Message
@@ -58,7 +58,7 @@ MID_ファイルメニュー_ターン: TURN
 MID_ファイルメニュー_記録確認: Save data?
 MID_ファイルメニュー_複製確認: Copy data?
 MID_ファイルメニュー_削除確認: Are you sure you\nwant to delete this file?
-MID_ファイルメニュー_中断削除確認: Delete bookmark data?
+MID_ファイルメニュー_中断削除確認: Loading bookmark data will also\ndelete it. Load bookmark data?
 MID_ファイルメニュー_記録無し確認_次へ: Continue without saving?
 MID_ファイルメニュー_記録無し確認_メインメニューへ: Return to main menu\nwithout saving?
 MID_ファイルメニュー_記録無し確認_ゲームクリア: If you return to the title\nscreen, clear data will not be saved.\nEnd game without saving?

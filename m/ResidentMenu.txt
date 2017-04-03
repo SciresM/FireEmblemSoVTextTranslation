@@ -1,4 +1,4 @@
-MESS_ARCHIVE_ResidentMenu
+﻿MESS_ARCHIVE_ResidentMenu
 
 
 Message Name: Message
@@ -178,7 +178,7 @@ MID_MENU_バックアップ_中断削除確認: This will permanently delete\nyo
 MID_MENU_バックアップ_削除確認: Delete this save file?
 MID_MENU_バックアップ_コピー確認: Copy this save file?
 MID_MENU_バックアップ_消去中: Deleting save data...\nPlease do not turn the power off.
-MID_MENU_バックアップ_中断消去中: Deleting the bookmark...\nPlease do not turn the power off.
+MID_MENU_バックアップ_中断消去中: Loading bookmark...\nPlease do not turn the power off.
 MID_MENU_バックアップ_ロード失敗: Failed to read save data.
 MID_MENU_ファイル_ロード失敗: Failed to read file.
 MID_MENU_ファイル_バージョンエラー: Cannot load save data because\nof a version mismatch. Please update\nyour game to the newest version.
