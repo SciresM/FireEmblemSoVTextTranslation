@@ -210,7 +210,7 @@ MID_PROFILE_出身地_ベルン王国: Bern
 MID_PROFILE_出身地_ペレジア王国: Plegia
 MID_PROFILE_出身地_マケドニア王国: Macedon
 MID_PROFILE_出身地_ミューズ公国: Nestra
-MID_PROFILE_出身地_ラムの村: ラムの村
+MID_PROFILE_出身地_ラムの村: Ram
 MID_PROFILE_出身地_リキア同盟: Lycia
 MID_PROFILE_出身地_リゲル帝国: Rigel
 MID_PROFILE_出身地_ルネス王国: Renais
