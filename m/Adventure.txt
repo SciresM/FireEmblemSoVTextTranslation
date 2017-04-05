@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Adventure
+﻿MESS_ARCHIVE_Adventure
 
 
 Message Name: Message
@@ -11,7 +11,7 @@ MID_ADV_ダンジョンへ入る: Do you wish to enter the dungeon?
 MID_ADV_移動する: Do you wish to move?
 MID_ADV_会話できない: There is nobody to talk to.
 MID_ADV_会話キャラクター名未指定: Please choose a character.
-MID_ADV_持ち物いっぱい: Because you are holding too much,\nyou cannot take the item.
+MID_ADV_持ち物いっぱい: You are carrying too much,\nso you cannot take the item.
 MID_ADV_コイン_取得: $aObtained $a1x $a0!
 MID_ADV_コイン_消費: $aHanded over $a1x $a0.
 MID_ADV_旅の商人_到着_アルム: The item has been sent\nto Alm's convoy.
@@ -26,7 +26,7 @@ MID_ADV_コマンド名_移動: Move
 MID_ADV_コマンド名_ミラ: Mila
 MID_ADV_コマンド名_神像: Statue
 MID_ADV_コマンド名_メニュー: Menu
-MID_お供え_確認: $aWill you offer $a0\nat the Mila Shrine?
+MID_お供え_確認: $aWill you offer $a0\nto the Mila Shrine?
 MID_お供え_光: The area is enveloped in a soft light...
 MID_お供え_疲労回復: All army fatigue has been removed!
 MID_お供え_疲労回復_歯車: All army fatigue and Mila's\nGear uses have been restored!

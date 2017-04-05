@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Dungeon
+﻿MESS_ARCHIVE_Dungeon
 
 
 Message Name: Message
@@ -23,7 +23,7 @@ MID_DNG_開ける: Open door
 MID_DNG_拾う: $aPick up $a0
 MID_DNG_敵がいる: (There are enemies nearby...)
 MID_DNG_敵がいる_確認: Press onward?
-MID_DNG_移動_確認: 転移の魔法陣があります。\n利用しますか？
+MID_DNG_移動_確認: There's a magic circle here.\nTeleport?
 MID_DNG_脱出_確認: Do you wish to\nleave the dungeon?
 MID_DNG_テーベの地下迷宮: テーベの地下迷宮
 MID_DNG_テーベの地下迷宮_２階: テーベの地下迷宮\n地下２階
@@ -37,14 +37,14 @@ MID_DNG_テーベの地下迷宮_９階: テーベの地下迷宮\n地下９階
 MID_DNG_テーベの地下迷宮_１０階: テーベの地下迷宮\n地下１０階
 MID_DNG_森のほこら_看板: 「宝を求める者よ\n　力無くば去るがよい」
 MID_DNG_森のほこら_宝箱トラップ: 後ろで何か音がした…
-MID_DNG_恐山のほこら_ドーマ像_初回: $Z「汝、力を持つ者か？\n　ならば我に示してみよ」$k
-MID_DNG_恐山のほこら_ドーマ像_二回目以降: $Z「我に力を示すのだ」$k
+MID_DNG_恐山のほこら_ドーマ像_初回: $ZDo you hold true power?\nReveal it at once!$k
+MID_DNG_恐山のほこら_ドーマ像_二回目以降: $ZProve your strength to me.$k
 MID_DNG_恐山のほこら_ドーマ像_確認: Begin battle?
-MID_DNG_恐山のほこら_ドーマ像_勝利: $Z「見事なり」$k$p「先の門を開き\n　さらなる力を求めるがよい」$k
-MID_DNG_恐山のほこら_ドーマ像_撃破済み: $Z「先の門を開き\n　さらなる力を求めるがよい」$k
-MID_DNG_恐山のほこら_看板１: 「神の像に力を示すとき\n　地獄の門は開かれる」
-MID_DNG_恐山のほこら_看板２: 「左：死者の門　右：生者の門」
-MID_DNG_恐山のほこら_看板３: 「左：銀の盾　右：聖なる盾\n　どちらを望むか？」
+MID_DNG_恐山のほこら_ドーマ像_勝利: $ZExcellent.$k$pOpen the door ahead\nand seek yet greater power.$k
+MID_DNG_恐山のほこら_ドーマ像_撃破済み: $ZOpen the door ahead\nand seek yet greater power.$k
+MID_DNG_恐山のほこら_看板１: Prove your strength to the statue,\nand the gate to hell shall open.
+MID_DNG_恐山のほこら_看板２: Left: Gate of Death\nRight: Gate of Life
+MID_DNG_恐山のほこら_看板３: Left: Silver Shield\nRight: Sacred Shield\nWhich will you choose?
 MID_DNG_迷いの森_看板１: 「人を辿れば里へ」
 MID_DNG_迷いの森_看板２: 「塔を辿れば宝へ」
 MID_DNG_ドーマ神殿_看板１: 「正しき道は神の印にあり」

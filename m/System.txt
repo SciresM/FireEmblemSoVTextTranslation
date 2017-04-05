@@ -1,4 +1,4 @@
-MESS_ARCHIVE_System
+﻿MESS_ARCHIVE_System
 
 
 Message Name: Message
@@ -39,7 +39,7 @@ MID_SYS_特効: Eff
 MID_SYS_EN_射程_魔力／２: MAG/2
 MID_SYS_EN_射程_∞: INF
 MID_SYS_射程_魔力: ATK
-MID_SYS_射程_全体: 全体
+MID_SYS_射程_全体: All
 MID_SYS_攻撃: Atk
 MID_SYS_命中: Hit
 MID_SYS_必殺: Crit

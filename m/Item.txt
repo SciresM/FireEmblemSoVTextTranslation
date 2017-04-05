@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Item
+﻿MESS_ARCHIVE_Item
 
 
 Message Name: Message
@@ -168,7 +168,7 @@ MIID_小麦粉: Flour
 MIID_穴あきチーズ: Holey Cheese
 MIID_青カビチーズ: Blue Cheese
 MIID_スイートクッキー: Sweet Cookie
-MIID_聖獣のチーズ: Sacred Beast's Cheese
+MIID_聖獣のチーズ: Sacred Cheese
 MIID_ネクタル: Nectar
 MIID_生命の木の実: Cedar Leaf
 MIID_アンブロシア: Ambrosia
@@ -230,7 +230,7 @@ MIID_H_太陽: A legendary lance.
 MIID_H_ドーマの槍: A lance with a\ngod's protection.
 MIID_H_皇帝の槍: The Rigelian\nEmperor's lance.
 MIID_H_クリムヒルド: An expensive lance.
-MIID_H_ロムファイア: A difficult-to-wield\npolearm with many\nhidden abilities.
+MIID_H_ロムファイア: An unwieldy polearm\nwith certain hidden abilities.
 MIID_H_サウニオン: A heavy javelin made\nfor throwing.
 MIID_H_おの: A standard axe.
 MIID_H_薪割り斧: An axe made for\nwoodsplitting, not for\nfighting.
@@ -287,28 +287,28 @@ MIID_H_皇帝の盾: The Rigelian\nEmperor's shield.
 MIID_H_ドーマの盾: A shield with a\nwar god's protection.
 MIID_H_王家の盾: A shield passed down\nthrough Zofian royalty.
 MIID_H_賢者の盾: A shield that sealed\nsomething in the\ndepths of Thabes.
-MIID_H_聖なる指輪: A ring with\nhealing powers.
-MIID_H_天使の指輪: A ring with a\nblessing of fortune.\nLuck +20
-MIID_H_速さの指輪: A ring with a\nblessing of agility.\nSpeed and Movement Up
-MIID_H_魔道の指輪: A ring that\namplifies magic.\nBlack Magic Range up
-MIID_H_祈りの指輪: A ring that\ncan save the user\nfrom certain death.
-MIID_H_奥義書: A ring that\namplifies the user's magic.
-MIID_H_サンゴの指輪: A ring with the\npower of nature.\nResistance +4
-MIID_H_ミラの指輪: A ring with a\ngoddess's protection.\nCritical Immunity
-MIID_H_怨嗟の指輪: A ring that causes\nhatred, raises the range\nof black magic.
-MIID_H_悪魔の指輪: A cursed ring.\nChanges the user.
-MIID_H_形見の指輪: A memento from\nBerkut's mother.
-MIID_H_小さな歯車: A component that\naugment's Mila's Gear.
-MIID_H_ミラの歯車(アルム): A gear with the\npower of the goddess\nMila.
-MIID_H_ミラの歯車(セリカ): A gear with the\npower of the goddess\nMila.
-MIID_H_ミラの歯車: A gear with the\npower of the goddess\nMila.
+MIID_H_聖なる指輪: A ring with healing powers.
+MIID_H_天使の指輪: A ring with a blessing\nof fortune.\nLuck +20
+MIID_H_速さの指輪: A ring with a blessing\nof agility.\nSpeed and Movement Up
+MIID_H_魔道の指輪: A ring that amplifies\nmagic.\nBlack Magic Range up
+MIID_H_祈りの指輪: A ring that can save\nthe user from certain death.
+MIID_H_奥義書: A ring that amplifies\nthe user's magic.
+MIID_H_サンゴの指輪: A ring with the power\nof nature.\nResistance +4
+MIID_H_ミラの指輪: A ring with a goddess's\nprotection.\nCritical Immunity
+MIID_H_怨嗟の指輪: A ring that causes hatred,\nraises the range of black magic.
+MIID_H_悪魔の指輪: A cursed ring. Changes the user.
+MIID_H_形見の指輪: A memento from Berkut's mother.
+MIID_H_小さな歯車: A component that augment's\nMila's Gear.
+MIID_H_ミラの歯車(アルム): A gear with the power\nof the goddess Mila.
+MIID_H_ミラの歯車(セリカ): A gear with the power\nof the goddess Mila.
+MIID_H_ミラの歯車: A gear with the power\nof the goddess Mila.
 MIID_H_お土産の人形: Someone's handmade doll.\nChildren love it.
-MIID_H_ガーゴイルの耳: An ear torn from a\ngargoyle. As hard as\na rock.
-MIID_H_銀の盆: A tray used by\nroyalty and at shrines.
-MIID_H_牢獄の鍵: A key that can\nopen jail cells.
+MIID_H_ガーゴイルの耳: An ear torn from a gargoyle.\nAs hard as a rock.
+MIID_H_銀の盆: A tray used by royalty\nand at shrines.
+MIID_H_牢獄の鍵: A key that can open\njail cells.
 MIID_H_透明なひげ: 向こう側が透けて\n見える特殊な竜のひげ
-MIID_H_スケルトン油: Oil from a skeleton's\nhead; burns well.
-MIID_H_竜のうろこ: An extremely hard,\nlarge scale. Has\nmystical powers.
+MIID_H_スケルトン油: Oil from a skeleton's\nhead. Burns well.
+MIID_H_竜のうろこ: An extremely hard, large\nscale. Has mystical powers.
 MIID_H_リマ家の腕輪: A bracelet passed\ndown the royal Zofian\nRima family.
 MIID_H_息子の日記: The diary of a boy\nwho ventured to a\ndragon shrine.
 MIID_H_木彫りのクマ: A painstakingly\nhand-carved image\nof a bear.
@@ -320,13 +320,13 @@ MIID_H_扉の鍵: A key that can\nopen jail cells.
 MIID_H_牢屋の鍵: A key that can\nopen jail cells.
 MIID_H_赤い三角帽子: A stylish hat made\nfrom top-class fabric.
 MIID_H_怪しい仮面: An eerie mask\nmade from stone.
-MIID_H_ドーマの兜: A helmet with a\ngod's protection.
-MIID_H_ミラの髪飾り: An ornament with a\ngod's protection.
-MIID_H_エール: Drank by adults\nall across the\ncontinent.
-MIID_H_のみかけのエール: Ale after someone\ndrank most of it.
+MIID_H_ドーマの兜: A helmet with a god's\nprotection.
+MIID_H_ミラの髪飾り: An ornament with a god's\nprotection.
+MIID_H_エール: Drank by adults all\nacross the continent.
+MIID_H_のみかけのエール: Ale after someone drank\nmost of it.
 MIID_H_スープ: Warm soup with meat.
-MIID_H_さめたスープ: Cold soup that's\nbeen left out.
-MIID_H_葡萄酒: Made from fermented\ngrapes, drank all\nover the continent.
+MIID_H_さめたスープ: Cold soup that's been\nleft out.
+MIID_H_葡萄酒: Made from fermented grapes,\ndrank all over the continent.
 MIID_H_にんにく: A flavorful vegetable,\nindispensible when it\ncomes to cooking.
 MIID_H_ラムの葡萄酒: Wine that was once\nproduced in Ram.
 MIID_H_飲み水: Clean water, suitable\nfor drinking.
@@ -354,16 +354,16 @@ MIID_H_小麦粉: Dried wheat, cut\nand ground into flour.
 MIID_H_穴あきチーズ: Hard cheese with a\nsimple flavor, made\nfrom sheep's milk.
 MIID_H_青カビチーズ: Ripe blue cheese,\nhas an overpowering\nstench and salty taste.
 MIID_H_スイートクッキー: A baked sweet that\nchildren love.
-MIID_H_聖獣のチーズ: Extremely rare\ncheese.\nRaises Speed.
-MIID_H_ネクタル: Sweet drink of the\ngods.\nRaises Luck.
-MIID_H_生命の木の実: Fruit of a\nmysterious tree.\nRaises Max Health.
-MIID_H_アンブロシア: Fragrant food\nof the gods.\nRaises Defense.
-MIID_H_黄金のリンゴ: Fruit of a\ntree of knowledge.\nIncreases level by 1.
-MIID_H_ソーマ: A mystical plant's\njuice.\nRaises Strength.
-MIID_H_冥府のざくろ: Pomegranate that\ngrows in hell.\nRaises Skill.
-MIID_H_金貨: A golden coin\nused in the age\nof the gods.
-MIID_H_金貨袋: A purse with some\ngolden coins inside.
-MIID_H_銀貨: An ancient silver\ncoin. Can be used\nin forging weapons.
+MIID_H_聖獣のチーズ: Extremely rare cheese.\nRaises Speed.
+MIID_H_ネクタル: Sweet drink of the gods.\nRaises Luck.
+MIID_H_生命の木の実: Fruit of mysterious\ntree.\nRaises Max Health.
+MIID_H_アンブロシア: Fragrant food of the gods.\nRaises Defense.
+MIID_H_黄金のリンゴ: Fruit of a tree of knowledge.\nIncreases level by 1.
+MIID_H_ソーマ: A mystical plant's juice.\nRaises Strength.
+MIID_H_冥府のざくろ: Pomegranate that grows in\nhell.\nRaises Skill.
+MIID_H_金貨: A golden coin used in\nthe age of the gods.
+MIID_H_金貨袋: A purse with some golden\ncoins inside.
+MIID_H_銀貨: An ancient silver coin.\nCan be used to forge\nweapons.
 MIID_H_銀貨袋（小）: A purse with some\nsilver coins inside.
 MIID_H_銀貨袋（中）: A bag with several\nsilver coins inside.
 MIID_H_銀貨袋（大）: A sack with many\nsilver coins inside.
@@ -388,6 +388,6 @@ MIID_CATEGORY_特殊: Special
 MIID_CATEGORY_道具: Item
 MIID_TUT_銀貨: Obtained an ancient coin.\nThese coins are circulated\nthroughout Valentia.\nThey can be added to weapons.
 MIID_TUT_金貨: Obtained a conqueror's coin.\nThese coins were minted in\nancient times. They hide\na mysterious power.
-MIID_TUT_記憶の欠片: Memory Fragment\n\nThese are crystallized memories.\nWhen placed in Mila's Gear,\none can see their contents.。
+MIID_TUT_記憶の欠片: Memory Fragment\n\nThese are crystallized memories.\nWhen placed in Mila's Gear,\none can see their contents.
 MIID_TUT_小さな歯車: Small Gear\n\nA component of Mila's Gear.\nAllows one more use of\n the Gear to turn back time.
 MIID_TUT_息子の日記: In the last pages of this\nworn-out diary, regrets and apologies\nhave been furiously scribbled.\nBut the author seems to\nhave been interrupted...

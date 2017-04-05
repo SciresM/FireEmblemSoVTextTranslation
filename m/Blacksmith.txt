@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Blacksmith
+﻿MESS_ARCHIVE_Blacksmith
 
 
 Message Name: Message
@@ -6,7 +6,7 @@ Message Name: Message
 
 MID_入店: いらっしゃい！
 MID_退店: ありがとよ。
-MID_SMITH_総合説明: You can spend silver coins and money\nto make your weapons stronger.\nThe maximum strength level\nvaries from weapon to weapon.
+MID_SMITH_総合説明: You can spend silver and gold coins\nto make your weapons stronger.\nThe maximum strength level\nvaries from weapon to weapon.
 MID_SMITH_練成: Forge
 MID_H_SMITH_練成: Strengthens weapons
 MID_SMITH_錬成不可: Cannot be forged
@@ -16,7 +16,7 @@ MID_SMITH_名前消去: Remove Name
 MID_H_SMITH_名前消去: Deletes names given to weapons.
 MID_SMITH_還元: Convert
 MID_H_SMITH_還元: Exchange weapons for silver and gold coins.
-MID_SMITH_両替: Coin Exchange
+MID_SMITH_両替: Exchange
 MID_H_SMITH_両替: Exchange silver and gold coins.
 MID_SMITH_両替_枚数: Decide amount of coins to exchange.
 MID_SMITH_両替_確認: $aDo you wish to exchange \n$a0 for $a1?
@@ -32,7 +32,7 @@ MID_SMITH_名前刻印_キャンセル: Cancelled engraving.
 MID_SMITH_名前消去_確認: $aRemove the name $a0?
 MID_SMITH_名前消去_結果: Name removed.
 MID_SMITH_還元_確認: $aDo you wish to exchange $a0?
-MID_SMITH_還元_結果_1: $aExchanged $a0 for \n$a1.
+MID_SMITH_還元_結果_1: $aExchanged $a0 for\n$a1.
 MID_SMITH_還元_結果_2: $aExchanged $a0 for\n$a1 and $a2.
 MID_SMITH_所持: Owner:
 MID_SMITH_不明: ???????
