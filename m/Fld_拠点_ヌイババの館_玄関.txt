@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ヌイババの館_玄関
+﻿MESS_ARCHIVE_Fld_拠点_ヌイババの館_玄関
 
 
 Message Name: Message
@@ -22,10 +22,10 @@ MID_ADV調べる_potA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa大�
 MID_ADV調べる_potB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa大きな鍋だわ。\n薬草を煮るのかしら。$k
 MID_ADV調べる_chandelier_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa古いシャンデリアだわ。\n落ちてきそうで怖いわね。$k
 MID_ADV調べる_water_jug_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waいろんな色の液体が入っているわ。\n薬品なのかしら？$k
-MID_ADV_調べるエリア_bookshelfA: 本棚
-MID_ADV_調べるエリア_bookshelfB: 本棚
-MID_ADV_調べるエリア_mirror: 鏡
-MID_ADV_調べるエリア_potA: 大鍋
-MID_ADV_調べるエリア_potB: 大鍋
-MID_ADV_調べるエリア_chandelier: シャンデリア
-MID_ADV_調べるエリア_water_jug: 水瓶
+MID_ADV_調べるエリア_bookshelfA: Bookshelf
+MID_ADV_調べるエリア_bookshelfB: Bookshelf
+MID_ADV_調べるエリア_mirror: Mirror
+MID_ADV_調べるエリア_potA: Pot
+MID_ADV_調べるエリア_potB: Pot
+MID_ADV_調べるエリア_chandelier: Chandelier
+MID_ADV_調べるエリア_water_jug: Jug

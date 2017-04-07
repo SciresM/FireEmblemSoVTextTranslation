@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_海賊の砦_玄関
+﻿MESS_ARCHIVE_Fld_拠点_海賊の砦_玄関
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_shark_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E�
 MID_ADV調べる_fishnet_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa魚がたくさん……\nきっと海賊たちの食料ね。$k
 MID_ADV調べる_anchor_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこれは船の錨ね。\n使われていたものかしら、ボロボロだわ。$k
 MID_ADV調べる_bunner_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa海賊の旗が掲げられているわ。$k
-MID_ADV_調べるエリア_shark: 鮫
-MID_ADV_調べるエリア_fishnet: 魚の入ったカゴ
-MID_ADV_調べるエリア_anchor: 錨
-MID_ADV_調べるエリア_bunner: 海賊の旗
+MID_ADV_調べるエリア_shark: Shark
+MID_ADV_調べるエリア_fishnet: Fish Basket
+MID_ADV_調べるエリア_anchor: Anchor
+MID_ADV_調べるエリア_bunner: Bandits' Banner

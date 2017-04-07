@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ソフィア城_バルコニー
+﻿MESS_ARCHIVE_Fld_拠点_ソフィア城_バルコニー
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_woodboxA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa�
 MID_ADV調べる_woodboxB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa散らかっているわね。\n誰も片づけないのかしら。$k
 MID_ADV調べる_woodboxC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa散らかっているわね。\n誰も片づけないのかしら。$k
 MID_ADV調べる_sun_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa美しい夕日がバルコニーを照らしているわ。$k
-MID_ADV_調べるエリア_woodboxA: 荷物
-MID_ADV_調べるエリア_woodboxB: 荷物
-MID_ADV_調べるエリア_woodboxC: 荷物
-MID_ADV_調べるエリア_sun: 夕日
+MID_ADV_調べるエリア_woodboxA: Baggage
+MID_ADV_調べるエリア_woodboxB: Baggage
+MID_ADV_調べるエリア_woodboxC: Baggage
+MID_ADV_調べるエリア_sun: Sun

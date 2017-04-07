@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_フリアの港_出入り口
+﻿MESS_ARCHIVE_Fld_拠点_フリアの港_出入り口
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_cat_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa毛の
 MID_ADV調べる_fishnet_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa魚がたくさん入ってるわ。\n漁のやり方はバレンシアと同じみたい。$k
 MID_ADV調べる_weaponA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa武器だわ。\nこんなにたくさん……$k
 MID_ADV調べる_weaponB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこの大陸にも戦があるのかしら。$k
-MID_ADV_調べるエリア_cat: 猫
-MID_ADV_調べるエリア_fishnet: 魚の入った籠
-MID_ADV_調べるエリア_weaponA: 武器
-MID_ADV_調べるエリア_weaponB: 武器
+MID_ADV_調べるエリア_cat: Cat
+MID_ADV_調べるエリア_fishnet: Fish Basket
+MID_ADV_調べるエリア_weaponA: Weapons
+MID_ADV_調べるエリア_weaponB: Weapons

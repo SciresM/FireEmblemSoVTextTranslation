@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_リゲル城_玄関
+﻿MESS_ARCHIVE_Fld_拠点_リゲル城_玄関
 
 
 Message Name: Message
@@ -26,12 +26,12 @@ MID_ADV調べる_bunnerE_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa�
 MID_ADV調べる_bunnerF_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル帝国の旗が掲げられているわ。$k
 MID_ADV調べる_bunnerG_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル帝国の旗が掲げられているわ。$k
 MID_ADV調べる_bunnerH_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル帝国の旗が掲げられているわ。$k
-MID_ADV_調べるエリア_door: 扉
-MID_ADV_調べるエリア_bunnerA: 旗
-MID_ADV_調べるエリア_bunnerB: 旗
-MID_ADV_調べるエリア_bunnerC: 旗
-MID_ADV_調べるエリア_bunnerD: 旗
-MID_ADV_調べるエリア_bunnerE: 旗
-MID_ADV_調べるエリア_bunnerF: 旗
-MID_ADV_調べるエリア_bunnerG: 旗
-MID_ADV_調べるエリア_bunnerH: 旗
+MID_ADV_調べるエリア_door: Door
+MID_ADV_調べるエリア_bunnerA: Banner
+MID_ADV_調べるエリア_bunnerB: Banner
+MID_ADV_調べるエリア_bunnerC: Banner
+MID_ADV_調べるエリア_bunnerD: Banner
+MID_ADV_調べるエリア_bunnerE: Banner
+MID_ADV_調べるエリア_bunnerF: Banner
+MID_ADV_調べるエリア_bunnerG: Banner
+MID_ADV_調べるエリア_bunnerH: Banner

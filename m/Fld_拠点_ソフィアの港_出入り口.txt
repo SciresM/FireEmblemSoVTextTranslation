@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ソフィアの港_出入り口
+﻿MESS_ARCHIVE_Fld_拠点_ソフィアの港_出入り口
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waとてもにぎやかだわ。\nみんな浮かれているのね。$k
 MID_ADV調べる_cat_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waここにも猫がいるわ。$k
 MID_ADV調べる_marchais_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa魚と果物が売られているわ。\nソフィアは果物も豊富なのね。$k
-MID_ADV_調べるエリア_cat: 猫
-MID_ADV_調べるエリア_marchais: 市場
+MID_ADV_調べるエリア_cat: Cat
+MID_ADV_調べるエリア_marchais: Market

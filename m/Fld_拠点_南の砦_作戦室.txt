@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_南の砦_作戦室
+﻿MESS_ARCHIVE_Fld_拠点_南の砦_作戦室
 
 
 Message Name: Message
@@ -15,6 +15,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waあ�
 MID_ADV調べる_weapon_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa武器が散らかっているわ。\nなにかあったのかしら。$k
 MID_ADV調べる_baggage_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa役に立ちそうなものはないわね。$k
 MID_ADV調べる_table_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa食事をした跡があるわ。\n誰かいたのかしら……$k
-MID_ADV_調べるエリア_table: テーブル
-MID_ADV_調べるエリア_weapon: 武器
-MID_ADV_調べるエリア_baggage: 荷物
+MID_ADV_調べるエリア_table: Table
+MID_ADV_調べるエリア_weapon: Weapons
+MID_ADV_調べるエリア_baggage: Baggage

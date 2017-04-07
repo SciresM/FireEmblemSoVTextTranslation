@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_砂漠の砦_玄関
+﻿MESS_ARCHIVE_Fld_拠点_砂漠の砦_玄関
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_clash_floor_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$
 MID_ADV調べる_vaseA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa水瓶だわ。\nここでは何よりも水は大切よね。$k
 MID_ADV調べる_vaseB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa水瓶だわ。\nここでは何よりも水は大切よね。$k
 MID_ADV調べる_outside_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa砦から一歩出ると\n激しい日差しが降り注いでいるわ。$k
-MID_ADV_調べるエリア_clash_floor: 壊れた床
-MID_ADV_調べるエリア_vaseA: 水瓶
-MID_ADV_調べるエリア_vaseB: 水瓶
-MID_ADV_調べるエリア_outside: 砦の外
+MID_ADV_調べるエリア_clash_floor: Broken Floor
+MID_ADV_調べるエリア_vaseA: Jug
+MID_ADV_調べるエリア_vaseB: Jug
+MID_ADV_調べるエリア_outside: Outer Fort

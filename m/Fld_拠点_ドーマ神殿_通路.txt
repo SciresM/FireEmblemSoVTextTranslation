@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ドーマ神殿_通路
+﻿MESS_ARCHIVE_Fld_拠点_ドーマ神殿_通路
 
 
 Message Name: Message
@@ -24,11 +24,11 @@ MID_ADV調べる_stoneA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waつ
 MID_ADV調べる_stoneB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waひとつひとつが\nこの神殿の歴史を物語っているみたい。$k
 MID_ADV調べる_wallA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa壁はぬるぬると湿っていて\n光っているわ。$k
 MID_ADV調べる_wallB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa壁はぬるぬると湿っていて\n光っているわ。$k
-MID_ADV_調べるエリア_torchA: 篝火
-MID_ADV_調べるエリア_torchB: 篝火
-MID_ADV_調べるエリア_torchC: 篝火
-MID_ADV_調べるエリア_torchD: 篝火
-MID_ADV_調べるエリア_stoneA: 鍾乳石
-MID_ADV_調べるエリア_stoneB: 鍾乳石
-MID_ADV_調べるエリア_wallA: 壁
-MID_ADV_調べるエリア_wallB: 壁
+MID_ADV_調べるエリア_torchA: Bonfire
+MID_ADV_調べるエリア_torchB: Bonfire
+MID_ADV_調べるエリア_torchC: Bonfire
+MID_ADV_調べるエリア_torchD: Bonfire
+MID_ADV_調べるエリア_stoneA: Stalactite
+MID_ADV_調べるエリア_stoneB: Stalactite
+MID_ADV_調べるエリア_wallA: Wall
+MID_ADV_調べるエリア_wallB: Wall

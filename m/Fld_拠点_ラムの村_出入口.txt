@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ラムの村_出入口
+﻿MESS_ARCHIVE_Fld_拠点_ラムの村_出入口
 
 
 Message Name: Message
@@ -20,7 +20,7 @@ MID_ADV調べる_umadome_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa�
 MID_ADV調べる_umadome_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこれが必要なことになんて\nならなければいいけど……$k
 MID_ADV調べる_yumiya_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa袋に矢が刺さっているわ。$k
 MID_ADV調べる_saku_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa柵に傷がついているわ。\n誰がつけたのかしら。$k
-MID_ADV_調べるエリア_mihari: 見張り台
-MID_ADV_調べるエリア_umadome: 馬止め
-MID_ADV_調べるエリア_yumiya: 刺さった矢
-MID_ADV_調べるエリア_saku: 柵の傷
+MID_ADV_調べるエリア_mihari: Watchtower
+MID_ADV_調べるエリア_umadome: No-Fly
+MID_ADV_調べるエリア_yumiya: Stuck Arrow
+MID_ADV_調べるエリア_saku: Damaged Fence

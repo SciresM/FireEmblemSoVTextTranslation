@@ -1,4 +1,4 @@
-MESS_ARCHIVE_ドーマの祭壇_5
+﻿MESS_ARCHIVE_ドーマの祭壇_5
 
 
 Message Name: Message
@@ -48,6 +48,6 @@ MID_BT4: $t0$Wmドーマ|0$w0|$Wsドーマ|$Wa$SvpV_SC_5_01_BT4_00|力こそす�
 MID_BT5: $t0$Wmアルム|0$w0|$Wmセリカ|6$w0|$Wsアルム|$Wa$SvpV_SC_5_01_BT5_00|$E怒,|ここまでだ、ドーマ……！$k$p$SvpV_SC_5_01_BT5_01|ベルクト、フェルナン、ミラ。\nそして父さん……$k$p$SvpV_SC_5_01_BT5_02|ほかにもたくさん、\nお前の力に翻弄され、消えた人たちがいる。$k$p$SvpV_SC_5_01_BT5_03|$Eキメ,|もう悲劇を繰り返したりはしない！$k\n$Wsセリカ|$Wa$E悲,|$SvpV_SC_5_01_BT5_04|神竜、ドーマよ。\nあなたには感謝しています。$k$p$SvpV_SC_5_01_BT5_05|あなたとミラさまがなければ、\nこのバレンシアはなかった。$k$p$SvpV_SC_5_01_BT5_06|私たちがこの世に生まれ、\n喜びや悲しみを知ることもなかったわ。$k$p$SvpV_SC_5_01_BT5_07|$Eキメ,|だからこそ、もうこれ以上\n自分も私たちも傷つけないで。$k$p$SvpV_SC_5_01_BT5_08|偉大な魂に安らかな眠りを……！$k
 MID_ED1: $t3$Wmアルム|h$w0|$Wsアルム|$Wa$SvpV_ENDING_ED1_00|…………$k\n$Wmセリカ|5$w0|$Wsセリカ|$Wa$E特殊1,|$SvpV_ENDING_ED1_01|アルム、ここにいたのね。$k\n$Wsアルム|$Wa$E驚,|$SvpV_ENDING_ED1_02|セリカ……$k\n$Wsセリカ|$Wa$E特殊1,|$SvpV_ENDING_ED1_03|どうしたの？\nもうすぐ戴冠式がはじまるわよ。$k\n$Wsアルム|$Wa$E通常,|$SvpV_ENDING_ED1_04|うん。$k$p$SvpV_ENDING_ED1_05|まさか、セリカの父さんが\n座っていた玉座に$k$p$SvpV_ENDING_ED1_06|僕が座ることになるなんてね。$k\n$Wsセリカ|$Wa$E通常,|$SvpV_ENDING_ED1_07|……父の玉座ではないわ。$k$p$SvpV_ENDING_ED1_08|もうこの国はソフィアじゃない。\nバレンシア統一王国よ。$k$p$SvpV_ENDING_ED1_09|そしてアルム、\nあなたはその初代国王――$k\n$Wsアルム|$Wa$E驚,|$SvpV_ENDING_ED1_10|セリカ……$k\n$Wsセリカ|$Wa$E笑,|$SvpV_ENDING_ED1_11|誤解しないで。$k$p$SvpV_ENDING_ED1_12|あの人を恨んでいるわけではないの。$k$p$SvpV_ENDING_ED1_13|$E悲,|ただ、哀れな人だと思うわ。$k$p$SvpV_ENDING_ED1_14|もし、そばにいられたら\n救うことができたのかもしれない。$k$p$SvpV_ENDING_ED1_15|それが少し悲しいだけ……$k\n$Wsアルム|$Wa$E悲,|$SvpV_ENDING_ED1_16|そうだね……$k$p$SvpV_ENDING_ED1_17|僕もセリカも、\n父さんのそばにいられなかった。$k$p$SvpV_ENDING_ED1_18|もっとお互いを\n知ることができていたら$k$p$SvpV_ENDING_ED1_19|違う結末が\nあったのかもしれない。$k\n$Wsセリカ|$Wa$E特殊1,|$SvpV_ENDING_ED1_20|……ミラさまとドーマも\nそうだったのかしら？$k\n$Wsアルム|$Wa$E苦,|$SvpV_ENDING_ED1_21|うーん……\nそれはどうかなあ。$k$p$SvpV_ENDING_ED1_22|何百年もけんかしてたんだろ？\nさすがに無理かも……$k\n$Wsセリカ|$Wa$E驚,|$SvpV_ENDING_ED1_23|やだ、アルムったら。\nばちがあたるわよ？$k\n$Wsアルム|$Wa$E驚,|$SvpV_ENDING_ED1_24|おっと……\nごめんなさい！$k$p$SvpV_ENDING_ED1_25|$E通常,|でも、ミラもドーマも\nいまはいっしょに眠っているんだね。$k\n$Wsセリカ|$Wa$E特殊1,|$SvpV_ENDING_ED1_26|ええ。$k$p$SvpV_ENDING_ED1_27|このバレンシア大陸を見下ろす\n山の頂に……$k$p$SvpV_ENDING_ED1_28|知ってる？\nアルム。$k$p$SvpV_ENDING_ED1_29|神竜の眠る地には\n神樹が生えてくるんですって。$k\n$Wsアルム|$Wa$E通常,|$SvpV_ENDING_ED1_30|へえ……\n立派な樹になるんだろうなあ。$k\n$Wsセリカ|$Wa$E特殊1,|$SvpV_ENDING_ED1_31|ええ。\n何百年も何千年もかけて……$k$p$SvpV_ENDING_ED1_32|そのとき、このバレンシアは\nどうなっているのかしら。$k$p$SvpV_ENDING_ED1_33|$E悲,|神の力を失っても\n人の営みは続いていくのかしら……$k\n$Wsアルム|$Wa$E通常,|$SvpV_ENDING_ED1_34|続いていくんじゃない。\n続けていこう。$k$p$SvpV_ENDING_ED1_35|続けていける国を\n僕と、セリカと、みんなで作っていこう。$k\n$Wsセリカ|$Wa$E笑,|$SvpV_ENDING_ED1_36|アルム……$k$p$SvpV_ENDING_ED1_37|ええ、そうね。\n私たちならできるわ。$k\n$Wsアルム|$Wa$E通常,|$SvpV_ENDING_ED1_38|ああ。$k$p$SvpV_ENDING_ED1_39|人が、自分の強さを信じる力――$k$p$SvpV_ENDING_ED1_40|これがミラとドーマが僕らに残した、\n最後の力だ。$k$p$SvpV_ENDING_ED1_41|――さあ、いこう。\nセリカ。$k\n$Wsセリカ|$Wa$E特殊1,|$SvpV_ENDING_ED1_42|はい――$k\n$Sev0|1500|
 MID_ED3: FIN
-MID_EV31_1_扉閉め: 扉は開かない……
-MID_EV31_1_扉開き: 扉が開いた！
-MID_EV31_1_確認: この先に進むと、もう戻ることはできない……\nそれでも先に進みますか？
+MID_EV31_1_扉閉め: The door won't open...
+MID_EV31_1_扉開き: The door opened!
+MID_EV31_1_確認: There's no turning back after this...\nWill you press on?

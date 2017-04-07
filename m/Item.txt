@@ -120,7 +120,7 @@ MIID_お土産の人形: Souvenir Doll
 MIID_ガーゴイルの耳: Gargoyle's Ear
 MIID_銀の盆: Silver Tray
 MIID_牢獄の鍵: Prison Key
-MIID_透明なひげ: 透明なひげ
+MIID_透明なひげ: Transparent Hair
 MIID_スケルトン油: Bonewalker Oil
 MIID_竜のうろこ: Dragon's Scale
 MIID_リマ家の腕輪: Rima Bracelet
@@ -213,11 +213,11 @@ MIID_H_ファルシオン: A sword that\ncan slay gods.
 MIID_H_流星: A legendary sword.
 MIID_H_黄金の短剣: A self-defense dagger\nwith gaudy decorations.
 MIID_H_ツヴァイハンダー: A sword made\nfor gladiators.
-MIID_H_レディソード: A sword that is\ntwice as powerful when\nwielded by a woman.
+MIID_H_レディソード: Twice as powerful when\nwielded by a woman.
 MIID_H_メリクルソード: A slim sword, one\nof three sacred weapons.
 MIID_H_宝剣ソフィア: A sword passed down\nthrough Zofian royalty.
 MIID_H_イルウーン: A sword that seeks\nnaught but destruction.
-MIID_H_レイピア: A sword specialized\nfor thrusting. Effective\nversus armor and cavalry.
+MIID_H_レイピア: Specialized for thrusting. Effective\nversus armor and cavalry.
 MIID_H_やり: A standard lance.
 MIID_H_鉄の槍: An easy-to-wield lance.
 MIID_H_鋼の槍: A powerful forged lance.
@@ -306,7 +306,7 @@ MIID_H_お土産の人形: Someone's handmade doll.\nChildren love it.
 MIID_H_ガーゴイルの耳: An ear torn from a gargoyle.\nAs hard as a rock.
 MIID_H_銀の盆: A tray used by royalty\nand at shrines.
 MIID_H_牢獄の鍵: A key that can open\njail cells.
-MIID_H_透明なひげ: 向こう側が透けて\n見える特殊な竜のひげ
+MIID_H_透明なひげ: A unique dragon's hair that\n iscompletely transparent.
 MIID_H_スケルトン油: Oil from a skeleton's\nhead. Burns well.
 MIID_H_竜のうろこ: An extremely hard, large\nscale. Has mystical powers.
 MIID_H_リマ家の腕輪: A bracelet passed\ndown the royal Zofian\nRima family.

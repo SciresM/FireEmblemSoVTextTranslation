@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_リゲル城_謁見の間
+﻿MESS_ARCHIVE_Fld_拠点_リゲル城_謁見の間
 
 
 Message Name: Message
@@ -21,9 +21,9 @@ MID_ADV調べる_bunnerB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa�
 MID_ADV調べる_bunnerC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル帝国の旗が掲げられているわ。$k
 MID_ADV調べる_bunnerD_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル帝国の旗が掲げられているわ。$k
 MID_ADV調べる_bunnerE_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル帝国の旗が掲げられているわ。$k
-MID_ADV_調べるエリア_king_spot: 玉座
-MID_ADV_調べるエリア_bunnerA: 旗
-MID_ADV_調べるエリア_bunnerB: 旗
-MID_ADV_調べるエリア_bunnerC: 旗
-MID_ADV_調べるエリア_bunnerD: 旗
-MID_ADV_調べるエリア_bunnerE: 旗
+MID_ADV_調べるエリア_king_spot: Throne
+MID_ADV_調べるエリア_bunnerA: Banner
+MID_ADV_調べるエリア_bunnerB: Banner
+MID_ADV_調べるエリア_bunnerC: Banner
+MID_ADV_調べるエリア_bunnerD: Banner
+MID_ADV_調べるエリア_bunnerE: Banner

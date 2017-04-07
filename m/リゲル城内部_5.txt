@@ -1,4 +1,4 @@
-MESS_ARCHIVE_リゲル城内部_5
+﻿MESS_ARCHIVE_リゲル城内部_5
 
 
 Message Name: Message
@@ -9,5 +9,5 @@ MID_MOVIE_00: $t3$Wm???|3$w0|$Ws???|$Wa$SvpV_SC_5_01_MOVIE_00_00|【ムービー
 MID_EV2: $t3$Wmアルム|h$w0|$Wmマイセン|5$w0|$Wsアルム|$Wa$SvpV_SC_5_10_EV2_00|$E驚,|じいさん、この扉は？$k\n$Wsマイセン|$Wa$SvpV_SC_5_10_EV2_01|この先は、ドーマの塔の地下にある\n祭壇へとつながっておる。$k$p$SvpV_SC_5_10_EV2_02|$E怒,|一度入れば、\n安易に引き返すことはできぬぞ。$k$p$SvpV_SC_5_10_EV2_03|よく準備を整えておくがいい。$k
 MID_ADV1_マッセナ: $t3$Wmマッセナ|5$w0|$Wmアルム|h$w0|$Wsマッセナ|$Wa$SvpV_SC_5_10_ADV1_MASSENA_00|$E通常,|アルバイン王子……$k$p$SvpV_SC_5_10_ADV1_MASSENA_01|ベルクトさまのこと、\nどうかよろしくお願いします。$k$p$SvpV_SC_5_10_ADV1_MASSENA_02|$E悲,|ルドルフ陛下は\nたいそう悔んでおいででした。$k$p$SvpV_SC_5_10_ADV1_MASSENA_03|なにも知らせることができず\n苦しめることになるだろうと。$k$p$SvpV_SC_5_10_ADV1_MASSENA_04|しかし、アルバイン王子の存在を\n悟られるわけにもいかず……$k$p$SvpV_SC_5_10_ADV1_MASSENA_05|$E通常,|手放した息子とおなじ年頃の甥を\n可愛く思わぬわけがありません。$k$p$SvpV_SC_5_10_ADV1_MASSENA_06|どうか、寛大なご沙汰を\nたまわりますよう……$k
 MID_EV3: $t0$Wmセーバー|0$w0|$Wmボーイ|6$w0|$SbpBGM_EVT_EMERGENCY|0|$Wsセーバー|$Wa$SvpV_SC_5_10_EV3_00|$E苦,汗|ちっ！\n魔物だらけじゃねえか。$k$p$SvpV_SC_5_10_EV3_01|あのタコ坊主、帰れっつっといて\nどうやって帰れってんだよ！$k\n$Wsボーイ|$Wa$E怒,|$SvpV_SC_5_10_EV3_02|なんだと？\nおっさん！$k$p$SvpV_SC_5_10_EV3_03|あんた、セリカさまをおいて\n本気で帰る気かよ？！$k\n$Wsセーバー|$Wa$Eキメ,|$SvpV_SC_5_10_EV3_04|……んなわけねえだろ！$k$p$SvpV_SC_5_10_EV3_05|言葉のあやってやつだよ。\nガキが！$k\n$Wsセーバー|$Wd$w0|$Wm仮面の騎士|0$w0|$Ws仮面の騎士|$Wa$VNMPID_コンラート|$E怒,|$SvpV_SC_5_10_EV3_06|無駄口を叩くひまがあるのなら\n本気で戦え！$k$p$SvpV_SC_5_10_EV3_07|でないと、本当に\nここで命を落とすことになるぞ！$k\n$Sbs1000|
-MID_EV31_1_確認: この先に進むと、戻ることはできません。\n先に進みますか？
+MID_EV31_1_確認: There's no turning back after this.\nWill you press on?
 MID_EV_31_2_確認: $t0$Wmマイセン|6$w0|$Wsマイセン|$Wa$SvpV_SC_5_10_EV2_01|この先は、ドーマの塔の地下にある\n祭壇へとつながっておる。$k$p$SvpV_SC_5_10_EV2_02|$E怒,|一度入れば、\n安易に引き返すことはできぬぞ。$k

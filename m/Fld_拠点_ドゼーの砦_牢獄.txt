@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ドゼーの砦_牢獄
+﻿MESS_ARCHIVE_Fld_拠点_ドゼーの砦_牢獄
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa大�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa窓があるから\n地下牢にしては明るいわね。$k
 MID_ADV調べる_refuse_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこれは……\n使えないがらくたばかりね。$k
 MID_ADV調べる_table_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa看守が使うテーブルね。$k
-MID_ADV_調べるエリア_refuse: ごみ
-MID_ADV_調べるエリア_table: テーブル
+MID_ADV_調べるエリア_refuse: Trash
+MID_ADV_調べるエリア_table: Table

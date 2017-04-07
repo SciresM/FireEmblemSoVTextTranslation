@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_フリアの港_ミラ神像
+﻿MESS_ARCHIVE_Fld_拠点_フリアの港_ミラ神像
 
 
 Message Name: Message
@@ -10,4 +10,4 @@ MID_ADV調べる_mira_furia_ARUM_LOOP_0: $Z$t0$Wmアルム|6$Wsアルム|$Waバ�
 MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waアカネイアにもミラさまの像があるのね。\n驚いたわ。$k
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waとても古い時代のものみたい……$k
 MID_ADV調べる_mira_furia_CELLICA_LOOP_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waバレンシアのものとは少し違うけれど\nミラさまの優しい雰囲気は変わらないわ。$k
-MID_ADV_調べるエリア_mira_furia: ミラ神像
+MID_ADV_調べるエリア_mira_furia: Mila Statue

@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ミラ神殿_玄関
+﻿MESS_ARCHIVE_Fld_拠点_ミラ神殿_玄関
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_umadome_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa�
 MID_ADV調べる_clash_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waひどい崩れようだわ。\nまるで巨大な何かが暴れたみたい……$k
 MID_ADV調べる_baggageA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル軍の物資が\n残されたままになっているわ。$k
 MID_ADV調べる_baggageB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル軍の物資が\n残されたままになっているわ。$k
-MID_ADV_調べるエリア_umadome: 馬止め
-MID_ADV_調べるエリア_clash: 瓦礫
-MID_ADV_調べるエリア_baggageA: 袋
-MID_ADV_調べるエリア_baggageB: 木箱
+MID_ADV_調べるエリア_umadome: No-Fly
+MID_ADV_調べるエリア_clash: Debris
+MID_ADV_調べるエリア_baggageA: Bag
+MID_ADV_調べるエリア_baggageB: Wooden Box

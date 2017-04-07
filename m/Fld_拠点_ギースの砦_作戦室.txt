@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ギースの砦_作戦室
+﻿MESS_ARCHIVE_Fld_拠点_ギースの砦_作戦室
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_clash_wallA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$
 MID_ADV調べる_clash_wallB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waここの壁も壊れているわね。\n修理しようと思わなかったのかしら。$k
 MID_ADV調べる_baggageA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa荷物がたくさん積まれているわ。\n略奪してきたものかしら。$k
 MID_ADV調べる_baggageB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa荷物がたくさん積まれているわ。\n略奪してきたものかしら。$k
-MID_ADV_調べるエリア_clash_wallA: 崩れた壁
-MID_ADV_調べるエリア_clash_wallB: 崩れた壁
-MID_ADV_調べるエリア_baggageA: 荷物
-MID_ADV_調べるエリア_baggageB: 荷物
+MID_ADV_調べるエリア_clash_wallA: Collapsed Wall
+MID_ADV_調べるエリア_clash_wallB: Collapsed Wall
+MID_ADV_調べるエリア_baggageA: Baggage
+MID_ADV_調べるエリア_baggageB: Baggage

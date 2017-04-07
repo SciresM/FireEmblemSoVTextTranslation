@@ -8,6 +8,6 @@ MID_ADV_C_ジェシー1: $Sbs2000|$t3$Wmジェシー|5$w0|$Wmセリカ|h$w0|$Ws�
 MID_ADV_C_ジェシー_SELECT: Ask Jesse to join you?
 MID_ADV_C_ジェシー2: $SbpBGM_EVT_AMB|2000|$t3$Wmジェシー|5$w0|$Wmセリカ|h$w0|$Wsジェシー|$Wa$SvpV_SC_3_23_ADV1_JESEY2_00|$E驚,|あらら、そうなの？\n残念だなあ。$k$p$SvpV_SC_3_23_ADV1_JESEY2_01|$E通常,|でもまあ、気がかわったら\nまた誘ってよ。$k
 MID_ADV2_C_ジェシー: $t3$Wmジェシー|5$w0|$Wmセリカ|h$w0|$Wsジェシー|$Wa$SvpV_SC_3_23_ADV2_JESEY_00|ん？\nなになに？$k$p$SvpV_SC_3_23_ADV2_JESEY_01|$Eキメ,|やっぱり、俺といっしょに\n行きたくなっちゃった？$k
-MID_ADV_C_NAMEジェシー: 傭兵
-MID_ADV_C_Door: 扉を開けますか？
+MID_ADV_C_NAMEジェシー: Mercenary
+MID_ADV_C_Door: Open door?
 MID_SUB29_1_1: $Z$t1$Wm盗賊B|5$VF隠|$w0|$Ws盗賊B|$Wa$VNMPID_旅の青年|俺は行方不明になった親父を\n探しているんだ。$k$p親父は信心深くてな。\nミラ神殿に巡礼に行くといって……$k$pそれっきり、もう数年\n音沙汰もないんだ。$k$p親父は赤い三角帽子がお気に入りでね。\n巡礼に行くときもそれをかぶっていたんだ。$k$pまあ、手がかりといったら\nそれくらいなんだが……$k$pこの辺でぷっつり\n足取りが途絶えちまった。$k$pどこかで野盗にでも襲われたのか\n魔物にやられちまったのか……$k$pせめてどこでどうなったかだけでも\n知りたかったんだがなあ。$k$pお袋もいるし、俺はもうあきらめて\n故郷に帰るつもりだよ。$k$pあんた、どっかで赤い三角帽子を見かけたら\nよろしく言っといてくれ。$k$pじゃあな。$k

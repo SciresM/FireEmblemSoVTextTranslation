@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_賢者の里_賢者の家
+﻿MESS_ARCHIVE_Fld_拠点_賢者の里_賢者の家
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_book_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa積�
 MID_ADV調べる_torchA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa灯りの炎が\n本に移らないか心配になるわ。$k
 MID_ADV調べる_torchB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa灯りの炎が\n本に移らないか心配になるわ。$k
 MID_ADV調べる_swing_chair_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa揺り椅子だわ。\nここで本を読んでらっしゃるのかしら。$k
-MID_ADV_調べるエリア_book: 積み上げられた本
-MID_ADV_調べるエリア_torchA: 灯り
-MID_ADV_調べるエリア_torchB: 灯り
-MID_ADV_調べるエリア_swing_chair: 揺り椅子
+MID_ADV_調べるエリア_book: Stacked Books
+MID_ADV_調べるエリア_torchA: Light
+MID_ADV_調べるエリア_torchB: Light
+MID_ADV_調べるエリア_swing_chair: Rocking Chair

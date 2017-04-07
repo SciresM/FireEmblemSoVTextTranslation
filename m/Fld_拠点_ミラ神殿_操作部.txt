@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ミラ神殿_操作部
+﻿MESS_ARCHIVE_Fld_拠点_ミラ神殿_操作部
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waじめじめして薄暗いわ。\n油の匂いがするわね……$k
 MID_ADV調べる_mecha_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa長い間動かしていないからか、\n歯車が錆びてしまっているわ。$k
 MID_ADV調べる_stairs_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa階段があるわ。ここから奥に行けそうね。$k
-MID_ADV_調べるエリア_mecha: 歯車
-MID_ADV_調べるエリア_stairs: 階段
+MID_ADV_調べるエリア_mecha: Gear
+MID_ADV_調べるエリア_stairs: Stairs

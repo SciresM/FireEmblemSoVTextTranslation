@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_水門_水門の操作部
+﻿MESS_ARCHIVE_Fld_拠点_水門_水門の操作部
 
 
 Message Name: Message
@@ -14,6 +14,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waじ�
 MID_ADV調べる_mecha_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa長い間動かしていないからか、\n歯車が錆びてしまっているわ。$k
 MID_ADV調べる_baggage_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこれは……\n水門番の荷物かしら。$k
 MID_ADV調べる_table_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waテーブルと椅子があるわ。\n水門番が使うのかしら。$k
-MID_ADV_調べるエリア_baggage: 荷物
-MID_ADV_調べるエリア_mecha: 歯車
-MID_ADV_調べるエリア_table: テーブル
+MID_ADV_調べるエリア_baggage: Baggage
+MID_ADV_調べるエリア_mecha: Gear
+MID_ADV_調べるエリア_table: Table

@@ -8,10 +8,10 @@ MID_ADV_C_ティータ1: $Sbs2000|$t3$Wmアルム|h$w0|$Wmティータ|5$w0|$Ws�
 MID_ADV_C_ティータ_SELECT: Ask Tatiana to join you?
 MID_ADV_C_ティータ2: $SbpBGM_EVT_NUIBABA|2000|$t3$Wmティータ|5$w0|$Wmアルム|h$w0|$Wsティータ|$Wa$SvpV_SC_4_17_ADV1_TEETA2_00|$E悲,|そう……\n残念だけど、しかたないわね。$k$p$SvpV_SC_4_17_ADV1_TEETA2_01|$Eキメ,|じゃあ、\nここで大人しく待ってるわ。$k$p$SvpV_SC_4_17_ADV1_TEETA2_02|うろうろしたら、またジークに\n迷惑かけちゃいそうだから……$k
 MID_ADV2_C_ティータ: $t3$Wmティータ|5$w0|$Wmアルム|h$w0|$Wsティータ|$Wa$SvpV_SC_4_17_ADV2_TEETA_00|$E驚,|えっ、なあに？$k$p$SvpV_SC_4_17_ADV2_TEETA_01|$E通常,|私もいっしょに\n連れていってくれるの？$k
-MID_ADV_C_NAMEティータ: 女性
-MID_ADV_C_NAME商人緑: 商人
-MID_ADV_C_NAME商人青: 商人
-MID_ADV_C_NAME商人ピンク: 商人
-MID_ADV_C_Door: 扉を開けますか？
+MID_ADV_C_NAMEティータ: Woman
+MID_ADV_C_NAME商人緑: Merchant
+MID_ADV_C_NAME商人青: Merchant
+MID_ADV_C_NAME商人ピンク: Merchant
+MID_ADV_C_Door: Open door?
 MID_SUB27_4_1: $Z$t1$Wm男性|5$VF隠|$w0|$Ws男性|$Wa$VNMPID_村の商人|助けてくださって\nありがとうございます！$k$p私は森の村で\n商売を営んでいる者です。$k$p行商の帰りにタタラに捕まり、\nこんなところに送られてしまいました。$k$pもう生きて戻ることはないと\n覚悟していましたが$k$pこれでまた家族の顔を\n見ることができます。$k$pさあ、早く帰って\n妻を安心させてあげないと……$k$pあなたも、森の村の近くに来たら\nぜひ寄っていってくださいね！$k
-MID_SUB27_確認4_1: 村の商人は去っていった。
+MID_SUB27_確認4_1: The village merchant left.

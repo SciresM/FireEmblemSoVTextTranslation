@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_森の村_出入り口
+﻿MESS_ARCHIVE_Fld_拠点_森の村_出入り口
 
 
 Message Name: Message
@@ -18,8 +18,8 @@ MID_ADV調べる_woodwallB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa
 MID_ADV調べる_orangetreeA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waオレンジの木に実がたくさんなっているわ。$k
 MID_ADV調べる_orangetreeB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waオレンジの木に実がたくさんなっているわ。$k
 MID_ADV調べる_orangetreeC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waオレンジの木に実がたくさんなっているわ。$k
-MID_ADV_調べるエリア_woodwallA: 木製の壁
-MID_ADV_調べるエリア_woodwallB: 木製の壁
-MID_ADV_調べるエリア_orangetreeA: オレンジの木
-MID_ADV_調べるエリア_orangetreeB: オレンジの木
-MID_ADV_調べるエリア_orangetreeC: オレンジの木
+MID_ADV_調べるエリア_woodwallA: Wooden Wall
+MID_ADV_調べるエリア_woodwallB: Wooden Wall
+MID_ADV_調べるエリア_orangetreeA: Orange Tree
+MID_ADV_調べるエリア_orangetreeB: Orange Tree
+MID_ADV_調べるエリア_orangetreeC: Orange Tree

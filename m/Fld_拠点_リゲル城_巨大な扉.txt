@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_リゲル城_巨大な扉
+﻿MESS_ARCHIVE_Fld_拠点_リゲル城_巨大な扉
 
 
 Message Name: Message
@@ -10,4 +10,4 @@ MID_ADV調べる_door_ARUM_RANDOM_0: $Z$t0$Wmアルム|6$Wsアルム|$Wa気味�
 MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waリゲル城の地下に\nこんな空間があったのね。$k
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa暗くて重苦しい空気だわ。\n扉の向こうから漏れてくるような……$k
 MID_ADV調べる_door_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa恐ろしいほど大きな扉だわ。$k
-MID_ADV_調べるエリア_door: 巨大な扉
+MID_ADV_調べるエリア_door: Great Door

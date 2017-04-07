@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ソフィアの港_桟橋
+﻿MESS_ARCHIVE_Fld_拠点_ソフィアの港_桟橋
 
 
 Message Name: Message
@@ -18,8 +18,8 @@ MID_ADV調べる_catA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa港�
 MID_ADV調べる_catB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E特殊1,|どの猫もよく似てるわ。\n兄弟かしら。$k
 MID_ADV調べる_fishnetA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa水揚げされた魚が積まれているわ。$k
 MID_ADV調べる_fishnetB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waいろいろな地方から集まってくるのかしら。\n見たことのない魚ばかりだわ。$k
-MID_ADV_調べるエリア_townscape: 町並み
-MID_ADV_調べるエリア_catA: 猫
-MID_ADV_調べるエリア_catB: 猫
-MID_ADV_調べるエリア_fishnetA: 魚
-MID_ADV_調べるエリア_fishnetB: 魚
+MID_ADV_調べるエリア_townscape: Street
+MID_ADV_調べるエリア_catA: Cat
+MID_ADV_調べるエリア_catB: Cat
+MID_ADV_調べるエリア_fishnetA: Fish
+MID_ADV_調べるエリア_fishnetB: Fish

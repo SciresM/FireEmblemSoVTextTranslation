@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ソフィア城_玄関
+﻿MESS_ARCHIVE_Fld_拠点_ソフィア城_玄関
 
 
 Message Name: Message
@@ -26,12 +26,12 @@ MID_ADV調べる_bunerE_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waソ
 MID_ADV調べる_bunerF_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waソフィアの旗が掲げられているわ。$k
 MID_ADV調べる_carpet_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa毛足の長い絨毯だわ。\n足首が埋まってしまいそう。$k
 MID_ADV調べる_chandelier_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waシャンデリアね。\nたくさんの蝋燭が立てられているわ。$k
-MID_ADV_調べるエリア_carpet: 絨毯
-MID_ADV_調べるエリア_door: 扉
-MID_ADV_調べるエリア_chandelier: シャンデリア
-MID_ADV_調べるエリア_bunerA: 旗
-MID_ADV_調べるエリア_bunerB: 旗
-MID_ADV_調べるエリア_bunerC: 旗
-MID_ADV_調べるエリア_bunerD: 旗
-MID_ADV_調べるエリア_bunerE: 旗
-MID_ADV_調べるエリア_bunerF: 旗
+MID_ADV_調べるエリア_carpet: Carpet
+MID_ADV_調べるエリア_door: Door
+MID_ADV_調べるエリア_chandelier: Chandelier
+MID_ADV_調べるエリア_bunerA: Banner
+MID_ADV_調べるエリア_bunerB: Banner
+MID_ADV_調べるエリア_bunerC: Banner
+MID_ADV_調べるエリア_bunerD: Banner
+MID_ADV_調べるエリア_bunerE: Banner
+MID_ADV_調べるエリア_bunerF: Banner

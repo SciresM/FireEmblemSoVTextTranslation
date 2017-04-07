@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_山の村_鍛冶屋
+﻿MESS_ARCHIVE_Fld_拠点_山の村_鍛冶屋
 
 
 Message Name: Message
@@ -10,4 +10,4 @@ MID_ADV調べる_oven_ARUM_RANDOM_0: $Z$t0$Wmアルム|6$Wsアルム|$Wa石炭�
 MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waとても暑いわ……\nこうやって武器を作るのね。$k
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa嗅いだことのないような\n複雑な匂いがするわ。$k
 MID_ADV調べる_oven_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa石炭が勢いよく燃えているわ。\nこれで鉄を溶かすのね。$k
-MID_ADV_調べるエリア_oven: 炉
+MID_ADV_調べるエリア_oven: Furnace

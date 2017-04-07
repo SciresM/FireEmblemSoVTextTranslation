@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ミラ神殿_ホール
+﻿MESS_ARCHIVE_Fld_拠点_ミラ神殿_ホール
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_relief_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waミ
 MID_ADV調べる_rubbleA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waここもひどく崩れているわ。\nいったい何があったのかしら……$k
 MID_ADV調べる_rubbleB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waここもひどく崩れているわ。\nいったい何があったのかしら……$k
 MID_ADV調べる_door_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waあの扉の向こうが\nミラさまのいらっしゃるお部屋ね。$k
-MID_ADV_調べるエリア_relief: 神話のレリーフ
-MID_ADV_調べるエリア_rubbleA: 瓦礫
-MID_ADV_調べるエリア_rubbleB: 瓦礫
-MID_ADV_調べるエリア_door: 扉
+MID_ADV_調べるエリア_relief: Relief
+MID_ADV_調べるエリア_rubbleA: Debris
+MID_ADV_調べるエリア_rubbleB: Debris
+MID_ADV_調べるエリア_door: Door

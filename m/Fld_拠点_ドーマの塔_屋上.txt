@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ドーマの塔_屋上
+﻿MESS_ARCHIVE_Fld_拠点_ドーマの塔_屋上
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_dome_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa奇�
 MID_ADV調べる_pillarA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waどの柱にも生き物のような\n不気味な装飾が施されているわ。$k
 MID_ADV調べる_pillarB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waどの柱にも生き物のような\n不気味な装飾が施されているわ。$k
 MID_ADV調べる_pillarC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waどの柱にも生き物のような\n不気味な装飾が施されているわ。$k
-MID_ADV_調べるエリア_dome: 中央ドーム
-MID_ADV_調べるエリア_pillarA: 柱
-MID_ADV_調べるエリア_pillarB: 柱
-MID_ADV_調べるエリア_pillarC: 柱
+MID_ADV_調べるエリア_dome: Central Dome
+MID_ADV_調べるエリア_pillarA: Pillar
+MID_ADV_調べるエリア_pillarB: Pillar
+MID_ADV_調べるエリア_pillarC: Pillar

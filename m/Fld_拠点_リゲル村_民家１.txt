@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_リゲル村_民家１
+﻿MESS_ARCHIVE_Fld_拠点_リゲル村_民家１
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waソフィアの家とは全然違うわ。\n面白いわね。$k
 MID_ADV調べる_wood_A_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa材木だわ。\n家の補修に使うのかしら。$k
 MID_ADV調べる_ivy_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa家の壁が蔦に覆われているわ。$k
-MID_ADV_調べるエリア_wood_A: 材木
-MID_ADV_調べるエリア_ivy: 蔦
+MID_ADV_調べるエリア_wood_A: Wood
+MID_ADV_調べるエリア_ivy: Ivy

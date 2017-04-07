@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ドーマ神殿_祭壇前
+﻿MESS_ARCHIVE_Fld_拠点_ドーマ神殿_祭壇前
 
 
 Message Name: Message
@@ -22,8 +22,8 @@ MID_ADV調べる_door_right_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$W
 MID_ADV調べる_door_right_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa私の持っているミラの歯車が\nちょうど収まりそうな形ね。$k
 MID_ADV調べる_torchA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa不気味な篝火があたりを照らしているわ。$k
 MID_ADV調べる_torchB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa不気味な篝火があたりを照らしているわ。$k
-MID_door_final: 巨大な扉
-MID_door_L: 扉の穴
-MID_door_R: 扉の穴
-MID_ADV_調べるエリア_torchA: 篝火
-MID_ADV_調べるエリア_torchB: 篝火
+MID_door_final: Great Door
+MID_door_L: Hole
+MID_door_R: Hole
+MID_ADV_調べるエリア_torchA: Bonfire
+MID_ADV_調べるエリア_torchB: Bonfire

@@ -25,18 +25,18 @@ MID_DNG_敵がいる: (There are enemies nearby...)
 MID_DNG_敵がいる_確認: Press onward?
 MID_DNG_移動_確認: There's a magic circle here.\nTeleport?
 MID_DNG_脱出_確認: Do you wish to\nleave the dungeon?
-MID_DNG_テーベの地下迷宮: テーベの地下迷宮
-MID_DNG_テーベの地下迷宮_２階: テーベの地下迷宮\n地下２階
-MID_DNG_テーベの地下迷宮_３階: テーベの地下迷宮\n地下３階
-MID_DNG_テーベの地下迷宮_４階: テーベの地下迷宮\n地下４階
-MID_DNG_テーベの地下迷宮_５階: テーベの地下迷宮\n地下５階
-MID_DNG_テーベの地下迷宮_６階: テーベの地下迷宮\n地下６階
-MID_DNG_テーベの地下迷宮_７階: テーベの地下迷宮\n地下７階
-MID_DNG_テーベの地下迷宮_８階: テーベの地下迷宮\n地下８階
-MID_DNG_テーベの地下迷宮_９階: テーベの地下迷宮\n地下９階
-MID_DNG_テーベの地下迷宮_１０階: テーベの地下迷宮\n地下１０階
-MID_DNG_森のほこら_看板: 「宝を求める者よ\n　力無くば去るがよい」
-MID_DNG_森のほこら_宝箱トラップ: 後ろで何か音がした…
+MID_DNG_テーベの地下迷宮: Thabes Underground Labyrinth
+MID_DNG_テーベの地下迷宮_２階: Thabes Underground Labyrinth\nB2F
+MID_DNG_テーベの地下迷宮_３階: Thabes Underground Labyrinth\nB3F
+MID_DNG_テーベの地下迷宮_４階: Thabes Underground Labyrinth\nB4F
+MID_DNG_テーベの地下迷宮_５階: Thabes Underground Labyrinth\nB5F
+MID_DNG_テーベの地下迷宮_６階: Thabes Underground Labyrinth\nB6F
+MID_DNG_テーベの地下迷宮_７階: Thabes Underground Labyrinth\nB7F
+MID_DNG_テーベの地下迷宮_８階: Thabes Underground Labyrinth\nB8F
+MID_DNG_テーベの地下迷宮_９階: Thabes Underground Labyrinth\nB9F
+MID_DNG_テーベの地下迷宮_１０階: Thabes Underground Labyrinth\nB10F
+MID_DNG_森のほこら_看板: Seeker of treasure, leave this\nplace if you lack strength.
+MID_DNG_森のほこら_宝箱トラップ: You hear a noise behind you...
 MID_DNG_恐山のほこら_ドーマ像_初回: $ZDo you hold true power?\nReveal it at once!$k
 MID_DNG_恐山のほこら_ドーマ像_二回目以降: $ZProve your strength to me.$k
 MID_DNG_恐山のほこら_ドーマ像_確認: Begin battle?
@@ -44,12 +44,12 @@ MID_DNG_恐山のほこら_ドーマ像_勝利: $ZExcellent.$k$pOpen the door ah
 MID_DNG_恐山のほこら_ドーマ像_撃破済み: $ZOpen the door ahead\nand seek yet greater power.$k
 MID_DNG_恐山のほこら_看板１: Prove your strength to the statue,\nand the gate to hell shall open.
 MID_DNG_恐山のほこら_看板２: Left: Gate of Death\nRight: Gate of Life
-MID_DNG_恐山のほこら_看板３: Left: Silver Shield\nRight: Sacred Shield\nWhich will you choose?
-MID_DNG_迷いの森_看板１: 「人を辿れば里へ」
-MID_DNG_迷いの森_看板２: 「塔を辿れば宝へ」
-MID_DNG_ドーマ神殿_看板１: 「正しき道は神の印にあり」
+MID_DNG_恐山のほこら_看板３: Left: Silver Shield\nRight: Blessed Shield\nWhich will you choose?
+MID_DNG_迷いの森_看板１: To a village,\nhome of fellow man.
+MID_DNG_迷いの森_看板２: To a tower,\nhome of riches.
+MID_DNG_ドーマ神殿_看板１: The correct path bears\nthe mark of a god.
 MID_DNG_ドーマ神殿_看板２: 「獅子の尾」
-MID_DNG_ドーマ神殿_看板３: 「宝物庫\n　リゲル王家の者以外　立ち入りを禁ず」
+MID_DNG_ドーマ神殿_看板３: Treasure Room\nFor Rigelian royalty only.
 MID_DNG_ドーマ神殿_看板４: 「大地母神の双装具を捧げよ」
 MID_DNG_戦神の試練_力不足: 汝等の力では\nこの先進む事叶わじ\n引き返すがよい
 MID_DNG_戦神の試練_クリア: 「見事なり」$k$p「試練に打ち勝ちし\n其方の力、認めようぞ」$k

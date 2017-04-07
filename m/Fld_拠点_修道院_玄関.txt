@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_修道院_玄関
+﻿MESS_ARCHIVE_Fld_拠点_修道院_玄関
 
 
 Message Name: Message
@@ -12,6 +12,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_door_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこの扉の向こうが礼拝堂よ。$k
 MID_ADV調べる_baggage_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa非常用の食料だわ。\n保存のきくものばかりね。$k
 MID_ADV調べる_mira_emblem_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waミラさまの紋章だわ。$k
-MID_ADV_調べるエリア_door: 扉
-MID_ADV_調べるエリア_baggage: 荷物
-MID_ADV_調べるエリア_mira_emblem: ミラの紋章
+MID_ADV_調べるエリア_door: Door
+MID_ADV_調べるエリア_baggage: Baggage
+MID_ADV_調べるエリア_mira_emblem: Mila's Emblem

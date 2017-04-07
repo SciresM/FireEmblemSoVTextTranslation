@@ -10,11 +10,11 @@ MID_EV_ミラのしもべ_回復後: $a$a0's army is cured of fatigue!
 MID_EV_聖なる井戸1_grow: $a$a0 water is flowing. Who should drink it?\n
 MID_EV_聖なる井戸1_exp: EXP water is flowing. Who should drink it?
 MID_EV_聖なる井戸1_live: Revival water is flowing. Who should drink it?
-MID_EV_聖なる井戸1_fine: Anti-fatigue water is flowing. Who should\ndrink it? (infinite-use)
+MID_EV_聖なる井戸1_fine: Refreshin water is flowing.\nDrink it? (infinite-use)
 MID_EV_聖なる井戸1_2: Should this unit drink it?
 MID_EV_聖なる井戸2: The sacred well has dried up...
 MID_EV_聖なる井戸_枯れている: The sacred well is drying up...
-MID_EV_聖なる井戸_grow_上昇: $a$a0's $a1 has increased!!
+MID_EV_聖なる井戸_grow_上昇: $a$a0 increased by $a1!!
 MID_EV_聖なる井戸_live_復活: $a$a0 has been revived!!
 MID_EV_聖なる井戸_fine_疲労回復: Party fatigue has been cured!!
 MID_EV_聖なる井戸_grow_不要: $a$a0 water is flowing.\nYou see no need for it now.

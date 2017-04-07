@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ノーヴァの港_桟橋
+﻿MESS_ARCHIVE_Fld_拠点_ノーヴァの港_桟橋
 
 
 Message Name: Message
@@ -18,8 +18,8 @@ MID_ADV調べる_cat_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E笑,
 MID_ADV調べる_ship_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa大きな船だわ。\nこれならソフィアにも渡れそうね。$k
 MID_ADV調べる_fishnet_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa水揚げされた魚がたくさんあるわ。\nこれから市場に並ぶのね。$k
 MID_ADV調べる_miniship_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa漁に使う小さな漁船よ。\n海は渡れそうにないわね。$k
-MID_ADV_調べるエリア_fishnet_cat: 猫
-MID_ADV_調べるエリア_cat: 猫
-MID_ADV_調べるエリア_ship: 大きな船
-MID_ADV_調べるエリア_fishnet: 水揚げされた魚
-MID_ADV_調べるエリア_miniship: 小さな船
+MID_ADV_調べるエリア_fishnet_cat: Cat
+MID_ADV_調べるエリア_cat: Cat
+MID_ADV_調べるエリア_ship: Giant Ship
+MID_ADV_調べるエリア_fishnet: Dried Up Fish
+MID_ADV_調べるエリア_miniship: Small Ship

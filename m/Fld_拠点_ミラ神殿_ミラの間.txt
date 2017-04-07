@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ミラ神殿_ミラの間
+﻿MESS_ARCHIVE_Fld_拠点_ミラ神殿_ミラの間
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E悲,|激しく戦った跡が\n至るところに残っているわ。$k
 MID_ADV調べる_mira_chair_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waあそこがミラさまがいつも\n座っていらっしゃるところね。$k
 MID_ADV調べる_floor_clash_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa床がこんなに傷んでいるわ……$k
-MID_ADV_調べるエリア_mira_chair: ミラの椅子
-MID_ADV_調べるエリア_floor_clash: 壊れた床
+MID_ADV_調べるエリア_mira_chair: Mila'S Throne
+MID_ADV_調べるエリア_floor_clash: Broken Floor

@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_リゲル村_出入り口
+﻿MESS_ARCHIVE_Fld_拠点_リゲル村_出入り口
 
 
 Message Name: Message
@@ -18,8 +18,8 @@ MID_ADV調べる_wine_fieldB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$
 MID_ADV調べる_treeA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waソフィアとは、木の形も違うのね。$k
 MID_ADV調べる_treeB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waソフィアとは、木の形も違うのね。$k
 MID_ADV調べる_treeC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waソフィアとは、木の形も違うのね。$k
-MID_ADV_調べるエリア_wine_fieldA: 葡萄畑
-MID_ADV_調べるエリア_wine_fieldB: 葡萄畑
-MID_ADV_調べるエリア_treeA: 木
-MID_ADV_調べるエリア_treeB: 木
-MID_ADV_調べるエリア_treeC: 木
+MID_ADV_調べるエリア_wine_fieldA: Vineyard
+MID_ADV_調べるエリア_wine_fieldB: Vineyard
+MID_ADV_調べるエリア_treeA: Tree
+MID_ADV_調べるエリア_treeB: Tree
+MID_ADV_調べるエリア_treeC: Tree

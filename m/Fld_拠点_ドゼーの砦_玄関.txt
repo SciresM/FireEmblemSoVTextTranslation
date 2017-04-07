@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ドゼーの砦_玄関
+﻿MESS_ARCHIVE_Fld_拠点_ドゼーの砦_玄関
 
 
 Message Name: Message
@@ -20,9 +20,9 @@ MID_ADV調べる_pictureA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa�
 MID_ADV調べる_pictureB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa価値のありそうな絵画だわ。$k
 MID_ADV調べる_pictureC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa価値のありそうな絵画だわ。$k
 MID_ADV調べる_vase_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa高そうな調度品だわ。$k
-MID_ADV_調べるエリア_carpet: 絨毯
-MID_ADV_調べるエリア_weapon: 武器
-MID_ADV_調べるエリア_pictureA: 絵画
-MID_ADV_調べるエリア_pictureB: 絵画
-MID_ADV_調べるエリア_pictureC: 絵画
-MID_ADV_調べるエリア_vase: 壺
+MID_ADV_調べるエリア_carpet: Carpet
+MID_ADV_調べるエリア_weapon: Weapons
+MID_ADV_調べるエリア_pictureA: Painting
+MID_ADV_調べるエリア_pictureB: Painting
+MID_ADV_調べるエリア_pictureC: Painting
+MID_ADV_調べるエリア_vase: Vase

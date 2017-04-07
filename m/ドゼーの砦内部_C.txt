@@ -8,14 +8,14 @@ MID_ADV_C_マチルダ: $Sbs1000|$t3$Wmクレーベ|7$w0|$Wmマチルダ|3$w0|$W
 MID_ADV_C_マチルダ_SELECT: Ask Mathilda to join you?
 MID_ADV_C_マチルダ2: $t3$Wmマチルダ|5$w0|$Wmアルム|h$w0|$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV1_MACHILDA2_00|$E特殊1,|そうか……$k$p$SvpV_SC_3_21_ADV1_MACHILDA2_01|私は戦力になれると思ったのだが\n君にも考えがあるのだろう。$k$p$SvpV_SC_3_21_ADV1_MACHILDA2_02|$E通常,|またいつでも\n声をかけてくれ。$k\n
 MID_ADV2_C_マチルダ: $t3$Wmマチルダ|5$w0|$Wmアルム|h$w0|$Wsマチルダ|$Wa$SvpV_SC_3_21_ADV2_MACHILDA_00|$E通常,|どうしたんだ？$k$p$SvpV_SC_3_21_ADV2_MACHILDA_01|私なら、いつでも同行する準備は\nできているぞ。$k
-MID_ADV_C_NAMEマチルダ: マチルダ
-MID_ADV_C_Door: 扉を開けますか？
+MID_ADV_C_NAMEマチルダ: Mathilda
+MID_ADV_C_Door: Open door?
 MID_SUB12_1_0: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|あてが外れたよ……$k
-MID_SUB12_1_確認0: 話を聞きますか？
+MID_SUB12_1_確認0: Ask for more information?
 MID_SUB12_1_1: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|私は、ドゼーさまから\nサンゴの指輪が欲しいと頼まれたんだ。$k$p苦労して『サンゴのかけら』を集め\n指輪に仕立てて持ってきたというのに$k$pまさかソフィア解放軍に\n討ち取られていようとは……$k$pこのままでは私は大赤字だ！$k$p……君、これが欲しくないかね？$k$p最高級の『サンゴのかけら』で作られた\n『サンゴの指輪』だ。$k$p君はあまり金を\n持っていそうにないから……$k$pそうだな。\n特別に銀貨30枚で譲ってあげよう。$k
-MID_SUB12_1_確認1: 『サンゴの指輪』を買いますか？
+MID_SUB12_1_確認1: Buy the Coral Ring?
 MID_SUB12_1_2: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|よし！\n商談成立だ。$k$pああ、よかった。\nでは私は家へ帰るとしよう。$k
-MID_SUB12_1_確認2: 『サンゴの指輪』を手に入れた。
+MID_SUB12_1_確認2: Received Coral Ring.
 MID_SUB12_1_3: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|フン。\nこの貧乏人が……$k
 MID_SUB12_2_1: $Z$t1$Wmでっぷり商人|5$VF隠|$w0|$Wsでっぷり商人|$Wa$VNMPID_大商人アレッシオ|君、これが欲しくないかね？$k$p最高級の『サンゴのかけら』で作られた\n『サンゴの指輪』だ。$k$p特別に銀貨30枚で売ってあげよう。$k
 MID_SUB24_1_6: $Z$t1$Wmソルジャー|5$VF隠|$w0|$Wsソルジャー|$Wa『リオン家の盾』ですか？\nいえ、私は見たことがありませんね。$k$pドゼーが略奪した宝のいくつかは\nギースに売り払われたそうですよ。$k

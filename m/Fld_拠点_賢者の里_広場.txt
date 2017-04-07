@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_賢者の里_広場
+﻿MESS_ARCHIVE_Fld_拠点_賢者の里_広場
 
 
 Message Name: Message
@@ -14,6 +14,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_houseA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこの里の建物は木でできていて\nほかの村とは雰囲気が違うわね。$k
 MID_ADV調べる_houseB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa家の屋根まで苔でおおわれているわ。$k
 MID_ADV調べる_houseC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこの霧では\n火事の心配はなさそうね。$k
-MID_ADV_調べるエリア_houseA: 民家
-MID_ADV_調べるエリア_houseB: 民家
-MID_ADV_調べるエリア_houseC: 民家
+MID_ADV_調べるエリア_houseA: Housing
+MID_ADV_調べるエリア_houseB: Housing
+MID_ADV_調べるエリア_houseC: Housing

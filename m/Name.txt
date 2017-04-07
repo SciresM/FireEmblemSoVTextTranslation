@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Name
+﻿MESS_ARCHIVE_Name
 
 
 Message Name: Message
@@ -432,12 +432,12 @@ MID_地形_浅瀬: Shallow Water
 MID_地形_回復量: $a+$a0 HP
 MID_地形_ダメージ量: $a-$a0 HP
 MID_PROLOGUE: Prologue
-MID_SEASON1: Chapter 1
-MID_SEASON2: Chapter 2
-MID_SEASON3: Chapter 3
-MID_SEASON4: Chapter 4
-MID_SEASON5: Chapter 5
-MID_EPILOGUE: Chapter 6
+MID_SEASON1: Ch. 1
+MID_SEASON2: Ch. 2
+MID_SEASON3: Ch. 3
+MID_SEASON4: Ch. 4
+MID_SEASON5: Ch. 5
+MID_EPILOGUE: Ch. 6
 MID_章タイトル_区切り文字:   
 MID_章タイトル_PROLOGUE: Alm and Celica
 MID_章タイトル_SEASON1: To Zofia!
@@ -477,16 +477,16 @@ MID_戦闘タイトル_ドルクの砦: Capture of Dolk's Fort
 MID_戦闘タイトル_ドーマの門: Invasion of Duma Gate
 MID_戦闘タイトル_ドーマの祭壇: Final Assault
 MID_バレンシア暦N年: $aValentia, Year $a0
-MID_N年: $aYear $a0
-MID_N日: $aDay $a0
+MID_N年: $a$a0,
+MID_N日: $a$a0
 MID_DATA_FORMAT_Delimiter:   
 MID_DATA_FORMAT_0: $a$a0$a3$a1$a3$a2
 MID_DATA_FORMAT_1: $a$a0$a2$a1
-MID_花の節: 花の節
-MID_鳥の節: 鳥の節
-MID_天馬の節: 天馬の節
-MID_竜の節: 竜の節
-MID_お花畑: お花畑
+MID_花の節: Florestym
+MID_鳥の節: Avistym
+MID_天馬の節: Pegastym
+MID_竜の節: Dracostym
+MID_お花畑: Flower Field
 MID_プロローグ: Graveyard
 MID_ラムの村: Ram Village
 MID_ラムの林: Ram Forest

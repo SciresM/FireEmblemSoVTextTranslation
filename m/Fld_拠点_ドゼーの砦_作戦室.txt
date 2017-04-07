@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ドゼーの砦_作戦室
+﻿MESS_ARCHIVE_Fld_拠点_ドゼーの砦_作戦室
 
 
 Message Name: Message
@@ -14,6 +14,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa高�
 MID_ADV調べる_picture_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこれはソフィア城かしら？\n価値のありそうな絵画だわ。$k
 MID_ADV調べる_bookshelfA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa大きな本棚ね。\nいろいろな本が並んでいるわ。$k
 MID_ADV調べる_bookshelfB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa政治や魔道や、物語まであるわ。\n読書家なのかしら。$k
-MID_ADV_調べるエリア_picture: 絵画
-MID_ADV_調べるエリア_bookshelfA: 本棚
-MID_ADV_調べるエリア_bookshelfB: 本棚
+MID_ADV_調べるエリア_picture: Painting
+MID_ADV_調べるエリア_bookshelfA: Bookshelf
+MID_ADV_調べるエリア_bookshelfB: Bookshelf

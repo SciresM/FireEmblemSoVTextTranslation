@@ -122,7 +122,7 @@ MID_MSG_パラメータアップ: $a$a0 increased by $a1.
 MID_MSG_パラメータダウン: $a$a0 decreased by $a1.
 MID_MSG_武器レベルアップ: $a$a0 weapon level $a2 attained.
 MID_MSG_武器レベルアップ２: $a$a1 attained $a0 weapon level $a2.
-MID_MSG_武器使用可能: $aGained the ability to use $a0.
+MID_MSG_武器使用可能: $a$a0 gained the ability to use:
 MID_MSG_魔法習得: $a$a0 learned new magic.
 MID_MSG_戦技習得: $a$a0 learned\n the skill\n$a1.
 MID_MSG_CC可能_村人: $a$a0 is able\nto promote.
@@ -177,10 +177,10 @@ MID_H_ULIST_必殺: Sort by Crit
 MID_H_ULIST_物理回避: Sort by Phys Avoid
 MID_H_ULIST_魔法回避: Sort by Magic Avoid
 MID_H_ULIST_移動: Sort by Movement
-MID_名声_加算100以上: Reputation increased!
-MID_名声_加算300以上: Reputation greatly increased!
-MID_名声_加算500以上: Reputation increased\nall across Valentia!
-MID_名声_等級アップ: $aReputation has raised from\n$a0 to $a1!
+MID_名声_加算100以上: Renown increased!
+MID_名声_加算300以上: Renown greatly increased!
+MID_名声_加算500以上: Renown increased\nall across Valentia!
+MID_名声_等級アップ: $aRenown has raised from\n$a0 to $a1!
 MID_記憶の欠片_無し: To view Memories, you\nmust acquire Memory Fragments.
 MID_ミラの歯車メニュー_NoItem: Mila's Gear didn't respond...
 MID_ミラの歯車_警告: A strange noise\ncame from Mila's Gear.

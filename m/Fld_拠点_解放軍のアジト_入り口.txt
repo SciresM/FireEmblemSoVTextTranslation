@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_解放軍のアジト_入り口
+﻿MESS_ARCHIVE_Fld_拠点_解放軍のアジト_入り口
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa暗くてひんやりしているわ。\n少し不気味ね……$k
 MID_ADV調べる_floor_CELLICA_LOOP_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa床にはたくさんの足跡があるわ。\n人が出入りしているのね。$k
 MID_ADV調べる_passage_CELLICA_LOOP_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa奥は暗くて見えないわ……\nどこまで続いているのかしら。$k
-MID_ADV_調べるエリア_floor: 床
-MID_ADV_調べるエリア_passage: 通路
+MID_ADV_調べるエリア_floor: Floor
+MID_ADV_調べるエリア_passage: Pathway

@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ソフィア城_中央ホール
+﻿MESS_ARCHIVE_Fld_拠点_ソフィア城_中央ホール
 
 
 Message Name: Message
@@ -12,5 +12,5 @@ MID_ADV調べる_empty_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waこ�
 MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa城の人たちが待ち合わせに\n使ったりもするところよ。$k
 MID_ADV調べる_door_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waあの扉は謁見の間に\nつながっているわ。$k
 MID_ADV調べる_armor_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa立派な鎧が飾られているわ。$k
-MID_ADV_調べるエリア_door: 扉
-MID_ADV_調べるエリア_armor: 鎧
+MID_ADV_調べるエリア_door: Door
+MID_ADV_調べるエリア_armor: Armor

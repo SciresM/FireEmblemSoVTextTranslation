@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_フリアの港_広場
+﻿MESS_ARCHIVE_Fld_拠点_フリアの港_広場
 
 
 Message Name: Message
@@ -14,4 +14,4 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa武�
 MID_ADV調べる_board_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa掲示板にいろんなことが書いてあるわ。$k
 MID_ADV調べる_board_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa"覚悟なきもの、迷宮に踏み込むべからず"\n"先日の戦死者十三名"……$k
 MID_ADV調べる_board_CELLICA_RANDOM_2: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa"迷宮の地下深くに潜れる腕自慢求む\n　　　　　　　　　　　　　　　フリア"$k
-MID_ADV_調べるエリア_board: 掲示板
+MID_ADV_調べるエリア_board: Bulletin

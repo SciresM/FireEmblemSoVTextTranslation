@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ソフィア城_謁見の間
+﻿MESS_ARCHIVE_Fld_拠点_ソフィア城_謁見の間
 
 
 Message Name: Message
@@ -18,6 +18,6 @@ MID_ADV調べる_wallA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waミ�
 MID_ADV調べる_wallA_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waもととなった絵は\nミラ神殿にあると聞いたわ。$k
 MID_ADV調べる_wallB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waミラさまとドーマの戦いの様子を描いた\nレリーフね。$k
 MID_ADV調べる_wallB_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waもととなった絵は\nミラ神殿にあると聞いたわ。$k
-MID_ADV_調べるエリア_kingchair: 玉座
-MID_ADV_調べるエリア_wallA: 壁のレリーフ
-MID_ADV_調べるエリア_wallB: 壁のレリーフ
+MID_ADV_調べるエリア_kingchair: Throne
+MID_ADV_調べるエリア_wallA: Relief
+MID_ADV_調べるエリア_wallB: Relief

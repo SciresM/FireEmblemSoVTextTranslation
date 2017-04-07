@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_山の村_広場
+﻿MESS_ARCHIVE_Fld_拠点_山の村_広場
 
 
 Message Name: Message
@@ -14,6 +14,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Waあ�
 MID_ADV調べる_well_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa質素な井戸だけれど、水は豊かみたいね。$k
 MID_ADV調べる_wood_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa修理用の木材かしら？\n雨ざらしになっているわ。$k
 MID_ADV調べる_clash_roof_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa屋根が壊れているわ。\n修理しないのかしら……$k
-MID_ADV_調べるエリア_well: 井戸
-MID_ADV_調べるエリア_wood: 木材
-MID_ADV_調べるエリア_clash_roof: 壊れた屋根
+MID_ADV_調べるエリア_well: Well
+MID_ADV_調べるエリア_wood: Wood
+MID_ADV_調べるエリア_clash_roof: Broken Roof

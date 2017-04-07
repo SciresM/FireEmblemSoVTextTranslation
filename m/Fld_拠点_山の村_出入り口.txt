@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_山の村_出入り口
+﻿MESS_ARCHIVE_Fld_拠点_山の村_出入り口
 
 
 Message Name: Message
@@ -14,6 +14,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa風�
 MID_ADV調べる_fenceA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa丸太と板でできた柵ね。\nあちこち壊れているみたい。$k
 MID_ADV調べる_fenceB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa丸太と板でできた柵だわ。\nあちこち壊れているみたい。$k
 MID_ADV調べる_fenceC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa丸太と板でできた柵だわ。\nあちこち壊れているみたい。$k
-MID_ADV_調べるエリア_fenceA: 柵
-MID_ADV_調べるエリア_fenceB: 柵
-MID_ADV_調べるエリア_fenceC: 柵
+MID_ADV_調べるエリア_fenceA: Fence
+MID_ADV_調べるエリア_fenceB: Fence
+MID_ADV_調べるエリア_fenceC: Fence

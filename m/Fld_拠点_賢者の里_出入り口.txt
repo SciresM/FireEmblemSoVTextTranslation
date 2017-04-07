@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_賢者の里_出入り口
+﻿MESS_ARCHIVE_Fld_拠点_賢者の里_出入り口
 
 
 Message Name: Message
@@ -16,7 +16,7 @@ MID_ADV調べる_wood_gate_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa
 MID_ADV調べる_firewood_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa朽ちた薪だわ。\n使われていないのかしら。$k
 MID_ADV調べる_stonewallA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa石積みの壁が\nふさふさした苔に覆われているわ。$k
 MID_ADV調べる_stonewallB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa石積みの壁が\nふさふさした苔に覆われているわ。$k
-MID_ADV_調べるエリア_wood_gate: 門
-MID_ADV_調べるエリア_firewood: 薪
-MID_ADV_調べるエリア_stonewallA: 石積みの壁
-MID_ADV_調べるエリア_stonewallB: 石積みの壁
+MID_ADV_調べるエリア_wood_gate: Gate
+MID_ADV_調べるエリア_firewood: Firewood
+MID_ADV_調べるエリア_stonewallA: Stone Wall
+MID_ADV_調べるエリア_stonewallB: Stone Wall

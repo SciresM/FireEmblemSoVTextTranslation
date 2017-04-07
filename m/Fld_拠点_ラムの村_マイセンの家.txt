@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_ラムの村_マイセンの家
+﻿MESS_ARCHIVE_Fld_拠点_ラムの村_マイセンの家
 
 
 Message Name: Message
@@ -22,7 +22,7 @@ MID_ADV調べる_sheep_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E�
 MID_ADV調べる_makiwari_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E特殊1,|薪を割る場所ね。$k
 MID_ADV調べる_makiwari_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E特殊1,|アルムがよく薪を割りたがって\nおじいさまに止められていたわ。$k
 MID_ADV調べる_koge_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waどうしてここは\n焦げているのかしら？$k
-MID_ADV_調べるエリア_sheep: 羊
-MID_ADV_調べるエリア_orangeTree: オレンジの木
-MID_ADV_調べるエリア_makiwari: 薪
-MID_ADV_調べるエリア_koge: 焦げた跡
+MID_ADV_調べるエリア_sheep: Sheep
+MID_ADV_調べるエリア_orangeTree: Orange Tree
+MID_ADV_調べるエリア_makiwari: Firewood
+MID_ADV_調べるエリア_koge: Burn Mark

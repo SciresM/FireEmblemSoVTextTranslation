@@ -1,4 +1,4 @@
-MESS_ARCHIVE_Fld_拠点_海賊の砦_宝物庫
+﻿MESS_ARCHIVE_Fld_拠点_海賊の砦_宝物庫
 
 
 Message Name: Message
@@ -14,6 +14,6 @@ MID_ADV調べる_empty_CELLICA_RANDOM_1: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa$E�
 MID_ADV調べる_goldA_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Waなんとか元の持ち主に\n返せないかしら……$k
 MID_ADV調べる_goldB_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa見たこともない金貨も\nまざっているわ。$k
 MID_ADV調べる_goldC_CELLICA_RANDOM_0: $Z$t0$Wmセリカ|6$Wsセリカ|$Wa勝手に持っていくわけには\nいかないわね。$k
-MID_ADV_調べるエリア_goldA: 金貨
-MID_ADV_調べるエリア_goldB: 金貨
-MID_ADV_調べるエリア_goldC: 金貨
+MID_ADV_調べるエリア_goldA: Gold Coin
+MID_ADV_調べるエリア_goldB: Gold Coin
+MID_ADV_調べるエリア_goldC: Gold Coin
